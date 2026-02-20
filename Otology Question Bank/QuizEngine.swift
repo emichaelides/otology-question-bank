@@ -1,6 +1,13 @@
 import Foundation
 import Combine
 
+// MARK: - Helpers
+
+private extension Array {
+    /// Returns the array if non-empty, otherwise nil.
+    var nonEmpty: Array? { isEmpty ? nil : self }
+}
+
 // MARK: - Persistence helpers
 
 private struct SessionPrefs: Codable {
@@ -135,7 +142,9 @@ final class QuizEngine: ObservableObject {
     }
 
     func nextQuestion() {
-        let pool = filteredQuestions.isEmpty ? questions : filteredQuestions
+        let base = filteredQuestions.isEmpty ? questions : filteredQuestions
+        let seenIDs = Set(sessionEntries.map(\.question.id))
+        let pool = base.filter { !seenIDs.contains($0.id) }.nonEmpty ?? base
         let weights = pool.map { weight(for: $0) }
         let total = weights.reduce(0, +)
         var threshold = Double.random(in: 0..<total)
