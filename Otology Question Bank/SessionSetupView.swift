@@ -108,7 +108,7 @@ struct SessionSetupView: View {
                     .foregroundStyle(count > 0 ? .green : .orange)
                 Text(count > 0 ? "\(count) questions available" : "No questions match the selected filters")
                     .font(.subheadline)
-                    .foregroundStyle(count > 0 ? .primary : .orange)
+                    .foregroundStyle(count > 0 ? Color.primary : Color.orange)
             }
         }
     }
