@@ -3,8 +3,11 @@ import Foundation
 @MainActor
 final class QuizEngine: ObservableObject {
     @Published private(set) var currentQuestion: Question
+    @Published private(set) var sessionEntries: [SessionEntry] = []
+    @Published private(set) var isSessionComplete = false
 
     let questions: [Question]
+    let sessionLength = 10
     @Published private(set) var stats: [String: QuestionStats]
 
     private static let statsKey = "questionStats"
@@ -45,6 +48,16 @@ final class QuizEngine: ObservableObject {
         }
         stats[currentQuestion.id] = entry
         persistStats()
+        sessionEntries.append(SessionEntry(question: currentQuestion, selectedIndex: index))
+        if sessionEntries.count >= sessionLength {
+            isSessionComplete = true
+        }
+    }
+
+    func startNewSession() {
+        sessionEntries = []
+        isSessionComplete = false
+        nextQuestion()
     }
 
     func nextQuestion() {

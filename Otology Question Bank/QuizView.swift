@@ -8,10 +8,12 @@ private enum AnswerState {
 struct QuizView: View {
     @EnvironmentObject private var engine: QuizEngine
     @State private var answerState: AnswerState = .unanswered
+    @State private var showSummary = false
 
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {
+                sessionProgressHeader
                 questionCard
                 choicesSection
                 if case .answered = answerState {
@@ -23,9 +25,42 @@ struct QuizView: View {
         }
         .background(Color(.systemGroupedBackground))
         .animation(.easeInOut(duration: 0.25), value: isAnswered)
+        .fullScreenCover(isPresented: $showSummary) {
+            SessionSummaryView(entries: engine.sessionEntries) {
+                showSummary = false
+                engine.startNewSession()
+                answerState = .unanswered
+            }
+        }
+        .onChange(of: engine.isSessionComplete) { _, complete in
+            if complete { showSummary = true }
+        }
     }
 
     // MARK: - Subviews
+
+    private var sessionProgressHeader: some View {
+        let answered = engine.sessionEntries.count
+        let total = engine.sessionLength
+        let progress = Double(answered) / Double(total)
+        return VStack(spacing: 6) {
+            HStack {
+                Text("Question \(answered + 1) of \(total)")
+                    .font(.caption)
+                    .fontWeight(.semibold)
+                    .foregroundStyle(.secondary)
+                Spacer()
+                let correct = engine.sessionEntries.filter(\.wasCorrect).count
+                if answered > 0 {
+                    Text("\(correct)/\(answered) correct")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+            }
+            ProgressView(value: progress)
+                .tint(.accentColor)
+        }
+    }
 
     private var questionCard: some View {
         VStack(alignment: .leading, spacing: 8) {
@@ -92,11 +127,12 @@ struct QuizView: View {
     }
 
     private var nextButton: some View {
-        Button {
+        let isLast = engine.sessionEntries.count == engine.sessionLength - 1
+        return Button {
             answerState = .unanswered
             engine.nextQuestion()
         } label: {
-            Text("Next Question")
+            Text(isLast ? "Finish Session" : "Next Question")
                 .font(.headline)
                 .frame(maxWidth: .infinity)
                 .padding()

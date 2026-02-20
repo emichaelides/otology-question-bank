@@ -23,3 +23,9 @@ struct QuestionStats: Codable {
     var attempts: Int = 0
     var correct: Int = 0
 }
+
+struct SessionEntry {
+    let question: Question
+    let selectedIndex: Int
+    var wasCorrect: Bool { selectedIndex == question.correctIndex }
+}
