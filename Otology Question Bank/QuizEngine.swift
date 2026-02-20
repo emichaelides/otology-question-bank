@@ -4,8 +4,8 @@ import Foundation
 final class QuizEngine: ObservableObject {
     @Published private(set) var currentQuestion: Question
 
-    private let questions: [Question]
-    private var stats: [String: QuestionStats]
+    let questions: [Question]
+    @Published private(set) var stats: [String: QuestionStats]
 
     private static let statsKey = "questionStats"
 
@@ -64,6 +64,15 @@ final class QuizEngine: ObservableObject {
     private func weight(for question: Question) -> Double {
         let entry = stats[question.id] ?? QuestionStats()
         return max(1.0, Double(entry.attempts - entry.correct) + 1.0)
+    }
+
+    func resetStats() {
+        stats = [:]
+        UserDefaults.standard.removeObject(forKey: Self.statsKey)
+    }
+
+    func statsFor(_ id: String) -> QuestionStats {
+        stats[id] ?? QuestionStats()
     }
 
     private func persistStats() {

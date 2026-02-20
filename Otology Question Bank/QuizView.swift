@@ -6,7 +6,7 @@ private enum AnswerState {
 }
 
 struct QuizView: View {
-    @StateObject private var engine = QuizEngine()
+    @EnvironmentObject private var engine: QuizEngine
     @State private var answerState: AnswerState = .unanswered
 
     var body: some View {
@@ -190,4 +190,5 @@ struct ChoiceButton: View {
 
 #Preview {
     QuizView()
+        .environmentObject(QuizEngine())
 }

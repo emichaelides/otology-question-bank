@@ -8,8 +8,18 @@
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject private var engine = QuizEngine()
+
     var body: some View {
-        QuizView()
+        TabView {
+            QuizView()
+                .tabItem { Label("Quiz", systemImage: "questionmark.circle.fill") }
+                .environmentObject(engine)
+
+            StatsView()
+                .tabItem { Label("Progress", systemImage: "chart.bar.fill") }
+                .environmentObject(engine)
+        }
     }
 }
 
