@@ -68,9 +68,6 @@ struct QuizView: View {
                     }
                 }
             }
-            .onChange(of: engine.isSessionComplete) { _, complete in
-                if complete { showSummary = true }
-            }
         }
     }
 
@@ -164,10 +161,14 @@ struct QuizView: View {
     }
 
     private var nextButton: some View {
-        let isLast = engine.sessionEntries.count == engine.sessionLength - 1
+        let isLast = engine.sessionEntries.count >= engine.sessionLength
         return Button {
-            answerState = .unanswered
-            engine.nextQuestion()
+            if isLast {
+                showSummary = true
+            } else {
+                answerState = .unanswered
+                engine.nextQuestion()
+            }
         } label: {
             Text(isLast ? "Finish Session" : "Next Question")
                 .font(.headline)
