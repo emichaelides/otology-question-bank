@@ -1,0 +1,460 @@
+//
+//  mandates.swift
+//  Otology Question Bank
+//
+//  Created by Elias Michaelides1 on 2/19/26.
+//
+
+
+[
+  {
+    "id": "OTO-ANAT-001",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "easy",
+    "question": "The tympanic membrane is divided into two parts. What is the name of the smaller, superior portion?",
+    "choices": [
+      "Pars tensa",
+      "Pars flaccida",
+      "Annulus fibrosus",
+      "Shrapnell's membrane"
+    ],
+    "correctIndex": 1,
+    "explanation": "The pars flaccida (also called Shrapnell's membrane) is the smaller, superior portion of the tympanic membrane located above the lateral process of the malleus. It lacks the fibrous middle layer present in the pars tensa and is the most common site of retraction pockets and acquired cholesteatoma formation. The pars tensa makes up the larger inferior portion and is supported by the annulus fibrosus.\n\nReference: Cummings Otolaryngology: Head & Neck Surgery, 7th ed., Chapter 133 — Anatomy of the Ear."
+  },
+  {
+    "id": "OTO-ANAT-002",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "easy",
+    "question": "Which ossicle is directly attached to the tympanic membrane?",
+    "choices": [
+      "Incus",
+      "Stapes",
+      "Malleus",
+      "Lenticular process"
+    ],
+    "correctIndex": 2,
+    "explanation": "The malleus is the most lateral of the three ossicles and is directly embedded in the tympanic membrane via its manubrium (handle). The umbo marks the tip of the manubrium at the most depressed point of the tympanic membrane. Sound vibrations are transmitted from the TM → malleus → incus → stapes → oval window.\n\nReference: Cummings Otolaryngology: Head & Neck Surgery, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-ANAT-003",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "easy",
+    "question": "What is the name of the nerve that provides sensory innervation to the external auditory canal and lateral surface of the tympanic membrane?",
+    "choices": [
+      "Greater auricular nerve",
+      "Auriculotemporal nerve",
+      "Arnold's nerve (auricular branch of CN X)",
+      "Chorda tympani"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arnold's nerve, the auricular branch of the vagus nerve (CN X), provides sensory innervation to the posterior and inferior external auditory canal and the adjacent tympanic membrane. Stimulation of this nerve during ear examination or cerumen removal can trigger a cough reflex (Arnold's reflex) or even vasovagal responses. This is why patients sometimes cough when having their ears cleaned.\n\nReference: Bailey's Head & Neck Surgery: Otolaryngology, 5th ed., Chapter 130 — Anatomy of the Temporal Bone."
+  },
+  {
+    "id": "OTO-ANAT-004",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "easy",
+    "question": "The eustachian tube connects the middle ear to which structure?",
+    "choices": [
+      "Oropharynx",
+      "Nasopharynx",
+      "Hypopharynx",
+      "Mastoid antrum"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Eustachian tube (auditory tube) connects the middle ear (tympanic cavity) to the nasopharynx. Its primary functions are pressure equalization, mucociliary clearance of the middle ear, and protection against nasopharyngeal secretions. In children, the tube is shorter, more horizontal, and more compliant than in adults, predisposing them to otitis media. The tensor veli palatini muscle, innervated by CN V3, is primarily responsible for active tubal opening.\n\nReference: AAO-HNS Clinical Practice Guideline: Otitis Media with Effusion (2016); Cummings Otolaryngology, 7th ed., Chapter 134."
+  },
+  {
+    "id": "OTO-ANAT-005",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "easy",
+    "question": "The stapedius muscle is innervated by which cranial nerve?",
+    "choices": [
+      "CN V (trigeminal)",
+      "CN VII (facial)",
+      "CN IX (glossopharyngeal)",
+      "CN X (vagus)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The stapedius muscle is innervated by a branch of the facial nerve (CN VII). It is the smallest skeletal muscle in the human body and contracts reflexively in response to loud sounds (the acoustic reflex), stiffening the ossicular chain to protect the inner ear from noise-induced damage. The tensor tympani, by contrast, is innervated by the medial pterygoid branch of CN V3. Absence of the stapedial reflex on impedance audiometry can indicate a facial nerve lesion proximal to the stapedius branch.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133; Katz J, Handbook of Clinical Audiology, 7th ed."
+  },
+  {
+    "id": "OTO-ANAT-006",
+    "category": "Anatomy & Embryology",
+    "type": "embryology",
+    "difficulty": "easy",
+    "question": "The auricle (pinna) develops from which embryological structure?",
+    "choices": [
+      "First and second pharyngeal arches only",
+      "Second and third pharyngeal arches only",
+      "First pharyngeal arch only",
+      "Neural crest cells exclusively"
+    ],
+    "correctIndex": 0,
+    "explanation": "The auricle develops from six mesenchymal proliferations called the hillocks of His, which arise from the first pharyngeal arch (hillocks 1–3: tragus, helical crus, helix) and the second pharyngeal arch (hillocks 4–6: antihelix, antitragus, lobule/lower helix). This dual origin explains why auricular anomalies are often associated with first and second arch syndromes such as hemifacial microsomia and Treacher Collins syndrome.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 186 — Embryology of the Ear; Bailey's Head & Neck Surgery, 5th ed., Chapter 189."
+  },
+  {
+    "id": "OTO-ANAT-007",
+    "category": "Anatomy & Embryology",
+    "type": "embryology",
+    "difficulty": "easy",
+    "question": "The inner ear (cochlea and semicircular canals) derives from which embryological structure?",
+    "choices": [
+      "First pharyngeal pouch",
+      "Otic placode / otocyst",
+      "Second pharyngeal cleft",
+      "Neural crest"
+    ],
+    "correctIndex": 1,
+    "explanation": "The inner ear derives entirely from the otic placode, a thickening of surface ectoderm adjacent to the rhombencephalon that invaginates to form the otocyst (otic vesicle) around gestational week 4. The otocyst then undergoes complex morphogenesis to form the membranous labyrinth, including the cochlear duct, utricle, saccule, and semicircular ducts. The bony labyrinth forms from surrounding mesenchyme. This is relevant to understanding congenital sensorineural hearing loss etiologies.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 186; Jackler RK, Luxford WM, House WF. 'Congenital malformations of the inner ear.' Laryngoscope. 1987."
+  },
+  {
+    "id": "OTO-ANAT-008",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "Which wall of the middle ear contains the oval window, round window, and the prominence of the facial nerve canal?",
+    "choices": [
+      "Tegmental wall (roof)",
+      "Mastoid wall (posterior)",
+      "Labyrinthine wall (medial)",
+      "Jugular wall (floor)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The labyrinthine (medial) wall of the middle ear contains the most surgically important structures: the oval window (fenestra vestibuli) where the stapes footplate inserts, the round window (fenestra cochleae) covered by the secondary tympanic membrane, the promontory (basal turn of the cochlea), and the facial nerve canal (fallopian canal) in its tympanic (horizontal) segment. The prominence of the lateral semicircular canal lies just above the facial nerve. Knowledge of this wall is essential for stapedectomy and cochlear implant surgery.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133; Bailey's Head & Neck Surgery, 5th ed., Chapter 130."
+  },
+  {
+    "id": "OTO-ANAT-009",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "The chorda tympani nerve traverses the middle ear between which two ossicles?",
+    "choices": [
+      "Malleus head and incus body",
+      "Stapes and incus long process",
+      "Malleus handle and stapes head",
+      "Incus long process and malleus neck"
+    ],
+    "correctIndex": 3,
+    "explanation": "The chorda tympani, a branch of CN VII carrying taste from the anterior two-thirds of the tongue and parasympathetic innervation to the submandibular and sublingual glands, enters the middle ear posteriorly through the iter chordae posterius and traverses medial to the malleus neck and lateral to the incus long process. It exits anteriorly through the iter chordae anterius. It must be identified and carefully preserved (or deliberately sacrificed) during tympanoplasty, mastoidectomy, and stapedectomy.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133; Bailey's Head & Neck Surgery, 5th ed., Chapter 130."
+  },
+  {
+    "id": "OTO-ANAT-010",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "What is the name of the thin bony plate separating the epitympanum from the middle cranial fossa?",
+    "choices": [
+      "Tegmen tympani",
+      "Tegmen mastoideum",
+      "Lamina cribrosa",
+      "Sheath of Schwann"
+    ],
+    "correctIndex": 0,
+    "explanation": "The tegmen tympani is the thin bony roof of the middle ear (tympanic cavity) that separates it from the middle cranial fossa and temporal lobe dura. It is continuous posteriorly with the tegmen mastoideum overlying the mastoid air cells. Dehiscences in the tegmen are not uncommon and can allow cholesteatoma, infection, or encephaloceles to extend intracranially. High-resolution CT of the temporal bone is the key imaging modality to assess tegmen integrity.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133; Juliano AF et al., 'CT and MR imaging of the otic capsule,' Neuroimaging Clin N Am, 2019."
+  },
+  {
+    "id": "OTO-ANAT-011",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "The cochlea makes approximately how many turns from base to apex in humans?",
+    "choices": [
+      "1.5 turns",
+      "2.0 turns",
+      "2.5 turns",
+      "3.0 turns"
+    ],
+    "correctIndex": 2,
+    "explanation": "The human cochlea makes approximately 2.5 turns (about 35 mm in length when uncoiled). The base encodes high-frequency sounds (up to ~20,000 Hz) and the apex encodes low-frequency sounds (~20 Hz), a property known as tonotopic organization described by Georg von Békésy. The cochlea is divided into three scalae: scala vestibuli (perilymph), scala media (endolymph, bounded by Reissner's membrane and the basilar membrane), and scala tympani (perilymph). Knowledge of cochlear anatomy is fundamental to cochlear implant electrode insertion.\n\nReference: von Békésy G. Experiments in Hearing. McGraw-Hill, 1960; Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-ANAT-012",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "Which segment of the facial nerve is most commonly injured during mastoid surgery?",
+    "choices": [
+      "Meatal (intracanalicular) segment",
+      "Labyrinthine segment",
+      "Tympanic (horizontal) segment",
+      "Mastoid (vertical) segment"
+    ],
+    "correctIndex": 3,
+    "explanation": "The mastoid (vertical or descending) segment of the facial nerve is the most commonly injured segment during mastoidectomy, particularly in the setting of chronic ear disease, prior surgery, or anatomic variants. It runs from the second genu (posterior to the pyramidal eminence) to the stylomastoid foramen. The nerve is at greatest risk when the surgeon drills medial to the digastric ridge or posterior to the posterior canal wall. The tympanic segment is also at high risk during ossiculoplasty and stapedectomy due to frequent dehiscence of the fallopian canal.\n\nReference: Green JD et al., 'Iatrogenic facial nerve injury during otologic surgery.' Laryngoscope. 1994; Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-ANAT-013",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "The endolymphatic sac is located in which anatomical space?",
+    "choices": [
+      "Internal auditory canal",
+      "Posterior cranial fossa between the layers of the dura mater",
+      "Epidural space of the posterior fossa",
+      "Petrous apex air cells"
+    ],
+    "correctIndex": 1,
+    "explanation": "The endolymphatic sac is an epithelium-lined structure that lies in the posterior cranial fossa between the two layers of the dura mater (in the epidural space lateral to the sigmoid sinus). It is the terminal expansion of the endolymphatic duct, which runs through the vestibular aqueduct. The endolymphatic sac is thought to regulate endolymph volume and composition; its dysfunction is central to the pathophysiology of Ménière's disease. Endolymphatic sac decompression surgery targets this structure.\n\nReference: Gibson WPR, 'The role of the endolymphatic sac in the pathophysiology of Meniere's disease.' Otolaryngol Clin North Am. 2010; Cummings Otolaryngology, 7th ed., Chapter 164."
+  },
+  {
+    "id": "OTO-ANAT-014",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "The internal auditory canal (IAC) contains all of the following structures EXCEPT:",
+    "choices": [
+      "Facial nerve (CN VII)",
+      "Cochlear nerve",
+      "Superior and inferior vestibular nerves",
+      "Glossopharyngeal nerve (CN IX)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The internal auditory canal contains four neural structures separated by the transverse (falciform) crest and the vertical (Bill's bar) crest: (1) facial nerve (anterosuperior), (2) cochlear nerve (anteroinferior), (3) superior vestibular nerve (posterosuperior), and (4) inferior vestibular nerve (posteroinferior). CN IX (glossopharyngeal) does not travel through the IAC; it exits the skull via the jugular foramen. The labyrinthine artery (a branch of the AICA) also runs in the IAC. This anatomy is critical for translabyrinthine and retrosigmoid acoustic neuroma surgery.\n\nReference: Jackler RK. Atlas of Neurotology and Skull Base Surgery. Mosby, 1996; Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-ANAT-015",
+    "category": "Anatomy & Embryology",
+    "type": "embryology",
+    "difficulty": "medium",
+    "question": "The middle ear cavity and eustachian tube are derived from which embryological structure?",
+    "choices": [
+      "First pharyngeal cleft",
+      "Second pharyngeal arch",
+      "First pharyngeal pouch",
+      "Otic placode"
+    ],
+    "correctIndex": 2,
+    "explanation": "The middle ear cavity (tympanic cavity) and eustachian tube are derived from the first pharyngeal pouch (endoderm). The first pharyngeal pouch expands laterally to form the tubotympanic recess, which becomes the Eustachian tube proximally and the middle ear cavity distally. Concurrently, the first pharyngeal cleft (ectoderm) forms the external auditory canal. The tympanic membrane forms at the junction where these two structures meet, explaining its three-layer composition: ectoderm (lateral), endoderm (medial), and intervening mesenchyme (fibrous middle layer).\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 186; Sadler TW. Langman's Medical Embryology, 14th ed."
+  },
+  {
+    "id": "OTO-ANAT-016",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "Which structure forms the posterior boundary of the sinus tympani?",
+    "choices": [
+      "Round window niche",
+      "Pyramidal eminence",
+      "Posterior semicircular canal",
+      "Jugular bulb"
+    ],
+    "correctIndex": 2,
+    "explanation": "The sinus tympani is a posterior recess of the middle ear medial to the facial nerve. Its posterior boundary is formed by the posterior semicircular canal. This recess is a critical surgical challenge because it is hidden behind the facial nerve and is a common site for cholesteatoma to hide, leading to residual disease. It can be visualized during canal-wall-down mastoidectomy but is difficult to access in canal-wall-up procedures. Angled endoscopes (30° and 45°) have improved visualization of this area significantly.\n\nReference: Marchioni D et al. 'Endoscopic anatomy of the middle ear.' Indian J Otolaryngol. 2011; Cummings Otolaryngology, 7th ed., Chapter 141."
+  },
+  {
+    "id": "OTO-ANAT-017",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "hard",
+    "question": "The ossicular chain has a transformer ratio that amplifies sound pressure from the tympanic membrane to the oval window. What is the approximate pressure gain provided by the area ratio alone (TM area to stapes footplate area)?",
+    "choices": [
+      "~3:1",
+      "~17:1",
+      "~55:1",
+      "~100:1"
+    ],
+    "correctIndex": 1,
+    "explanation": "The tympanic membrane has an effective vibratory area of approximately 55 mm², while the stapes footplate area is approximately 3.2 mm², yielding an area ratio of roughly 17:1. This area ratio alone accounts for a pressure gain of approximately 25 dB. An additional 2–3 dB is contributed by the lever action of the ossicular chain (malleus-to-incus lever ratio ~1.3:1). The total transformer ratio of the middle ear is approximately 25–30 dB, compensating for the impedance mismatch between air (low impedance) and cochlear fluid (high impedance). Without this transformer mechanism, ~99.9% of airborne sound energy would be reflected at the air-fluid interface.\n\nReference: Rosowski JJ. 'The middle and external ears of terrestrial vertebrates as mechanical and acoustic transducers.' Chapter in Bioacoustics. 1994; Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-ANAT-018",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "hard",
+    "question": "The facial nerve exits the stylomastoid foramen and immediately enters which structure before branching into its terminal divisions?",
+    "choices": [
+      "Submandibular gland",
+      "Parotid gland",
+      "Masseter muscle",
+      "Sternocleidomastoid muscle"
+    ],
+    "correctIndex": 1,
+    "explanation": "After exiting the stylomastoid foramen, the facial nerve (CN VII) immediately enters the parotid gland, where it divides into its two main trunks (temporofacial and cervicofacial) at the pes anserinus (goose's foot). It then fans out into five terminal branches: temporal, zygomatic, buccal, marginal mandibular, and cervical. The tragal pointer (cartilage of the tragus) and the tympanomastoid suture are reliable intraoperative landmarks that point toward the stylomastoid foramen and the main trunk of the facial nerve, approximately 1 cm deep and inferior to the tragal pointer.\n\nReference: Davis RA et al. 'Surgical anatomy of the facial nerve and parotid gland.' Surg Gynecol Obstet. 1956; Cummings Otolaryngology, 7th ed., Chapter 170."
+  },
+  {
+    "id": "OTO-ANAT-019",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "hard",
+    "question": "Bill's bar (vertical crest) in the internal auditory canal separates which two nerves?",
+    "choices": [
+      "Facial nerve from the cochlear nerve",
+      "Superior vestibular nerve from the inferior vestibular nerve",
+      "Facial nerve from the superior vestibular nerve",
+      "Cochlear nerve from the inferior vestibular nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bill's bar (the vertical or sagittal crest) is the vertical bony ridge at the fundus (lateral end) of the internal auditory canal that separates the facial nerve (anterosuperior quadrant) from the superior vestibular nerve (posterosuperior quadrant). The transverse (horizontal or falciform) crest separates the superior compartment (facial + superior vestibular nerves) from the inferior compartment (cochlear + inferior vestibular nerves). Bill's bar was named after William F. House, who described it as a key landmark during translabyrinthine surgery for acoustic neuromas. Identifying Bill's bar is critical to avoiding inadvertent facial nerve injury during IAC dissection.\n\nReference: House WF. 'Surgical exposure of the internal auditory canal and its contents through the middle cranial fossa.' Laryngoscope. 1961; Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-ANAT-020",
+    "category": "Anatomy & Embryology",
+    "type": "surgical",
+    "difficulty": "hard",
+    "question": "During a translabyrinthine approach to the internal auditory canal, which semicircular canal is removed first to identify the common crus?",
+    "choices": [
+      "Lateral (horizontal) semicircular canal",
+      "Superior (anterior) semicircular canal",
+      "Posterior semicircular canal",
+      "All three are removed simultaneously"
+    ],
+    "correctIndex": 0,
+    "explanation": "During the translabyrinthine approach, the lateral (horizontal) semicircular canal is typically identified and removed first as it is the most easily identified landmark at the beginning of the labyrinthectomy. The superior and posterior semicircular canals are then skeletonized and removed to expose their common crus, which merges into the vestibule. The vestibule is then opened to expose the fundus of the IAC. The entire labyrinth is sacrificed, resulting in complete ipsilateral sensorineural hearing loss, making this approach appropriate only when hearing preservation is not a goal (as in most acoustic neuromas). The facial nerve is protected throughout by maintaining the bone over its labyrinthine segment until the IAC is fully skeletonized.\n\nReference: Brackmann DE, Arriaga MA. 'Translabyrinthine approach.' Chapter in Otologic Surgery, 4th ed., Elsevier, 2019; Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-ANAT-021",
+    "category": "Anatomy & Embryology",
+    "type": "embryology",
+    "difficulty": "hard",
+    "question": "Mondini dysplasia is characterized by which cochlear abnormality?",
+    "choices": [
+      "Complete absence of the cochlea",
+      "A cochlea with only 1.5 turns and a cystic apex",
+      "Dilated vestibular aqueduct only, with a normal cochlea",
+      "A normal cochlea with absent semicircular canals"
+    ],
+    "correctIndex": 1,
+    "explanation": "Classic Mondini dysplasia (Mondini malformation) describes a cochlea with only 1.5 turns instead of the normal 2.5, with incomplete partition of the apical turn resulting in a cystic or confluent apex. It is often associated with an enlarged vestibular aqueduct and dilated endolymphatic duct and sac. Mondini described this in 1791. The malformation results from arrested development of the cochlea around the 7th week of gestation. It is associated with sensorineural hearing loss of variable severity and is a known risk factor for perilymph gusher during cochlear implant surgery and stapedectomy. Genetic associations include SLC26A4 (Pendrin) mutations.\n\nReference: Mondini C. 'Anatomia surdi nati sectio.' Bononiensi Scientiarum et Artium Commentarii. 1791; Jackler RK et al. 'Congenital malformations of the inner ear.' Laryngoscope. 1987; Cummings Otolaryngology, 7th ed., Chapter 186."
+  },
+  {
+    "id": "OTO-ANAT-022",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "hard",
+    "question": "The singular nerve (posterior ampullary nerve) is of surgical importance in which procedure?",
+    "choices": [
+      "Cochlear implantation",
+      "Singular neurectomy for benign paroxysmal positional vertigo",
+      "Endolymphatic sac decompression",
+      "Stapedectomy"
+    ],
+    "correctIndex": 1,
+    "explanation": "The singular nerve (posterior ampullary nerve) innervates the ampulla of the posterior semicircular canal, which contains the cupula responsible for detecting the movement of dislodged otoconia in benign paroxysmal positional vertigo (BPPV). Singular neurectomy — surgical section of this nerve through the round window niche — was historically used as a definitive treatment for refractory posterior canal BPPV. The procedure was developed by Richard Gacek and requires identifying a small bony canal just inferior and posterior to the round window. It has largely been replaced by canalith repositioning maneuvers (Epley maneuver) and posterior canal occlusion, but remains important anatomically.\n\nReference: Gacek RR. 'Singular neurectomy update.' Ann Otol Rhinol Laryngol. 1982; Cummings Otolaryngology, 7th ed., Chapter 164."
+  },
+  {
+    "id": "OTO-ANAT-023",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "hard",
+    "question": "A high-riding jugular bulb that extends above the floor of the middle ear is clinically significant for all of the following reasons EXCEPT:",
+    "choices": [
+      "It may be visible through the tympanic membrane as a blue-red mass",
+      "It significantly increases the risk of dehiscence into the middle ear",
+      "It can be mistaken for a middle ear effusion",
+      "It precludes cochlear implantation on the ipsilateral side"
+    ],
+    "correctIndex": 3,
+    "explanation": "A high-riding or dehiscent jugular bulb is an anatomic variant in which the jugular bulb projects superiorly, sometimes above the floor of the hypotympanum and into the middle ear space. It can present as a pulsatile blue-red mass behind an intact TM, be mistaken for effusion or a vascular tumor, and significantly increases the bleeding risk during myringotomy, tympanotomy, or cochlear implant surgery. However, a high jugular bulb does NOT preclude cochlear implantation on that side — surgeons simply plan the approach accordingly and may use an alternative trajectory. Preoperative high-resolution CT imaging always assesses jugular bulb position before middle ear or mastoid surgery.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133; Roland PS et al. 'Cochlear implant electrode insertion: the round window revisited.' Laryngoscope. 2007."
+  },
+  {
+    "id": "OTO-ANAT-024",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "hard",
+    "question": "The oval window is oriented in which plane relative to the cochlea, and the stapes footplate transmits force in which direction?",
+    "choices": [
+      "Horizontal plane; force directed inferiorly toward the round window",
+      "Vertical (sagittal) plane; force directed medially into the vestibule and scala vestibuli",
+      "Oblique plane; force directed superiorly toward the tegmen",
+      "Coronal plane; force directed posteriorly toward the posterior fossa"
+    ],
+    "correctIndex": 1,
+    "explanation": "The oval window is oriented in a vertical (near-sagittal) plane on the medial wall of the middle ear. The stapes footplate articulates with the oval window via the annular ligament and transmits sound-induced pressure waves medially into the perilymph of the vestibule and scala vestibuli. This sets up a traveling wave along the basilar membrane from base to apex. The round window, covered by the secondary tympanic membrane, acts as a pressure-release valve, moving out of phase with the oval window. Understanding this geometry is critical during stapedectomy — the prosthesis must be the correct length (typically 0.25 mm longer than the distance from the incus long process to the footplate) to avoid perilymph gusher or sensorineural hearing loss.\n\nReference: Rosowski JJ. 'Outer and middle ears.' Chapter in The Cochlea, Springer, 1996; Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-ANAT-025",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "hard",
+    "question": "Which structure forms the lateral wall of the cochlear duct (scala media) and is responsible for generating the endocochlear potential?",
+    "choices": [
+      "Basilar membrane",
+      "Reissner's membrane",
+      "Stria vascularis",
+      "Spiral ligament"
+    ],
+    "correctIndex": 2,
+    "explanation": "The stria vascularis lines the lateral wall of the scala media (cochlear duct) and is the metabolically active, highly vascularized epithelium responsible for generating and maintaining the endocochlear potential (EP) of approximately +80 to +100 mV. This positive EP, combined with the negative intracellular potential of hair cells (~-70 mV), creates a driving force of ~150 mV that powers mechanotransduction through MET channels at the hair cell stereocilia tips. The stria vascularis maintains the high potassium concentration of endolymph (~150 mEq/L K+). Dysfunction of the stria vascularis is a primary mechanism of age-related hearing loss (presbycusis) and ototoxic drug damage (e.g., loop diuretics). Reissner's membrane forms the roof of the scala media and separates it from the scala vestibuli.\n\nReference: Wangemann P. 'K+ cycling and the endocochlear potential.' Hearing Research. 2002; Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-ANAT-026",
+    "category": "Anatomy & Embryology",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "A patient undergoing parotidectomy has the facial nerve identified at the stylomastoid foramen. The surgeon uses a nerve stimulator and notes the threshold current needed to stimulate the nerve is much higher than expected. Which intraoperative factor is most likely responsible?",
+    "choices": [
+      "The patient is under deep neuromuscular blockade",
+      "The nerve has been transected proximally",
+      "The stimulator probe tip is wet with blood or irrigation fluid",
+      "Bipolar cautery has been used near the nerve recently"
+    ],
+    "correctIndex": 0,
+    "explanation": "The most common and important reason for an elevated stimulation threshold during facial nerve monitoring is residual neuromuscular blockade (NMB). Muscle relaxants used during general anesthesia prevent the facial musculature from responding to nerve stimulation, giving falsely high thresholds and potentially leading the surgeon to believe the nerve is intact when stimulating non-neural tissue. Standard protocol mandates confirming with the anesthesiologist that NMB has fully reversed before relying on intraoperative facial nerve monitoring. The train-of-four (TOF) ratio should be ≥0.9. While a wet probe tip can shunt current (also relevant), deep NMB is the most critical and most frequently tested clinical cause of this scenario.\n\nReference: Dulguerov P et al. 'Parotid and submandibular gland neoplasms.' Medicine, 1999; Leonetti JP et al. 'Neuromuscular paralysis and the facial nerve monitor.' Otolaryngol Head Neck Surg. 1991."
+  },
+  {
+    "id": "OTO-ANAT-027",
+    "category": "Anatomy & Embryology",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "During cochlear implant surgery, the surgeon encounters a profuse gush of clear fluid upon cochleostomy. Which anatomical variant is the most likely explanation?",
+    "choices": [
+      "Inadvertent entry into the scala vestibuli",
+      "Aberrant internal carotid artery",
+      "X-linked deafness with enlarged cochlear aqueduct (perilymph gusher)",
+      "Injury to the labyrinthine artery"
+    ],
+    "correctIndex": 2,
+    "explanation": "A perilymph gusher during cochleostomy is classically associated with X-linked sensorineural hearing loss (DFNX2), caused by mutations in the POU3F4 gene. The underlying anatomical defect is an abnormally wide communication between the subarachnoid space and the cochlea, often via a dilated cochlear aqueduct or an abnormal internal auditory canal modiolus defect, resulting in high-pressure CSF/perilymph communication. Pre-operative CT scanning typically reveals a bulbous IAC with a deficient modiolus, allowing anticipation of this complication. Management includes packing around the electrode, keeping the patient's head elevated, and occasionally lumbar drainage. Failure to recognize this preoperatively can result in electrode displacement and hearing outcomes that are worse than expected.\n\nReference: Phelps PD et al. 'X-linked deafness, stapes gushers and a distinctive defect of the inner ear.' Neuroradiology. 1991; Cummings Otolaryngology, 7th ed., Chapter 191; Otology & Neurotology, multiple case series."
+  },
+  {
+    "id": "OTO-ANAT-028",
+    "category": "Anatomy & Embryology",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "A patient presents with pulsatile tinnitus and conductive hearing loss. Otoscopy reveals a reddish pulsatile mass behind an intact tympanic membrane in the inferior mesotympanum. Which anatomical structure is most likely involved?",
+    "choices": [
+      "Aberrant internal carotid artery",
+      "Glomus tympanicum tumor",
+      "High-riding jugular bulb",
+      "Cholesterol granuloma"
+    ],
+    "correctIndex": 1,
+    "explanation": "A glomus tympanicum is a paraganglioma arising from the Jacobson nerve (tympanic branch of CN IX) on the cochlear promontory. It is the most common benign tumor of the middle ear and presents classically with pulsatile tinnitus and conductive hearing loss. On otoscopy it appears as a reddish-pink pulsatile mass behind an intact TM, typically confined to the inferior mesotympanum over the promontory. It turns white with pressure on the TM (Brown's sign positive). CT shows a soft tissue mass on the promontory without bony erosion in early lesions. It is distinguished from an aberrant ICA (which tracks along the medial wall from anteroinferior to posterior) and a high jugular bulb (which appears in the hypotympanum/floor) by location and CT characteristics.\n\nReference: Moe KS et al. 'Paragangliomas of the head and neck.' Arch Otolaryngol Head Neck Surg. 2001; AAO-HNS position statement on paragangliomas; Cummings Otolaryngology, 7th ed., Chapter 177."
+  },
+  {
+    "id": "OTO-ANAT-029",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "easy",
+    "question": "Which landmark on the lateral surface of the skull is used to identify the mastoid antrum during cortical mastoidectomy?",
+    "choices": [
+      "MacEwen's triangle (suprameatal triangle)",
+      "Henle's spine",
+      "Digastric ridge",
+      "Sinodural angle"
+    ],
+    "correctIndex": 0,
+    "explanation": "MacEwen's triangle (suprameatal triangle) is the surface landmark used to identify the mastoid antrum during cortical (simple) mastoidectomy. It is bounded by the posterior root of the zygoma (superiorly), the posterior wall of the external auditory canal (anteriorly), and a tangential line connecting these two structures (posteriorly). Drilling in this triangle leads directly to the mastoid antrum, which lies approximately 1.5 cm deep to the surface in adults. The antrum is the key gateway to the mastoid air cell system and the first landmark identified in mastoid surgery. Henle's spine (suprameatal spine) lies at the posterosuperior margin of the EAC and serves as an additional anterior reference.\n\nReference: Bailey's Head & Neck Surgery, 5th ed., Chapter 130; Cummings Otolaryngology, 7th ed., Chapter 141."
+  },
+  {
+    "id": "OTO-ANAT-030",
+    "category": "Anatomy & Embryology",
+    "type": "anatomy",
+    "difficulty": "medium",
+    "question": "The three semicircular canals are oriented in which planes relative to each other?",
+    "choices": [
+      "All three are parallel to each other at 90° to gravity",
+      "Each is oriented at approximately 90° to the other two, in three roughly orthogonal planes",
+      "Two are vertical and one is horizontal, all parallel",
+      "They are coplanar but rotated 120° from one another"
+    ],
+    "correctIndex": 1,
+    "explanation": "The three semicircular canals — lateral (horizontal), superior (anterior), and posterior — are oriented at approximately 90° to each other in three roughly orthogonal (mutually perpendicular) planes. This arrangement allows detection of angular acceleration in any direction in 3D space. Functionally, the lateral canals of the two ears are coplanar (paired), the right superior canal is coplanar with the left posterior canal (RALP pair), and the left superior canal is coplanar with the right posterior canal (LARP pair). These pairs work in a push-pull fashion via Ewald's laws, which also underpin the basis of the Dix-Hallpike test and canal repositioning maneuvers.\n\nReference: Baloh RW, Honrubia V. Clinical Neurophysiology of the Vestibular System, 4th ed. Oxford University Press, 2011; Cummings Otolaryngology, 7th ed., Chapter 162."
+  }
+]
