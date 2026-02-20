@@ -7,6 +7,7 @@ struct StatsView: View {
     var body: some View {
         NavigationStack {
             List {
+                streakSection
                 overallSection
                 categorySection
                 difficultySection
@@ -23,6 +24,37 @@ struct StatsView: View {
     }
 
     // MARK: - Sections
+
+    private var streakSection: some View {
+        Section {
+            HStack(spacing: 0) {
+                streakPill(icon: "flame.fill", color: .orange,
+                           value: engine.currentStreak, label: "Current Streak")
+                Divider()
+                streakPill(icon: "trophy.fill", color: .yellow,
+                           value: engine.longestStreak, label: "Best Streak")
+            }
+            .padding(.vertical, 4)
+        } header: {
+            Text("Streaks")
+        }
+    }
+
+    private func streakPill(icon: String, color: Color, value: Int, label: String) -> some View {
+        VStack(spacing: 4) {
+            HStack(spacing: 4) {
+                Image(systemName: icon)
+                    .foregroundStyle(value > 0 ? color : .secondary)
+                Text("\(value)")
+                    .font(.system(size: 36, weight: .bold, design: .rounded))
+                    .foregroundStyle(value > 0 ? color : .secondary)
+            }
+            Text(label)
+                .font(.caption)
+                .foregroundStyle(.secondary)
+        }
+        .frame(maxWidth: .infinity)
+    }
 
     private var overallSection: some View {
         Section("Overall") {

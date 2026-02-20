@@ -19,6 +19,10 @@ struct ContentView: View {
             StatsView()
                 .tabItem { Label("Progress", systemImage: "chart.bar.fill") }
                 .environmentObject(engine)
+
+            BrowseView()
+                .tabItem { Label("Browse", systemImage: "books.vertical.fill") }
+                .environmentObject(engine)
         }
     }
 }

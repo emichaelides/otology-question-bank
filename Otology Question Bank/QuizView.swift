@@ -7,33 +7,70 @@ private enum AnswerState {
 
 struct QuizView: View {
     @EnvironmentObject private var engine: QuizEngine
+    @AppStorage("hasLaunchedBefore") private var hasLaunchedBefore = false
     @State private var answerState: AnswerState = .unanswered
     @State private var showSummary = false
+    @State private var showSetup = false
 
     var body: some View {
-        ScrollView {
-            VStack(spacing: 20) {
-                sessionProgressHeader
-                questionCard
-                choicesSection
-                if case .answered = answerState {
-                    explanationCard
-                    nextButton
+        NavigationStack {
+            ScrollView {
+                VStack(spacing: 20) {
+                    sessionProgressHeader
+                    questionCard
+                    choicesSection
+                    if case .answered = answerState {
+                        explanationCard
+                        nextButton
+                    }
+                }
+                .padding()
+            }
+            .background(Color(.systemGroupedBackground))
+            .navigationTitle("Quiz")
+            .navigationBarTitleDisplayMode(.inline)
+            .toolbar {
+                ToolbarItem(placement: .primaryAction) {
+                    Button {
+                        showSetup = true
+                    } label: {
+                        HStack(spacing: 4) {
+                            Image(systemName: "slider.horizontal.3")
+                            if engine.activeCategories.count < engine.allCategories.count ||
+                               engine.activeDifficulties.count < 3 {
+                                Image(systemName: "circle.fill")
+                                    .font(.system(size: 6))
+                                    .foregroundStyle(.orange)
+                            }
+                        }
+                    }
                 }
             }
-            .padding()
-        }
-        .background(Color(.systemGroupedBackground))
-        .animation(.easeInOut(duration: 0.25), value: isAnswered)
-        .fullScreenCover(isPresented: $showSummary) {
-            SessionSummaryView(entries: engine.sessionEntries) {
-                showSummary = false
-                engine.startNewSession()
-                answerState = .unanswered
+            .animation(.easeInOut(duration: 0.25), value: isAnswered)
+            .fullScreenCover(isPresented: $showSummary) {
+                SessionSummaryView(entries: engine.sessionEntries) {
+                    showSummary = false
+                    answerState = .unanswered
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.35) {
+                        showSetup = true
+                    }
+                }
             }
-        }
-        .onChange(of: engine.isSessionComplete) { _, complete in
-            if complete { showSummary = true }
+            .sheet(isPresented: $showSetup) {
+                SessionSetupView()
+                    .environmentObject(engine)
+            }
+            .onAppear {
+                if !hasLaunchedBefore {
+                    hasLaunchedBefore = true
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                        showSetup = true
+                    }
+                }
+            }
+            .onChange(of: engine.isSessionComplete) { _, complete in
+                if complete { showSummary = true }
+            }
         }
     }
 
