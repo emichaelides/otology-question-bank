@@ -12,7 +12,7 @@
       "Any degree of bilateral SNHL unresponsive to hearing aids after 3 months"
     ],
     "correctIndex": 1,
-    "explanation": "Adult CI candidacy criteria have expanded significantly. Current FDA/CMS criteria for adults include: bilateral moderate-to-profound SNHL (≥55–70 dB HL PTA) AND ≤50% sentence recognition score (e.g., HINT sentences or AzBio) in the best-aided condition in the ear to be implanted (≤60% in the contralateral ear). Pure-tone threshold criteria alone are insufficient — speech understanding in quiet and in noise guides candidacy. Patients with better residual hearing (even aided thresholds in the moderate range) may benefit if sentence recognition is poor."
+    "explanation": "Adult CI candidacy criteria have expanded significantly. Current FDA/CMS criteria for adults include: bilateral moderate-to-profound SNHL (≥55–70 dB HL PTA) AND ≤50% sentence recognition score (e.g., HINT sentences or AzBio) in the best-aided condition in the ear to be implanted (≤60% in the contralateral ear). Pure-tone threshold criteria alone are insufficient — speech understanding in quiet and in noise guides candidacy. Patients with better residual hearing (even aided thresholds in the moderate range) may benefit if sentence recognition is poor. (Ref: Gifford RH et al., Cochlear Implant Patient Assessment, Plural Publishing 2013; CMS National Coverage Determination 50.3.)"
   },
   {
     "id": "OTO-CI-002",
@@ -42,7 +42,7 @@
       "Electrode array and external processor only"
     ],
     "correctIndex": 1,
-    "explanation": "A cochlear implant has internal and external components. Internal: (1) receiver-stimulator (implanted in a bone bed behind the ear) that receives radio-frequency signals through the skin and decodes them; (2) electrode array inserted into the scala tympani; (3) implanted magnet for alignment with the external coil. External: (1) microphone (on the BTE processor), (2) sound processor (performs signal processing/encoding), (3) transmitter coil (sends power and data transcutaneously via RF to the internal receiver). The external processor and internal receiver communicate across the skin — no wires penetrate the skin."
+    "explanation": "A cochlear implant has internal and external components. Internal: (1) receiver-stimulator (implanted in a bone bed behind the ear) that receives radio-frequency signals through the skin and decodes them; (2) electrode array inserted into the scala tympani; (3) implanted magnet for alignment with the external coil. External: (1) microphone (on the BTE processor), (2) sound processor (performs signal processing/encoding), (3) transmitter coil (sends power and data transcutaneously via RF to the internal receiver). The external processor and internal receiver communicate across the skin — no wires penetrate the skin. (Ref: Niparko JK (ed), Cochlear Implants: Principles & Practices, 2nd ed., Lippincott 2009; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-004",
@@ -57,7 +57,7 @@
       "Provide better tonotopic stimulation due to proximity to the modiolus"
     ],
     "correctIndex": 1,
-    "explanation": "Lateral wall (straight/flexible) electrode arrays hug the outer wall of the scala tympani and require less insertion force, making them gentler to cochlear structures — important for hearing preservation (EAS/hybrid candidates). They have greater electrode-to-modiolus distance (higher stimulation thresholds, wider current spread) and slightly lower spectral resolution compared to perimodiolar arrays. Perimodiolar (pre-curved, held in place with a stylet) arrays sit closer to the spiral ganglion neurons, offering lower thresholds and potentially better frequency selectivity but require more force and cause more intracochlear trauma. Choice depends on anatomy and hearing preservation goals."
+    "explanation": "Lateral wall (straight/flexible) electrode arrays hug the outer wall of the scala tympani and require less insertion force, making them gentler to cochlear structures — important for hearing preservation (EAS/hybrid candidates). They have greater electrode-to-modiolus distance (higher stimulation thresholds, wider current spread) and slightly lower spectral resolution compared to perimodiolar arrays. Perimodiolar (pre-curved, held in place with a stylet) arrays sit closer to the spiral ganglion neurons, offering lower thresholds and potentially better frequency selectivity but require more force and cause more intracochlear trauma. Choice depends on anatomy and hearing preservation goals. (Ref: Roland JT Jr et al., Otol Neurotol 2016;37:e149; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-005",
@@ -72,7 +72,7 @@
       "Auditory neuropathy spectrum disorder with intact OAEs"
     ],
     "correctIndex": 1,
-    "explanation": "EAS (hybrid CI) is designed for patients with residual low-frequency hearing combined with severe-to-profound high-frequency SNHL — a 'ski-slope' configuration. The cochlear implant provides high-frequency electrical stimulation while a conventional hearing aid in the same ear provides low-frequency acoustic amplification. Combined electric-acoustic stimulation markedly improves speech understanding in noise compared to either modality alone. Short (16–20 mm) lateral wall electrode arrays are used to minimize intracochlear trauma and preserve residual low-frequency hearing. Candidacy criteria: word recognition ≤60%, with aided thresholds ≤65 dB at low frequencies."
+    "explanation": "EAS (hybrid CI) is designed for patients with residual low-frequency hearing combined with severe-to-profound high-frequency SNHL — a 'ski-slope' configuration. The cochlear implant provides high-frequency electrical stimulation while a conventional hearing aid in the same ear provides low-frequency acoustic amplification. Combined electric-acoustic stimulation markedly improves speech understanding in noise compared to either modality alone. Short (16–20 mm) lateral wall electrode arrays are used to minimize intracochlear trauma and preserve residual low-frequency hearing. Candidacy criteria: word recognition ≤60%, with aided thresholds ≤65 dB at low frequencies. (Ref: Turner CW et al., Ear Hear 2008;29:702S; von Ilberg CA et al., ORL J Otorhinolaryngol Relat Spec 2011;73:109.)"
   },
   {
     "id": "OTO-CI-006",
@@ -87,7 +87,7 @@
       "Treat tinnitus by stimulating the auditory cortex bilaterally"
     ],
     "correctIndex": 0,
-    "explanation": "CI for SSD (one deaf ear + contralateral normal/near-normal hearing) provides electrical stimulation to the deaf side, restoring binaural hearing cues — interaural level differences (ILD) and interaural time differences (ITD). Benefits include improved speech understanding in noise (especially when noise is on the hearing side), restoration of sound localization, and significant reduction in tinnitus in the implanted ear (a major motivating factor for many SSD patients). CROS hearing aids redirect sound to the hearing ear but do not restore binaural hearing. CI for SSD is FDA-approved and widely adopted."
+    "explanation": "CI for SSD (one deaf ear + contralateral normal/near-normal hearing) provides electrical stimulation to the deaf side, restoring binaural hearing cues — interaural level differences (ILD) and interaural time differences (ITD). Benefits include improved speech understanding in noise (especially when noise is on the hearing side), restoration of sound localization, and significant reduction in tinnitus in the implanted ear (a major motivating factor for many SSD patients). CROS hearing aids redirect sound to the hearing ear but do not restore binaural hearing. CI for SSD is FDA-approved and widely adopted. (Ref: Arndt S et al., Laryngoscope 2011;121:2156; Firszt JB et al., Otol Neurotol 2012;33:218.)"
   },
   {
     "id": "OTO-CI-007",
@@ -102,7 +102,7 @@
       "Patient age at implantation"
     ],
     "correctIndex": 1,
-    "explanation": "Duration of deafness (auditory deprivation time) is the single strongest predictor of CI outcome in post-lingually deafened adults. Shorter durations are associated with better speech perception outcomes because the central auditory pathway remains more plastic, the spiral ganglion neuron population is better preserved, and less auditory cortex reorganization/cross-modal plasticity has occurred. Other positive predictors: younger age at implantation, higher preoperative aided speech scores, shorter duration of profound vs. any hearing loss, bilateral implantation, and motivated/engaged rehabilitation. Tympanomastoid anatomy and electrode type have lesser impact."
+    "explanation": "Duration of deafness (auditory deprivation time) is the single strongest predictor of CI outcome in post-lingually deafened adults. Shorter durations are associated with better speech perception outcomes because the central auditory pathway remains more plastic, the spiral ganglion neuron population is better preserved, and less auditory cortex reorganization/cross-modal plasticity has occurred. Other positive predictors: younger age at implantation, higher preoperative aided speech scores, shorter duration of profound vs. any hearing loss, bilateral implantation, and motivated/engaged rehabilitation. Tympanomastoid anatomy and electrode type have lesser impact. (Ref: Blamey P et al., Ear Hear 2013;34:281; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-008",
@@ -117,7 +117,7 @@
       "Confirm electrode position in the scala tympani"
     ],
     "correctIndex": 1,
-    "explanation": "Neural response telemetry (NRT; Cochlear Corp.) / AutoNRT, ART (Advanced Bionics), and Auditory Nerve Response Telemetry (ANRT; MED-EL) measure the electrically evoked compound action potential (ECAP) of the cochlear nerve — the summed neural response to electrical stimulation recorded from an adjacent CI electrode. ECAP thresholds correlate with behavioral T- and C-levels (threshold and comfort levels), enabling objective (non-behavioral) MAP programming — particularly valuable in young children who cannot reliably provide behavioral responses. ECAP thresholds also provide functional information about spiral ganglion integrity and neural health across electrode positions."
+    "explanation": "Neural response telemetry (NRT; Cochlear Corp.) / AutoNRT, ART (Advanced Bionics), and Auditory Nerve Response Telemetry (ANRT; MED-EL) measure the electrically evoked compound action potential (ECAP) of the cochlear nerve — the summed neural response to electrical stimulation recorded from an adjacent CI electrode. ECAP thresholds correlate with behavioral T- and C-levels (threshold and comfort levels), enabling objective (non-behavioral) MAP programming — particularly valuable in young children who cannot reliably provide behavioral responses. ECAP thresholds also provide functional information about spiral ganglion integrity and neural health across electrode positions. (Ref: Abbas PJ et al., Hear Res 1999;135:1; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-009",
@@ -132,7 +132,7 @@
       "Streptococcus pneumoniae, Hib, and Neisseria meningitidis"
     ],
     "correctIndex": 3,
-    "explanation": "A 2002 FDA alert identified increased risk of bacterial meningitis in CI recipients following reports of meningitis cases, predominantly from Streptococcus pneumoniae. Risk factors include concomitant otitis media, positioner use (now discontinued), CSF communication at the round window, and labyrinthitis ossificans. Current recommendations (CDC/AAP): all CI candidates and recipients should receive pneumococcal vaccines (PCV13 + PPSV23 in series per age/vaccine history), Haemophilus influenzae type b (Hib) vaccine (if not previously vaccinated), and meningococcal vaccines. Vaccination should be completed before surgery when possible."
+    "explanation": "A 2002 FDA alert identified increased risk of bacterial meningitis in CI recipients following reports of meningitis cases, predominantly from Streptococcus pneumoniae. Risk factors include concomitant otitis media, positioner use (now discontinued), CSF communication at the round window, and labyrinthitis ossificans. Current recommendations (CDC/AAP): all CI candidates and recipients should receive pneumococcal vaccines (PCV13 + PPSV23 in series per age/vaccine history), Haemophilus influenzae type b (Hib) vaccine (if not previously vaccinated), and meningococcal vaccines. Vaccination should be completed before surgery when possible. (Ref: FDA Public Health Web Notification, July 2002; CDC Advisory Committee on Immunization Practices, MMWR 2003.)"
   },
   {
     "id": "OTO-CI-010",
@@ -147,7 +147,7 @@
       "MRI is permanently contraindicated regardless of magnet strength"
     ],
     "correctIndex": 1,
-    "explanation": "Modern CI implants (Cochlear Nucleus Profile, AB Naída CI, MED-EL SYNCHRONY) are labeled MRI-compatible at 1.5 T (some at 3.0 T) with appropriate precautions. The main risk is displacement or demagnetization of the internal magnet by the MRI static field. Required precautions: firm head bandage compression to prevent magnet displacement during the scan. The external processor must be removed. Some newer implants have removable magnets (avoiding surgery) or tilting magnet designs that reduce torque. Patients should follow manufacturer-specific protocols. Older legacy implants may require magnet removal (minor surgery) before MRI."
+    "explanation": "Modern CI implants (Cochlear Nucleus Profile, AB Naída CI, MED-EL SYNCHRONY) are labeled MRI-compatible at 1.5 T (some at 3.0 T) with appropriate precautions. The main risk is displacement or demagnetization of the internal magnet by the MRI static field. Required precautions: firm head bandage compression to prevent magnet displacement during the scan. The external processor must be removed. Some newer implants have removable magnets (avoiding surgery) or tilting magnet designs that reduce torque. Patients should follow manufacturer-specific protocols. Older legacy implants may require magnet removal (minor surgery) before MRI. (Ref: Hassepass F et al., Otol Neurotol 2014;35:e140; Cochlear/MED-EL/Advanced Bionics MRI labeling guidelines.)"
   },
   {
     "id": "OTO-CI-011",
@@ -162,7 +162,7 @@
       "CI improves central auditory processing disorder associated with ANSD"
     ],
     "correctIndex": 1,
-    "explanation": "In ANSD, outer hair cells are intact (OAEs present, cochlear microphonic intact) but the lesion is at the level of inner hair cells, IHC-spiral ganglion synapse (ribbon synapse), or the auditory nerve itself (dys-synchronous neural firing). Hearing aids amplify sound but cannot correct temporal dys-synchrony. CI electrically stimulates the spiral ganglion neurons (or the auditory nerve directly), bypassing the dysfunctional IHC-synapse and providing synchronized neural output. CI outcomes in ANSD are excellent when the lesion is pre-neural (at the IHC/synapse level) but less predictable when the nerve itself is hypoplastic or absent. Imaging (MRI cochlear nerve assessment) and ECAP testing guide prognosis."
+    "explanation": "In ANSD, outer hair cells are intact (OAEs present, cochlear microphonic intact) but the lesion is at the level of inner hair cells, IHC-spiral ganglion synapse (ribbon synapse), or the auditory nerve itself (dys-synchronous neural firing). Hearing aids amplify sound but cannot correct temporal dys-synchrony. CI electrically stimulates the spiral ganglion neurons (or the auditory nerve directly), bypassing the dysfunctional IHC-synapse and providing synchronized neural output. CI outcomes in ANSD are excellent when the lesion is pre-neural (at the IHC/synapse level) but less predictable when the nerve itself is hypoplastic or absent. Imaging (MRI cochlear nerve assessment) and ECAP testing guide prognosis. (Ref: Zeng FG et al., JARO 2005;6:422; Berlin CI et al., J Am Acad Audiol 2010;21:393.)"
   },
   {
     "id": "OTO-CI-012",
@@ -177,7 +177,7 @@
       "The cochlea may be partially obliterated by bony new growth requiring modified electrode insertion"
     ],
     "correctIndex": 3,
-    "explanation": "Far-advanced otosclerosis (FAO) causes SNHL from cochlear involvement (endosteal/labyrinthine capsule extension), eventually producing profound SNHL unaidable by amplification. CI is effective, but the endosteal extension of otosclerotic bone can partially obliterate the scala tympani, narrowing the lumen and complicating electrode insertion. Surgeons must be prepared for drill-out of the scala tympani if needed, use of a compressed or split electrode, and management of bleeding from vascular otosclerotic bone. The round window niche may be obscured but is usually still patent. Sodium fluoride treats active otosclerosis but has no proven benefit on CI outcomes."
+    "explanation": "Far-advanced otosclerosis (FAO) causes SNHL from cochlear involvement (endosteal/labyrinthine capsule extension), eventually producing profound SNHL unaidable by amplification. CI is effective, but the endosteal extension of otosclerotic bone can partially obliterate the scala tympani, narrowing the lumen and complicating electrode insertion. Surgeons must be prepared for drill-out of the scala tympani if needed, use of a compressed or split electrode, and management of bleeding from vascular otosclerotic bone. The round window niche may be obscured but is usually still patent. Sodium fluoride treats active otosclerosis but has no proven benefit on CI outcomes. (Ref: Ramsden R et al., Adv Otorhinolaryngol 2000;57:258; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-013",
@@ -192,7 +192,7 @@
       "Bilateral CI is contraindicated due to doubled surgical risk"
     ],
     "correctIndex": 1,
-    "explanation": "Bilateral CI is strongly supported by evidence for both children and adults. Compared to unilateral CI, bilateral CI provides: significantly better sound localization (using ILD and ITD cues), improved speech understanding in noise (binaural squelch and summation), and better auditory performance in educational settings. In children, simultaneous bilateral CI (both sides at one surgery) provides superior outcomes compared to sequential implantation, particularly for localization — the second ear benefits from symmetric auditory development. The second CI loses binaural benefit if implanted after age 5 in deaf children (sensitive period effect). Surgical risk is not doubled disproportionately."
+    "explanation": "Bilateral CI is strongly supported by evidence for both children and adults. Compared to unilateral CI, bilateral CI provides: significantly better sound localization (using ILD and ITD cues), improved speech understanding in noise (binaural squelch and summation), and better auditory performance in educational settings. In children, simultaneous bilateral CI (both sides at one surgery) provides superior outcomes compared to sequential implantation, particularly for localization — the second ear benefits from symmetric auditory development. The second CI loses binaural benefit if implanted after age 5 in deaf children (sensitive period effect). Surgical risk is not doubled disproportionately. (Ref: Litovsky RY et al., Ear Hear 2006;27:655; van Deun L et al., Ear Hear 2010;31:541.)"
   },
   {
     "id": "OTO-CI-014",
@@ -207,7 +207,7 @@
       "It contains perilymph which conducts electrical current better"
     ],
     "correctIndex": 2,
-    "explanation": "The scala tympani is the preferred insertion target because: (1) it is directly accessed via the round window membrane or a cochleostomy anterior-inferior to the round window niche; (2) it avoids disrupting the basilar membrane and organ of Corti (which sits on top of the basilar membrane between the two scalae); (3) the spiral ganglion neurons that need to be stimulated are in the modiolus adjacent to both scalae, but ST insertion allows a straight trajectory. Inadvertent scala vestibuli insertion (translocation) is associated with worse outcomes and more intracochlear trauma. Perilymph composition is similar in both scalae."
+    "explanation": "The scala tympani is the preferred insertion target because: (1) it is directly accessed via the round window membrane or a cochleostomy anterior-inferior to the round window niche; (2) it avoids disrupting the basilar membrane and organ of Corti (which sits on top of the basilar membrane between the two scalae); (3) the spiral ganglion neurons that need to be stimulated are in the modiolus adjacent to both scalae, but ST insertion allows a straight trajectory. Inadvertent scala vestibuli insertion (translocation) is associated with worse outcomes and more intracochlear trauma. Perilymph composition is similar in both scalae. (Ref: Aschendorff A et al., Otol Neurotol 2007;28:475; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-015",
@@ -222,7 +222,7 @@
       "Auditory cortex stimulation"
     ],
     "correctIndex": 1,
-    "explanation": "When the cochlear nerve is absent or severely hypoplastic, cochlear implantation cannot work because there is no nerve to stimulate. The auditory brainstem implant (ABI) is the appropriate intervention — electrodes are placed directly on the cochlear nuclei in the lateral recess of the fourth ventricle. In children with cochlear nerve deficiency (CND), ABI outcomes are variable but can provide sound awareness, environmental sound detection, and some speech understanding, with auditory cortex plasticity supporting development. Outcomes are generally inferior to CI in children with intact cochlear nerves. BAHA provides acoustic stimulation but is ineffective when the auditory nerve is absent."
+    "explanation": "When the cochlear nerve is absent or severely hypoplastic, cochlear implantation cannot work because there is no nerve to stimulate. The auditory brainstem implant (ABI) is the appropriate intervention — electrodes are placed directly on the cochlear nuclei in the lateral recess of the fourth ventricle. In children with cochlear nerve deficiency (CND), ABI outcomes are variable but can provide sound awareness, environmental sound detection, and some speech understanding, with auditory cortex plasticity supporting development. Outcomes are generally inferior to CI in children with intact cochlear nerves. BAHA provides acoustic stimulation but is ineffective when the auditory nerve is absent. (Ref: Colletti V et al., Acta Otolaryngol 2000;120:187; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-016",
@@ -237,7 +237,7 @@
       "Assess scala tympani vs. scala vestibuli position of the electrode"
     ],
     "correctIndex": 1,
-    "explanation": "Intraoperative ECochG monitoring during CI insertion measures the cochlear microphonic (CM) and summating potential (SP) generated by intact outer hair cells in response to acoustic stimulation. A decrease or loss of ECochG amplitude during electrode insertion signals mechanical trauma to the basilar membrane or hair cells in real time. The surgeon can then pause, adjust the insertion angle/speed, or try a different approach. This technique — pioneered by Brown, Adunka, and others — has been shown to improve residual hearing preservation rates in EAS/hybrid candidates. It provides immediate biofeedback that conventional delayed audiometry cannot."
+    "explanation": "Intraoperative ECochG monitoring during CI insertion measures the cochlear microphonic (CM) and summating potential (SP) generated by intact outer hair cells in response to acoustic stimulation. A decrease or loss of ECochG amplitude during electrode insertion signals mechanical trauma to the basilar membrane or hair cells in real time. The surgeon can then pause, adjust the insertion angle/speed, or try a different approach. This technique — pioneered by Brown, Adunka, and others — has been shown to improve residual hearing preservation rates in EAS/hybrid candidates. It provides immediate biofeedback that conventional delayed audiometry cannot. (Ref: Adunka OF et al., Cochlear Implants Int 2010;11 Suppl 1:5; Brown CJ et al., Otol Neurotol 2016;37:e135.)"
   },
   {
     "id": "OTO-CI-017",
@@ -267,7 +267,7 @@
       "Meningitis"
     ],
     "correctIndex": 2,
-    "explanation": "The most common complications of CI surgery are minor wound-related issues (hematoma, seroma, wound infection: <5%), transient taste disturbance from chorda tympani manipulation (common, usually resolves within weeks to months), and device malfunction (rare, 1–3% over device lifetime). Permanent facial nerve paralysis is rare (<1%) given the use of intraoperative monitoring. Meningitis risk is low with current devices and proper vaccination. Electrode misplacement or tip rollover occurs in a small percentage. Vestibular dysfunction/disequilibrium can occur transiently. Device failure rates have decreased dramatically with modern implants (<1% per year)."
+    "explanation": "The most common complications of CI surgery are minor wound-related issues (hematoma, seroma, wound infection: <5%), transient taste disturbance from chorda tympani manipulation (common, usually resolves within weeks to months), and device malfunction (rare, 1–3% over device lifetime). Permanent facial nerve paralysis is rare (<1%) given the use of intraoperative monitoring. Meningitis risk is low with current devices and proper vaccination. Electrode misplacement or tip rollover occurs in a small percentage. Vestibular dysfunction/disequilibrium can occur transiently. Device failure rates have decreased dramatically with modern implants (<1% per year). (Ref: Proctor L et al., Otol Neurotol 2011;32:S58; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-019",
@@ -282,7 +282,7 @@
       "These patients have preserved vestibular function aiding adaptation"
     ],
     "correctIndex": 1,
-    "explanation": "GJB2/Connexin 26 mutations are the most common cause of autosomal recessive non-syndromic SNHL, accounting for ~50% of congenital hereditary deafness. These children typically have: (1) congenital profound SNHL identified on newborn hearing screening, enabling very early CI evaluation; (2) normal cochlear anatomy and complete cochlear partition; (3) intact spiral ganglion neuron population (the mutation affects gap junction proteins in supporting cells/stria vascularis, not the neurons themselves); (4) no syndromic comorbidities; and (5) normal intelligence and motivation. These factors — especially intact neuronal substrate and early implantation — explain consistently excellent CI speech perception outcomes in this genetic group."
+    "explanation": "GJB2/Connexin 26 mutations are the most common cause of autosomal recessive non-syndromic SNHL, accounting for ~50% of congenital hereditary deafness. These children typically have: (1) congenital profound SNHL identified on newborn hearing screening, enabling very early CI evaluation; (2) normal cochlear anatomy and complete cochlear partition; (3) intact spiral ganglion neuron population (the mutation affects gap junction proteins in supporting cells/stria vascularis, not the neurons themselves); (4) no syndromic comorbidities; and (5) normal intelligence and motivation. These factors — especially intact neuronal substrate and early implantation — explain consistently excellent CI speech perception outcomes in this genetic group. (Ref: Siem G et al., Ear Hear 2010;31:573; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-020",
@@ -297,7 +297,7 @@
       "TECTA — CI reinforces the tectorial membrane allowing normal IHC deflection"
     ],
     "correctIndex": 1,
-    "explanation": "OTOF (otoferlin gene) mutations cause ANSD by disrupting otoferlin, a calcium sensor protein essential for synaptic vesicle exocytosis at the inner hair cell (IHC) ribbon synapse. Without otoferlin, IHCs cannot release glutamate to synapse onto spiral ganglion neurons — the signal stops at the IHC. OHCs remain intact (OAEs present), but auditory nerve firing is absent/dys-synchronous. CI works excellently in OTOF-ANSD because: (1) the spiral ganglion neurons and auditory nerve are anatomically and functionally intact; (2) CI directly stimulates these neurons electrically, completely bypassing the defective IHC synapse. CI outcomes in OTOF-ANSD are among the best of any etiologic subgroup."
+    "explanation": "OTOF (otoferlin gene) mutations cause ANSD by disrupting otoferlin, a calcium sensor protein essential for synaptic vesicle exocytosis at the inner hair cell (IHC) ribbon synapse. Without otoferlin, IHCs cannot release glutamate to synapse onto spiral ganglion neurons — the signal stops at the IHC. OHCs remain intact (OAEs present), but auditory nerve firing is absent/dys-synchronous. CI works excellently in OTOF-ANSD because: (1) the spiral ganglion neurons and auditory nerve are anatomically and functionally intact; (2) CI directly stimulates these neurons electrically, completely bypassing the defective IHC synapse. CI outcomes in OTOF-ANSD are among the best of any etiologic subgroup. (Ref: Varga R et al., Nat Genet 2006;38:960; Rouillon I et al., Laryngoscope 2006;116:1871.)"
   },
   {
     "id": "OTO-CI-021",
@@ -312,7 +312,7 @@
       "The time delay between electrode activation in sequential stimulation strategies"
     ],
     "correctIndex": 0,
-    "explanation": "CI programming (MAP creation) involves setting two key parameters for each electrode: T-level (threshold level) — the minimum electrical stimulation current that produces a just-detectable sound; and C-level (comfort level / most comfortable loudness — MCL) — the maximum current producing comfortably loud sound. The range between T and C defines the dynamic range of hearing for that electrode. Stimulation levels are in charge units (μC/phase or in manufacturer-specific units). Behavioral responses (raising hand for T, reporting discomfort for C) or objective measures (ECAP thresholds) guide MAP creation. Getting accurate T and C levels is crucial — too high C-levels cause pain/facial nerve stimulation; too low reduces audibility."
+    "explanation": "CI programming (MAP creation) involves setting two key parameters for each electrode: T-level (threshold level) — the minimum electrical stimulation current that produces a just-detectable sound; and C-level (comfort level / most comfortable loudness — MCL) — the maximum current producing comfortably loud sound. The range between T and C defines the dynamic range of hearing for that electrode. Stimulation levels are in charge units (μC/phase or in manufacturer-specific units). Behavioral responses (raising hand for T, reporting discomfort for C) or objective measures (ECAP thresholds) guide MAP creation. Getting accurate T and C levels is crucial — too high C-levels cause pain/facial nerve stimulation; too low reduces audibility. (Ref: Skinner MW et al., Ear Hear 1997;18:290; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-022",
@@ -327,7 +327,7 @@
       "Only the translabyrinthine approach should be used for implantation"
     ],
     "correctIndex": 1,
-    "explanation": "LVA syndrome (enlarged vestibular aqueduct, SLC26A4/Pendred syndrome) and Mondini malformation (incomplete partition type II — cochlea with 1.5 turns, absent interscalar septum in the apical turn) are associated with perilymph/CSF gusher risk during cochleostomy due to the anomalous communication between CSF and perilymphatic spaces. Surgeons should be prepared with packing material. CI outcomes in LVA are generally good to excellent if implanted early. Mondini outcomes are more variable depending on cochlear morphology and spiral ganglion integrity. Preoperative high-resolution CT and MRI are essential to plan the surgical approach and assess cochlear nerve status."
+    "explanation": "LVA syndrome (enlarged vestibular aqueduct, SLC26A4/Pendred syndrome) and Mondini malformation (incomplete partition type II — cochlea with 1.5 turns, absent interscalar septum in the apical turn) are associated with perilymph/CSF gusher risk during cochleostomy due to the anomalous communication between CSF and perilymphatic spaces. Surgeons should be prepared with packing material. CI outcomes in LVA are generally good to excellent if implanted early. Mondini outcomes are more variable depending on cochlear morphology and spiral ganglion integrity. Preoperative high-resolution CT and MRI are essential to plan the surgical approach and assess cochlear nerve status. (Ref: Vincenti V et al., Otol Neurotol 2012;33:1143; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-023",
@@ -357,7 +357,7 @@
       "CI works by stimulating the cochlear nucleus, bypassing the damaged cochlear nerve"
     ],
     "correctIndex": 1,
-    "explanation": "In NF2 patients undergoing translabyrinthine vestibular schwannoma removal, hearing in the operated ear is inevitably lost. If the cochlear nerve is anatomically and functionally preserved (intraoperative ECAP present, nerve-preserving dissection), simultaneous or staged CI can be performed in the same ear, stimulating the preserved cochlear nerve and potentially restoring useful hearing. However, if the cochlear nerve is sacrificed or non-functional, auditory brainstem implantation (ABI) is the appropriate device. CI in NF2 has more variable outcomes than in non-NF2 patients due to degenerative changes in spiral ganglion neurons from tumor and radiation effects."
+    "explanation": "In NF2 patients undergoing translabyrinthine vestibular schwannoma removal, hearing in the operated ear is inevitably lost. If the cochlear nerve is anatomically and functionally preserved (intraoperative ECAP present, nerve-preserving dissection), simultaneous or staged CI can be performed in the same ear, stimulating the preserved cochlear nerve and potentially restoring useful hearing. However, if the cochlear nerve is sacrificed or non-functional, auditory brainstem implantation (ABI) is the appropriate device. CI in NF2 has more variable outcomes than in non-NF2 patients due to degenerative changes in spiral ganglion neurons from tumor and radiation effects. (Ref: Plotkin SR et al., Neurology 2014;82:182; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-CI-025",

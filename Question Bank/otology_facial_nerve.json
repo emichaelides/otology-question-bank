@@ -12,7 +12,7 @@
       "Severe dysfunction — only barely perceptible motion"
     ],
     "correctIndex": 1,
-    "explanation": "House-Brackmann Grade III represents moderate dysfunction: there is obvious but non-disfiguring difference between the two sides, complete eye closure is possible but requires effort, and there is noticeable synkinesis or mass movement. Grade I = normal; Grade II = slight dysfunction (mild weakness, complete closure with minimal effort); Grade III = moderate (complete closure with effort); Grade IV = moderately severe (incomplete eye closure at rest); Grade V = severe (barely perceptible motion); Grade VI = total paralysis."
+    "explanation": "House-Brackmann Grade III represents moderate dysfunction: there is obvious but non-disfiguring difference between the two sides, complete eye closure is possible but requires effort, and there is noticeable synkinesis or mass movement. Grade I = normal; Grade II = slight dysfunction (mild weakness, complete closure with minimal effort); Grade III = moderate (complete closure with effort); Grade IV = moderately severe (incomplete eye closure at rest); Grade V = severe (barely perceptible motion); Grade VI = total paralysis. (Ref: House JW, Brackmann DE. Facial nerve grading system. Otolaryngol Head Neck Surg. 1985;93:146-147.)"
   },
   {
     "id": "OTO-FN-002",
@@ -27,7 +27,7 @@
       "Epstein-Barr virus (EBV)"
     ],
     "correctIndex": 1,
-    "explanation": "Bell's palsy (idiopathic peripheral facial paralysis) is strongly associated with reactivation of latent herpes simplex virus type 1 (HSV-1) in the geniculate ganglion, supported by PCR detection of HSV-1 DNA in endoneurial fluid. VZV reactivation causes Ramsay Hunt syndrome (herpes zoster oticus) — a more severe and less reversible facial palsy accompanied by painful vesicles in the ear canal/auricle. Treatment for Bell's palsy is oral corticosteroids (prednisolone) within 72 hours, with or without antiviral agents (acyclovir/valacyclovir)."
+    "explanation": "Bell's palsy (idiopathic peripheral facial paralysis) is strongly associated with reactivation of latent herpes simplex virus type 1 (HSV-1) in the geniculate ganglion, supported by PCR detection of HSV-1 DNA in endoneurial fluid. VZV reactivation causes Ramsay Hunt syndrome (herpes zoster oticus) — a more severe and less reversible facial palsy accompanied by painful vesicles in the ear canal/auricle. Treatment for Bell's palsy is oral corticosteroids (prednisolone) within 72 hours, with or without antiviral agents (acyclovir/valacyclovir). (Ref: Murakami S et al., Ann Intern Med 1996;124:27; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-003",
@@ -42,7 +42,7 @@
       "Observation without medication"
     ],
     "correctIndex": 0,
-    "explanation": "High-quality evidence (Sullivan 2007, Engström 2008 RCTs) demonstrates that early corticosteroids significantly improve recovery in Bell's palsy. Prednisolone 50–60 mg/day for 10 days (with taper) is the standard. Adding antivirals (acyclovir or valacyclovir) provides modest additional benefit in some studies but is not definitively superior to steroids alone. Antivirals alone are inferior to steroids. Surgical decompression is controversial and reserved for severe cases (>90% degeneration on ENoG) presenting within 14 days with no recovery. Eye care (lubricant drops, tape at night) is essential to prevent exposure keratopathy."
+    "explanation": "High-quality evidence (Sullivan 2007, Engström 2008 RCTs) demonstrates that early corticosteroids significantly improve recovery in Bell's palsy. Prednisolone 50–60 mg/day for 10 days (with taper) is the standard. Adding antivirals (acyclovir or valacyclovir) provides modest additional benefit in some studies but is not definitively superior to steroids alone. Antivirals alone are inferior to steroids. Surgical decompression is controversial and reserved for severe cases (>90% degeneration on ENoG) presenting within 14 days with no recovery. Eye care (lubricant drops, tape at night) is essential to prevent exposure keratopathy. (Ref: Sullivan FM et al., N Engl J Med 2007;357:1598; Engström M et al., Lancet 2008;371:2040.)"
   },
   {
     "id": "OTO-FN-004",
@@ -57,7 +57,7 @@
       "Does not affect hearing or vestibular function"
     ],
     "correctIndex": 2,
-    "explanation": "Ramsay Hunt syndrome is VZV reactivation in the geniculate ganglion causing: (1) ipsilateral facial palsy, (2) severe otalgia, and (3) vesicular eruption in the external auditory canal, concha, or pinna (Ramsay Hunt's zone). It may also cause SNHL and vertigo due to cochlear and vestibular involvement. Prognosis is worse than Bell's palsy — complete recovery occurs in only 50–70% vs. >85% for Bell's. Treatment: oral prednisolone + high-dose valacyclovir (1000 mg TID × 7 days) or acyclovir. Eye care is essential."
+    "explanation": "Ramsay Hunt syndrome is VZV reactivation in the geniculate ganglion causing: (1) ipsilateral facial palsy, (2) severe otalgia, and (3) vesicular eruption in the external auditory canal, concha, or pinna (Ramsay Hunt's zone). It may also cause SNHL and vertigo due to cochlear and vestibular involvement. Prognosis is worse than Bell's palsy — complete recovery occurs in only 50–70% vs. >85% for Bell's. Treatment: oral prednisolone + high-dose valacyclovir (1000 mg TID × 7 days) or acyclovir. Eye care is essential. (Ref: Sweeney CJ, Gilden DH. J Neurol Neurosurg Psychiatry 2001;71:149; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-005",
@@ -72,7 +72,7 @@
       "Only in cases of Bell's palsy, not trauma"
     ],
     "correctIndex": 1,
-    "explanation": "ENoG (electroneuronography/ENOG) compares the amplitude of the compound muscle action potential (CMAP) evoked by maximal transcutaneous stimulation of the paralyzed side vs. the normal side. It requires Wallerian degeneration to occur — nerve degeneration peaks between 3–14 days. ENoG >90% degeneration within 14 days of complete paralysis onset is the threshold used to consider surgical decompression in Bell's palsy or trauma (May/Gantz criteria). EMG (needle) is useful after 2–3 weeks to detect fibrillation potentials (denervation) and later reinnervation potentials."
+    "explanation": "ENoG (electroneuronography/ENOG) compares the amplitude of the compound muscle action potential (CMAP) evoked by maximal transcutaneous stimulation of the paralyzed side vs. the normal side. It requires Wallerian degeneration to occur — nerve degeneration peaks between 3–14 days. ENoG >90% degeneration within 14 days of complete paralysis onset is the threshold used to consider surgical decompression in Bell's palsy or trauma (May/Gantz criteria). EMG (needle) is useful after 2–3 weeks to detect fibrillation potentials (denervation) and later reinnervation potentials. (Ref: Gantz BJ et al., Laryngoscope 1999;109:1177; May M, Schaitkin BM (eds), The Facial Nerve, 2nd ed., Thieme 2000.)"
   },
   {
     "id": "OTO-FN-006",
@@ -87,7 +87,7 @@
       "The tympanic (horizontal) segment"
     ],
     "correctIndex": 1,
-    "explanation": "Longitudinal fractures (parallel to the petrous ridge, 80% of temporal bone fractures) most commonly injure the facial nerve at the perigeniculate region — the junction of the labyrinthine and tympanic segments at the geniculate ganglion — because this is where the nerve makes a sharp turn (the first genu) and is tethered. Transverse fractures (perpendicular to the petrous ridge) tend to injure the labyrinthine or intrameatal segment. Immediate complete paralysis suggests nerve transaction/compression needing exploration; delayed paralysis (appearing hours to days post-trauma) suggests neuropraxia and generally recovers without surgery."
+    "explanation": "Longitudinal fractures (parallel to the petrous ridge, 80% of temporal bone fractures) most commonly injure the facial nerve at the perigeniculate region — the junction of the labyrinthine and tympanic segments at the geniculate ganglion — because this is where the nerve makes a sharp turn (the first genu) and is tethered. Transverse fractures (perpendicular to the petrous ridge) tend to injure the labyrinthine or intrameatal segment. Immediate complete paralysis suggests nerve transaction/compression needing exploration; delayed paralysis (appearing hours to days post-trauma) suggests neuropraxia and generally recovers without surgery. (Ref: Brodie HA, Thompson TC. Am J Otol 1997;18:188; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-007",
@@ -102,7 +102,7 @@
       "It is associated with vesicular eruption in the ear canal"
     ],
     "correctIndex": 1,
-    "explanation": "Lyme facial palsy is the most common cause of bilateral simultaneous facial palsy in endemic areas. It should be suspected in any patient with facial palsy and exposure history in an endemic region (particularly summer, New England/Midwest USA, Europe). Serologic testing (ELISA + Western blot) is diagnostic. Treatment: oral doxycycline (adults) or amoxicillin (children) for 21 days. Steroids are generally avoided. Prognosis is good (>95% recovery). Bilateral Bell's palsy is rare (<1% of Bell's cases) and should prompt Lyme testing, HIV, sarcoidosis, and other systemic causes."
+    "explanation": "Lyme facial palsy is the most common cause of bilateral simultaneous facial palsy in endemic areas. It should be suspected in any patient with facial palsy and exposure history in an endemic region (particularly summer, New England/Midwest USA, Europe). Serologic testing (ELISA + Western blot) is diagnostic. Treatment: oral doxycycline (adults) or amoxicillin (children) for 21 days. Steroids are generally avoided. Prognosis is good (>95% recovery). Bilateral Bell's palsy is rare (<1% of Bell's cases) and should prompt Lyme testing, HIV, sarcoidosis, and other systemic causes. (Ref: Steere AC. N Engl J Med 2001;345:115; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-008",
@@ -117,7 +117,7 @@
       "Impaired lacrimation only, with normal taste and stapedius reflex"
     ],
     "correctIndex": 0,
-    "explanation": "Topographic testing uses branches arising from the facial nerve at different levels: Greater superficial petrosal nerve (GSPN) → lacrimation (tested by Schirmer's — asymmetric wetting); nerve to stapedius → stapedius reflex (tested by acoustic reflexometry); chorda tympani → taste (anterior 2/3 tongue, tested by electrogustometry). A geniculate ganglion lesion is proximal to all three branches → all three tests abnormal (absent stapedius reflex, absent taste, reduced lacrimation). A lesion in the mastoid segment (below the nerve to stapedius) would spare lacrimation but impair taste and stapedius reflex."
+    "explanation": "Topographic testing uses branches arising from the facial nerve at different levels: Greater superficial petrosal nerve (GSPN) → lacrimation (tested by Schirmer's — asymmetric wetting); nerve to stapedius → stapedius reflex (tested by acoustic reflexometry); chorda tympani → taste (anterior 2/3 tongue, tested by electrogustometry). A geniculate ganglion lesion is proximal to all three branches → all three tests abnormal (absent stapedius reflex, absent taste, reduced lacrimation). A lesion in the mastoid segment (below the nerve to stapedius) would spare lacrimation but impair taste and stapedius reflex. (Ref: May M, Schaitkin BM (eds), The Facial Nerve, 2nd ed., Thieme 2000; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-009",
@@ -132,7 +132,7 @@
       "Platysma contraction with brow raising"
     ],
     "correctIndex": 1,
-    "explanation": "Synkinesis is involuntary co-contraction of facial muscles due to aberrant reinnervation after facial nerve injury. The most common pattern is oral-ocular synkinesis: the eye closes (orbicularis oculi) when attempting to smile (orbicularis oris), or conversely the corner of the mouth moves when blinking. Treatment options include targeted botulinum toxin injection (paralyzes overactive muscle groups), facial neuromuscular retraining/physical therapy, and rarely selective neurolysis or myectomy. Synkinesis begins appearing 3–6 months after paralysis onset as reinnervation occurs."
+    "explanation": "Synkinesis is involuntary co-contraction of facial muscles due to aberrant reinnervation after facial nerve injury. The most common pattern is oral-ocular synkinesis: the eye closes (orbicularis oculi) when attempting to smile (orbicularis oris), or conversely the corner of the mouth moves when blinking. Treatment options include targeted botulinum toxin injection (paralyzes overactive muscle groups), facial neuromuscular retraining/physical therapy, and rarely selective neurolysis or myectomy. Synkinesis begins appearing 3–6 months after paralysis onset as reinnervation occurs. (Ref: Hadlock TA, Cheney ML. Clin Plast Surg 2002;29:451; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-010",
@@ -147,7 +147,7 @@
       "General visceral efferent (parotid gland) only"
     ],
     "correctIndex": 1,
-    "explanation": "The chorda tympani (a branch of CN VII) carries: (1) SVA (special visceral afferent) — taste from the anterior 2/3 of the tongue, and (2) GVE (general visceral efferent) — preganglionic parasympathetic fibers to the submandibular ganglion, which then supplies the submandibular and sublingual salivary glands. It runs through the middle ear (between the malleus and incus) and exits via the petrotympanic fissure. Injury during middle ear surgery causes ipsilateral taste disturbance (dysgeusia) and reduced submandibular/sublingual salivation."
+    "explanation": "The chorda tympani (a branch of CN VII) carries: (1) SVA (special visceral afferent) — taste from the anterior 2/3 of the tongue, and (2) GVE (general visceral efferent) — preganglionic parasympathetic fibers to the submandibular ganglion, which then supplies the submandibular and sublingual salivary glands. It runs through the middle ear (between the malleus and incus) and exits via the petrotympanic fissure. Injury during middle ear surgery causes ipsilateral taste disturbance (dysgeusia) and reduced submandibular/sublingual salivation. (Ref: Standring S (ed), Gray's Anatomy, 41st ed., Elsevier 2015; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-011",
@@ -162,7 +162,7 @@
       "Cochlear implantation on the affected side"
     ],
     "correctIndex": 1,
-    "explanation": "Facial nerve schwannomas are benign slow-growing tumors. The paradox is that despite being on the nerve, these tumors often present with only mild facial weakness because normal facial fibers are displaced (not destroyed) early on. Surgical resection inevitably sacrifices some or all facial nerve function — even with immediate nerve grafting, outcomes rarely exceed HB III. Current consensus is to observe with serial imaging and defer surgery until function degrades to HB IV–V or worse. At that point, surgical options include resection + cable graft (great auricular or sural nerve) or subtotal resection."
+    "explanation": "Facial nerve schwannomas are benign slow-growing tumors. The paradox is that despite being on the nerve, these tumors often present with only mild facial weakness because normal facial fibers are displaced (not destroyed) early on. Surgical resection inevitably sacrifices some or all facial nerve function — even with immediate nerve grafting, outcomes rarely exceed HB III. Current consensus is to observe with serial imaging and defer surgery until function degrades to HB IV–V or worse. At that point, surgical options include resection + cable graft (great auricular or sural nerve) or subtotal resection. (Ref: Liu R et al., Otol Neurotol 2019;40:742; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-012",
@@ -177,7 +177,7 @@
       "Facial contractions triggered only by eating or swallowing"
     ],
     "correctIndex": 1,
-    "explanation": "Hemifacial spasm (HFS) is a movement disorder caused by aberrant vascular compression of the facial nerve root exit zone (RNEZ) at the brainstem — most commonly by the posterior inferior cerebellar artery (PICA) or anterior inferior cerebellar artery (AICA). Spasms are unilateral, start periorbitally, progress to the lower face, persist during sleep (distinguishing it from blepharospasm), and are worsened by stress and fatigue. Treatment: botulinum toxin injections (highly effective, requires repeat every 3–4 months) or microvascular decompression (MVD) at the RNEZ (definitive surgical cure in 90% of cases)."
+    "explanation": "Hemifacial spasm (HFS) is a movement disorder caused by aberrant vascular compression of the facial nerve root exit zone (RNEZ) at the brainstem — most commonly by the posterior inferior cerebellar artery (PICA) or anterior inferior cerebellar artery (AICA). Spasms are unilateral, start periorbitally, progress to the lower face, persist during sleep (distinguishing it from blepharospasm), and are worsened by stress and fatigue. Treatment: botulinum toxin injections (highly effective, requires repeat every 3–4 months) or microvascular decompression (MVD) at the RNEZ (definitive surgical cure in 90% of cases). (Ref: Jannetta PJ et al., J Neurosurg 1977;47:321; Wang A, Jankovic J. Muscle Nerve 1998;21:1740.)"
   },
   {
     "id": "OTO-FN-013",
@@ -192,7 +192,7 @@
       "Nervus intermedius at the pons"
     ],
     "correctIndex": 1,
-    "explanation": "The GSPN arises from the geniculate ganglion (first genu of the facial nerve) and carries preganglionic parasympathetic fibers to the pterygopalatine ganglion (via the vidian nerve), which then supplies the lacrimal gland and mucous glands of the nasal cavity and palate. It also carries taste from the palate. The GSPN exits the petrous bone via the hiatus of the facial canal and runs under the temporal lobe dura on the floor of the middle cranial fossa. Injury during middle fossa surgery causes ipsilateral dry eye (reduced lacrimation) — assessed by Schirmer's test."
+    "explanation": "The GSPN arises from the geniculate ganglion (first genu of the facial nerve) and carries preganglionic parasympathetic fibers to the pterygopalatine ganglion (via the vidian nerve), which then supplies the lacrimal gland and mucous glands of the nasal cavity and palate. It also carries taste from the palate. The GSPN exits the petrous bone via the hiatus of the facial canal and runs under the temporal lobe dura on the floor of the middle cranial fossa. Injury during middle fossa surgery causes ipsilateral dry eye (reduced lacrimation) — assessed by Schirmer's test. (Ref: May M, Schaitkin BM (eds), The Facial Nerve, 2nd ed., Thieme 2000; Standring S (ed), Gray's Anatomy, 41st ed.)"
   },
   {
     "id": "OTO-FN-014",
@@ -207,7 +207,7 @@
       "Tympanoplasty to improve middle ear aeration"
     ],
     "correctIndex": 1,
-    "explanation": "Facial palsy from AOM occurs in <0.5% of cases — the facial nerve is dehiscent in its tympanic segment in ~40% of people, making it vulnerable to inflammatory involvement from middle ear infection. Management: IV antibiotics (to treat the AOM), myringotomy with tube placement (to drain the middle ear and provide culture material), and close monitoring. Facial nerve function typically recovers with this conservative approach as the infection resolves. Surgical decompression is reserved for cases that fail to improve after 2 weeks of treatment, or if cholesteatoma (rather than acute infection) is suspected as the underlying cause."
+    "explanation": "Facial palsy from AOM occurs in <0.5% of cases — the facial nerve is dehiscent in its tympanic segment in ~40% of people, making it vulnerable to inflammatory involvement from middle ear infection. Management: IV antibiotics (to treat the AOM), myringotomy with tube placement (to drain the middle ear and provide culture material), and close monitoring. Facial nerve function typically recovers with this conservative approach as the infection resolves. Surgical decompression is reserved for cases that fail to improve after 2 weeks of treatment, or if cholesteatoma (rather than acute infection) is suspected as the underlying cause. (Ref: Redaelli de Zinis LO et al., Acta Otolaryngol 2003;123:203; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-015",
@@ -237,7 +237,7 @@
       "Immediate after swelling resolves"
     ],
     "correctIndex": 2,
-    "explanation": "Facial nerve recovery after cable nerve grafting (e.g., using the great auricular nerve or sural nerve) follows the rate of axonal regeneration (~1 mm/day). The distance from the repair site to the facial musculature, plus the delay for reinnervation plate formation at the end-organs, means that the first signs of voluntary movement typically appear at 6–12 months post-repair, and final functional outcome is assessed at 18–24 months. Results are often HB III–IV. Patients should be educated about this timeline and receive eye care (lubricants, moisture chamber, possible gold weight for lagophthalmos) during the recovery period."
+    "explanation": "Facial nerve recovery after cable nerve grafting (e.g., using the great auricular nerve or sural nerve) follows the rate of axonal regeneration (~1 mm/day). The distance from the repair site to the facial musculature, plus the delay for reinnervation plate formation at the end-organs, means that the first signs of voluntary movement typically appear at 6–12 months post-repair, and final functional outcome is assessed at 18–24 months. Results are often HB III–IV. Patients should be educated about this timeline and receive eye care (lubricants, moisture chamber, possible gold weight for lagophthalmos) during the recovery period. (Ref: Conley J, Baker DC. Plast Reconstr Surg 1979;63:63; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-017",
@@ -252,7 +252,7 @@
       "Postoperative CT imaging of the temporal bone"
     ],
     "correctIndex": 1,
-    "explanation": "Free-running (spontaneous) EMG records continuous muscle activity from facial muscles (orbicularis oculi, orbicularis oris) via needle or surface electrodes. It provides real-time feedback: brief 'popcorn' bursts indicate mechanical stimulation of the nerve (warning to proceed carefully); sustained 'A-train' or 'B-train' activity indicates more serious compression or thermal injury and should prompt immediate cessation of drilling. Triggered EMG (stimulating with a probe) is used to locate the nerve position before cutting. Free-running EMG is the most sensitive early warning system. Postoperative clinical grading and CT are only retrospective."
+    "explanation": "Free-running (spontaneous) EMG records continuous muscle activity from facial muscles (orbicularis oculi, orbicularis oris) via needle or surface electrodes. It provides real-time feedback: brief 'popcorn' bursts indicate mechanical stimulation of the nerve (warning to proceed carefully); sustained 'A-train' or 'B-train' activity indicates more serious compression or thermal injury and should prompt immediate cessation of drilling. Triggered EMG (stimulating with a probe) is used to locate the nerve position before cutting. Free-running EMG is the most sensitive early warning system. Postoperative clinical grading and CT are only retrospective. (Ref: Prass RL, Lüders H. Neurosurgery 1986;19:392; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-018",
@@ -267,7 +267,7 @@
       "Tearing caused by ectropion from lower lid paralysis"
     ],
     "correctIndex": 1,
-    "explanation": "Crocodile tears (gustatory epiphora/Bogorad syndrome) results from aberrant regeneration of parasympathetic fibers originally destined for the submandibular/sublingual salivary glands (chorda tympani, via the GSPN) that instead reinnervate the lacrimal gland. This causes unilateral tearing (ipsilateral to the prior facial nerve injury) triggered by eating/salivation — the patient 'cries' when eating. It typically appears 3–6 months after facial nerve recovery. Treatment: botulinum toxin injection into the lacrimal gland or topical anticholinergics (hyoscine eye drops)."
+    "explanation": "Crocodile tears (gustatory epiphora/Bogorad syndrome) results from aberrant regeneration of parasympathetic fibers originally destined for the submandibular/sublingual salivary glands (chorda tympani, via the GSPN) that instead reinnervate the lacrimal gland. This causes unilateral tearing (ipsilateral to the prior facial nerve injury) triggered by eating/salivation — the patient 'cries' when eating. It typically appears 3–6 months after facial nerve recovery. Treatment: botulinum toxin injection into the lacrimal gland or topical anticholinergics (hyoscine eye drops). (Ref: Bogorad FA. Russ Arch Ophthalmol 1928; May M, Schaitkin BM (eds), The Facial Nerve, 2nd ed., Thieme 2000.)"
   },
   {
     "id": "OTO-FN-019",
@@ -282,7 +282,7 @@
       "Higher incidence only in the first trimester"
     ],
     "correctIndex": 1,
-    "explanation": "Bell's palsy incidence in the third trimester and early postpartum period is approximately 3 times higher than in age-matched non-pregnant women. Proposed mechanisms include immunological changes, fluid retention (edema in the fallopian canal), hypertension/preeclampsia, and HSV-1 reactivation. Prognosis is also slightly worse, with complete recovery in ~56–77% vs. >85% in non-pregnant patients. Prednisolone is generally considered safe after the first trimester for Bell's palsy treatment, though risks and benefits must be discussed. Antivirals (acyclovir) may be used but safety data is more limited."
+    "explanation": "Bell's palsy incidence in the third trimester and early postpartum period is approximately 3 times higher than in age-matched non-pregnant women. Proposed mechanisms include immunological changes, fluid retention (edema in the fallopian canal), hypertension/preeclampsia, and HSV-1 reactivation. Prognosis is also slightly worse, with complete recovery in ~56–77% vs. >85% in non-pregnant patients. Prednisolone is generally considered safe after the first trimester for Bell's palsy treatment, though risks and benefits must be discussed. Antivirals (acyclovir) may be used but safety data is more limited. (Ref: Gillman GS et al., Arch Otolaryngol Head Neck Surg 2002;128:993; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-020",
@@ -297,7 +297,7 @@
       "Gold weight implant to the upper eyelid only"
     ],
     "correctIndex": 1,
-    "explanation": "After 2–3 years of denervation, facial muscles undergo irreversible fibrosis and atrophy and can no longer be reinnervated. Reanimation requires muscle transfer. The gold standard for dynamic facial reanimation in long-standing paralysis is free gracilis muscle transfer: (1) a cross-face nerve graft (sural nerve) is placed from the contralateral functioning CN VII branches in a first stage (6–9 months before muscle transfer) to provide a mimetic nerve signal, then (2) the gracilis free flap is transferred and its nerve coaptated to the cross-face graft. This provides spontaneous, emotion-driven smile. Hypoglossal-facial anastomosis (XII-VII) is faster but sacrifices tongue function and produces non-spontaneous movement."
+    "explanation": "After 2–3 years of denervation, facial muscles undergo irreversible fibrosis and atrophy and can no longer be reinnervated. Reanimation requires muscle transfer. The gold standard for dynamic facial reanimation in long-standing paralysis is free gracilis muscle transfer: (1) a cross-face nerve graft (sural nerve) is placed from the contralateral functioning CN VII branches in a first stage (6–9 months before muscle transfer) to provide a mimetic nerve signal, then (2) the gracilis free flap is transferred and its nerve coaptated to the cross-face graft. This provides spontaneous, emotion-driven smile. Hypoglossal-facial anastomosis (XII-VII) is faster but sacrifices tongue function and produces non-spontaneous movement. (Ref: Terzis JK, Tzafetta K. Plast Reconstr Surg 2009;123:884; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-021",
@@ -312,7 +312,7 @@
       "PET-CT showing metabolic activity in the nerve"
     ],
     "correctIndex": 1,
-    "explanation": "Perineural invasion (PNI) is a hallmark of adenoid cystic carcinoma and other salivary gland malignancies. MRI with gadolinium is the most sensitive imaging modality to detect PNI of the facial nerve, showing abnormal enhancement and/or thickening along nerve branches — even extending retrogradely up to the geniculate ganglion or IAC. This changes surgical planning (requires resection of involved nerve segments) and radiation field design. CT is better for bony involvement. PET-CT is useful for nodal staging and detecting distant metastases but has lower resolution for nerve assessment. Pre/intraoperative facial nerve function correlates imperfectly with PNI."
+    "explanation": "Perineural invasion (PNI) is a hallmark of adenoid cystic carcinoma and other salivary gland malignancies. MRI with gadolinium is the most sensitive imaging modality to detect PNI of the facial nerve, showing abnormal enhancement and/or thickening along nerve branches — even extending retrogradely up to the geniculate ganglion or IAC. This changes surgical planning (requires resection of involved nerve segments) and radiation field design. CT is better for bony involvement. PET-CT is useful for nodal staging and detecting distant metastases but has lower resolution for nerve assessment. Pre/intraoperative facial nerve function correlates imperfectly with PNI. (Ref: Perzin KH et al., Cancer 1978;42:519; Cummings Otolaryngology-HNS, 7th ed., Ch. on salivary gland tumors.)"
   },
   {
     "id": "OTO-FN-022",
@@ -342,7 +342,7 @@
       "Geniculate ganglion"
     ],
     "correctIndex": 1,
-    "explanation": "The meatal foramen (also called the meatal segment or IAC–labyrinthine junction) is the narrowest point of the bony facial nerve canal, measuring approximately 0.68 mm in diameter. This anatomic narrowing is believed to be the site where the nerve is most susceptible to compression edema — explaining why this region is the most common site of inflammation and injury in Bell's palsy and why decompression surgery (if performed) must include the meatal foramen. The nerve is surrounded by a tight sheath of dura and bone at this point with minimal space for swelling."
+    "explanation": "The meatal foramen (also called the meatal segment or IAC–labyrinthine junction) is the narrowest point of the bony facial nerve canal, measuring approximately 0.68 mm in diameter. This anatomic narrowing is believed to be the site where the nerve is most susceptible to compression edema — explaining why this region is the most common site of inflammation and injury in Bell's palsy and why decompression surgery (if performed) must include the meatal foramen. The nerve is surrounded by a tight sheath of dura and bone at this point with minimal space for swelling. (Ref: Fisch U, Mattox D. Microsurgery of the Skull Base, Thieme 1988; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-024",
@@ -357,7 +357,7 @@
       "Sjögren syndrome"
     ],
     "correctIndex": 1,
-    "explanation": "Heerfordt syndrome (uveoparotid fever) is a rare manifestation of sarcoidosis comprising: bilateral parotid enlargement, anterior uveitis, facial nerve palsy (bilateral in some cases), and low-grade fever. It accounts for a small percentage of all sarcoid cases. Treatment is systemic corticosteroids for the underlying sarcoidosis. Melkersson-Rosenthal syndrome is a different condition with recurrent facial palsy, orofacial edema, and fissured (scrotal) tongue. Bilateral facial palsy should prompt workup for sarcoidosis, Lyme disease, Guillain-Barré syndrome, and lymphoma."
+    "explanation": "Heerfordt syndrome (uveoparotid fever) is a rare manifestation of sarcoidosis comprising: bilateral parotid enlargement, anterior uveitis, facial nerve palsy (bilateral in some cases), and low-grade fever. It accounts for a small percentage of all sarcoid cases. Treatment is systemic corticosteroids for the underlying sarcoidosis. Melkersson-Rosenthal syndrome is a different condition with recurrent facial palsy, orofacial edema, and fissured (scrotal) tongue. Bilateral facial palsy should prompt workup for sarcoidosis, Lyme disease, Guillain-Barré syndrome, and lymphoma. (Ref: Heerfordt CF. Arch Ophthalmol 1909; Cummings Otolaryngology-HNS, 7th ed., Ch. 167.)"
   },
   {
     "id": "OTO-FN-025",
@@ -372,6 +372,6 @@
       "Extratemporal segment at the stylomastoid foramen"
     ],
     "correctIndex": 2,
-    "explanation": "Facial nerve decompression for Bell's palsy, when indicated (>90% degeneration on ENoG within 14 days, no voluntary EMG activity), should include the meatal foramen and labyrinthine segment — the narrowest, most constrained portion of the nerve and the presumed site of maximum edema and compression. The geniculate ganglion region is also included. This requires a middle cranial fossa approach (or combined transmastoid-MCF). Decompressing only the mastoid or tympanic segment misses the critical labyrinthine segment. The surgery is controversial: a prospective randomized trial (NIDCD study) failed to show benefit over steroids alone."
+    "explanation": "Facial nerve decompression for Bell's palsy, when indicated (>90% degeneration on ENoG within 14 days, no voluntary EMG activity), should include the meatal foramen and labyrinthine segment — the narrowest, most constrained portion of the nerve and the presumed site of maximum edema and compression. The geniculate ganglion region is also included. This requires a middle cranial fossa approach (or combined transmastoid-MCF). Decompressing only the mastoid or tympanic segment misses the critical labyrinthine segment. The surgery is controversial: a prospective randomized trial (NIDCD study) failed to show benefit over steroids alone. (Ref: Gantz BJ et al., Laryngoscope 1999;109:1177; Lambert PR et al., Otolaryngol Head Neck Surg 2012;146:877.)"
   }
 ]

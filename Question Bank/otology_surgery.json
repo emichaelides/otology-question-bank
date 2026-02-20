@@ -12,7 +12,7 @@
       "Graft on the incus after removal of the malleus"
     ],
     "correctIndex": 0,
-    "explanation": "Wullstein Type III tympanoplasty (myringostapediopexy) places the tympanic membrane graft directly onto the head of the stapes when the malleus and incus are absent but the stapes superstructure is intact and mobile. This creates a columellar effect. Type I repairs a perforation with intact ossicular chain; Type II uses the remnant malleus; Type IV bypasses the ossicular chain entirely with a small tympanic cavity over a mobile footplate."
+    "explanation": "Wullstein Type III tympanoplasty (myringostapediopexy) places the tympanic membrane graft directly onto the head of the stapes when the malleus and incus are absent but the stapes superstructure is intact and mobile. This creates a columellar effect. Type I repairs a perforation with intact ossicular chain; Type II uses the remnant malleus; Type IV bypasses the ossicular chain entirely with a small tympanic cavity over a mobile footplate. (Ref: Wullstein H. Theory and practice of tympanoplasty. Laryngoscope. 1956;66:1076-1093.)"
   },
   {
     "id": "OTO-SX-002",
@@ -27,7 +27,7 @@
       "Acellular dermal allograft"
     ],
     "correctIndex": 2,
-    "explanation": "Temporalis fascia is the gold standard graft material for tympanoplasty, with reported success rates of 85–95%. It is thin, pliable, avascular, and readily harvested through a small post-auricular incision. Perichondrium (often with cartilage) is preferred for anterior perforations, revision cases, or high-risk situations (Eustachian tube dysfunction, cholesteatoma) due to its rigidity. Fat grafts are reserved for small perforations. Acellular dermis is an alternative when autograft tissue is unavailable."
+    "explanation": "Temporalis fascia is the gold standard graft material for tympanoplasty, with reported success rates of 85–95%. It is thin, pliable, avascular, and readily harvested through a small post-auricular incision. Perichondrium (often with cartilage) is preferred for anterior perforations, revision cases, or high-risk situations (Eustachian tube dysfunction, cholesteatoma) due to its rigidity. Fat grafts are reserved for small perforations. Acellular dermis is an alternative when autograft tissue is unavailable. (Ref: Onal K et al., Am J Otolaryngol 2005;26:382; Cummings Otolaryngology-HNS, 7th ed., Ch. 141.)"
   },
   {
     "id": "OTO-SX-003",
@@ -38,11 +38,11 @@
     "choices": [
       "Lower cholesteatoma recurrence rate",
       "No requirement for postoperative cavity care",
-      "Higher rates of residual cholesteatoma requiring second-look surgery",
+      "Lower rates of residual cholesteatoma requiring second-look surgery",
       "Better hearing outcomes due to preservation of middle ear mechanics"
     ],
     "correctIndex": 2,
-    "explanation": "CWU (intact canal wall) mastoidectomy preserves the posterior canal wall, maintaining a more normal middle ear anatomy and improving hearing rehabilitation options. However, it has higher rates of residual/recurrent cholesteatoma because visualization of hidden recesses (sinus tympani, facial recess) is limited. Second-look surgery at 12 months is often planned. CWD creates a mastoid bowl that is easier to inspect but requires lifelong cavity care (regular cleaning, water precautions) and has higher rates of persistent otorrhea."
+    "explanation": "CWU (intact canal wall) mastoidectomy preserves the posterior canal wall, maintaining a more normal middle ear anatomy and improving hearing rehabilitation options. However, it has higher rates of residual/recurrent cholesteatoma because visualization of hidden recesses (sinus tympani, facial recess) is limited. Second-look surgery at 12 months is often planned. CWD creates a mastoid bowl that is easier to inspect but requires lifelong cavity care (regular cleaning, water precautions) and has higher rates of persistent otorrhea. (Ref: Cummings Otolaryngology-HNS, 7th ed., Ch. 141; Brackmann DE et al. (eds), Otologic Surgery, 4th ed., Elsevier 2016.)"
   },
   {
     "id": "OTO-SX-004",
@@ -57,7 +57,7 @@
       "The digastric ridge"
     ],
     "correctIndex": 2,
-    "explanation": "The facial recess is bounded medially by the facial nerve (vertical/mastoid segment), laterally by the chorda tympani, and superiorly by the incus buttress. The chorda tympani is the critical lateral boundary landmark — drilling must stay medial to it. The facial nerve lies just medial; inadvertent medial extension risks facial nerve injury. The short process of the incus and digastric ridge are also useful orienting landmarks but the chorda tympani defines the safe lateral limit of the facial recess."
+    "explanation": "The facial recess is bounded medially by the facial nerve (vertical/mastoid segment), laterally by the chorda tympani, and superiorly by the incus buttress. The chorda tympani is the critical lateral boundary landmark — drilling must stay medial to it. The facial nerve lies just medial; inadvertent medial extension risks facial nerve injury. The short process of the incus and digastric ridge are also useful orienting landmarks but the chorda tympani defines the safe lateral limit of the facial recess. (Ref: Brackmann DE et al. (eds), Otologic Surgery, 4th ed., Elsevier 2016; Cummings Otolaryngology-HNS, 7th ed., Ch. 141.)"
   },
   {
     "id": "OTO-SX-005",
@@ -72,7 +72,7 @@
       "Reparative granuloma formation"
     ],
     "correctIndex": 1,
-    "explanation": "A prosthesis that is too short is the most common cause of persistent conductive hearing loss immediately after stapedectomy — the wire-piston does not reach the perilymph and fails to transmit sound energy. Ideal prosthesis length is 0.25 mm beyond the footplate (4.0–4.5 mm total). Perilymph fistula causes sensorineural loss. Incus necrosis is a late complication causing recurrent CHL months to years later. Reparative granuloma (fibrous tissue at the oval window) occurs weeks postoperatively and causes mixed hearing loss."
+    "explanation": "A prosthesis that is too short is the most common cause of persistent conductive hearing loss immediately after stapedectomy — the wire-piston does not reach the perilymph and fails to transmit sound energy. Ideal prosthesis length is 0.25 mm beyond the footplate (4.0–4.5 mm total). Perilymph fistula causes sensorineural loss. Incus necrosis is a late complication causing recurrent CHL months to years later. Reparative granuloma (fibrous tissue at the oval window) occurs weeks postoperatively and causes mixed hearing loss. (Ref: Lippy WH, Berenholz LP. Otolaryngol Head Neck Surg 2003;128:356; Cummings Otolaryngology-HNS, 7th ed., Ch. 142.)"
   },
   {
     "id": "OTO-SX-006",
@@ -87,7 +87,7 @@
       "Both procedures have equivalent rates of dead ear"
     ],
     "correctIndex": 2,
-    "explanation": "Stapedotomy involves creating a small fenestra (0.6–0.8 mm diameter) in the stapes footplate using a laser or microdrill, through which a piston prosthesis is placed. The remainder of the footplate is left intact. This is now preferred over stapedectomy (total footplate removal) because it minimizes risk of perilymph flooding, reduces rate of dead ear (0.2–1%), and provides equivalent hearing results. Stapedectomy (complete footplate removal with connective tissue seal) carries slightly higher SNHL risk."
+    "explanation": "Stapedotomy involves creating a small fenestra (0.6–0.8 mm diameter) in the stapes footplate using a laser or microdrill, through which a piston prosthesis is placed. The remainder of the footplate is left intact. This is now preferred over stapedectomy (total footplate removal) because it minimizes risk of perilymph flooding, reduces rate of dead ear (0.2–1%), and provides equivalent hearing results. Stapedectomy (complete footplate removal with connective tissue seal) carries slightly higher SNHL risk. (Ref: Bhatt YM et al., Otolaryngol Head Neck Surg 2012;147:679; Cummings Otolaryngology-HNS, 7th ed., Ch. 142.)"
   },
   {
     "id": "OTO-SX-007",
@@ -102,7 +102,7 @@
       "Proceed with the piston on the mobile footplate fragment"
     ],
     "correctIndex": 2,
-    "explanation": "A floating footplate (complete mobilization of the entire footplate into the vestibule during surgery) is a recognized complication. The recommended approach is careful removal of the floating footplate in one piece using a right-angle hook or suction, avoiding plunging it into the vestibule. The oval window is then covered with a connective tissue graft and the prosthesis placed. Aborting is an option if the footplate cannot be retrieved safely, but attempting careful removal is preferred. Leaving it in situ risks SNHL and infection."
+    "explanation": "A floating footplate (complete mobilization of the entire footplate into the vestibule during surgery) is a recognized complication. The recommended approach is careful removal of the floating footplate in one piece using a right-angle hook or suction, avoiding plunging it into the vestibule. The oval window is then covered with a connective tissue graft and the prosthesis placed. Aborting is an option if the footplate cannot be retrieved safely, but attempting careful removal is preferred. Leaving it in situ risks SNHL and infection. (Ref: Brackmann DE et al. (eds), Otologic Surgery, 4th ed., Elsevier 2016; Cummings Otolaryngology-HNS, 7th ed., Ch. 142.)"
   },
   {
     "id": "OTO-SX-008",
@@ -117,7 +117,7 @@
       "Only the malleus is absent with intact incus and stapes"
     ],
     "correctIndex": 1,
-    "explanation": "A PORP bridges from the tympanic membrane (or malleus handle if present) to the head of the stapes, replacing a missing or eroded incus. It is used when the stapes superstructure is intact and mobile. A TORP (total ossicular replacement prosthesis) bridges from the tympanic membrane to the stapes footplate when the entire superstructure is absent. Hydroxyapatite and titanium are common materials. PORP outcomes are generally better than TORP (lower extrusion rates, better sound transmission)."
+    "explanation": "A PORP bridges from the tympanic membrane (or malleus handle if present) to the head of the stapes, replacing a missing or eroded incus. It is used when the stapes superstructure is intact and mobile. A TORP (total ossicular replacement prosthesis) bridges from the tympanic membrane to the stapes footplate when the entire superstructure is absent. Hydroxyapatite and titanium are common materials. PORP outcomes are generally better than TORP (lower extrusion rates, better sound transmission). (Ref: Brackmann DE et al. (eds), Otologic Surgery, 4th ed., Elsevier 2016; Cummings Otolaryngology-HNS, 7th ed., Ch. 141.)"
   },
   {
     "id": "OTO-SX-009",
@@ -132,7 +132,7 @@
       "Profound sensorineural hearing loss"
     ],
     "correctIndex": 2,
-    "explanation": "The most common complication of endolymphatic sac decompression (ELD) is failure to control vertigo — vertigo control rates are only 50–70% at 2 years and may decline over time. The original Thomsen placebo-controlled trial (1981) showed outcomes similar to mastoidectomy alone, raising questions about efficacy. SNHL and facial nerve injury are rare (<1–2%). ELD is typically offered before ablative procedures (labyrinthectomy, IT gentamicin) because it is potentially hearing-preserving, despite uncertain efficacy."
+    "explanation": "The most common complication of endolymphatic sac decompression (ELD) is failure to control vertigo — vertigo control rates are only 50–70% at 2 years and may decline over time. The original Thomsen placebo-controlled trial (1981) showed outcomes similar to mastoidectomy alone, raising questions about efficacy. SNHL and facial nerve injury are rare (<1–2%). ELD is typically offered before ablative procedures (labyrinthectomy, IT gentamicin) because it is potentially hearing-preserving, despite uncertain efficacy. (Ref: Thomsen J et al., Arch Otolaryngol 1981;107:271; Cummings Otolaryngology-HNS, 7th ed., Ch. 159.)"
   },
   {
     "id": "OTO-SX-010",
@@ -147,7 +147,7 @@
       "It is faster and requires less surgical skill"
     ],
     "correctIndex": 1,
-    "explanation": "The round window insertion approach is preferred because it avoids drilling a new cochleostomy adjacent to the basilar membrane, minimizing intracochlear trauma, bone dust, and disruption of residual acoustic hearing. This is particularly important for hybrid/EAS (electric-acoustic stimulation) candidates who have usable low-frequency residual hearing. The round window membrane is incised and the electrode array inserted under direct vision. Cochleostomy (anterior-inferior to the round window niche) remains an alternative when round window anatomy is unfavorable."
+    "explanation": "The round window insertion approach is preferred because it avoids drilling a new cochleostomy adjacent to the basilar membrane, minimizing intracochlear trauma, bone dust, and disruption of residual acoustic hearing. This is particularly important for hybrid/EAS (electric-acoustic stimulation) candidates who have usable low-frequency residual hearing. The round window membrane is incised and the electrode array inserted under direct vision. Cochleostomy (anterior-inferior to the round window niche) remains an alternative when round window anatomy is unfavorable. (Ref: Lehnhardt E. HNO 1993;41:356; Roland JT Jr et al., Otol Neurotol 2016;37:e149.)"
   },
   {
     "id": "OTO-SX-011",
@@ -162,7 +162,7 @@
       "Widened cochlear aqueduct"
     ],
     "correctIndex": 1,
-    "explanation": "Perilymph gusher during stapedotomy is classically associated with X-linked hearing loss (DFN3), caused by POU3F4 gene mutation. CT shows a bulbous (widened) internal auditory canal with incomplete partition of the cochlea (IP-III/X-linked pattern), creating an anomalous communication between the subarachnoid space and perilymph. Management: pack the oval window with connective tissue, avoid further surgery. Preoperative CT and family history (X-linked pattern with carrier mothers and affected males) should prompt counseling before stapes surgery."
+    "explanation": "Perilymph gusher during stapedotomy is classically associated with X-linked hearing loss (DFN3), caused by POU3F4 gene mutation. CT shows a bulbous (widened) internal auditory canal with incomplete partition of the cochlea (IP-III/X-linked pattern), creating an anomalous communication between the subarachnoid space and perilymph. Management: pack the oval window with connective tissue, avoid further surgery. Preoperative CT and family history (X-linked pattern with carrier mothers and affected males) should prompt counseling before stapes surgery. (Ref: Phelps PD et al., J Laryngol Otol 1991;105:901; Cummings Otolaryngology-HNS, 7th ed., Ch. 142.)"
   },
   {
     "id": "OTO-SX-012",
@@ -177,7 +177,7 @@
       "Cochlear implantation in ossified cochlea"
     ],
     "correctIndex": 1,
-    "explanation": "The middle cranial fossa approach is used for small (≤1.5 cm), predominantly intracanalicular tumors when hearing preservation is the goal. The surgeon works extradurally to expose the IAC roof, providing excellent visualization of the fundus. Hearing preservation rates are highest for this approach with small tumors and good preoperative hearing. The translabyrinthine approach sacrifices hearing but gives excellent tumor access regardless of size. The retrosigmoid approach can preserve hearing for tumors with a small CPA component but has difficulty accessing the lateral IAC fundus."
+    "explanation": "The middle cranial fossa approach is used for small (≤1.5 cm), predominantly intracanalicular tumors when hearing preservation is the goal. The surgeon works extradurally to expose the IAC roof, providing excellent visualization of the fundus. Hearing preservation rates are highest for this approach with small tumors and good preoperative hearing. The translabyrinthine approach sacrifices hearing but gives excellent tumor access regardless of size. The retrosigmoid approach can preserve hearing for tumors with a small CPA component but has difficulty accessing the lateral IAC fundus. (Ref: Slattery WH et al., Laryngoscope 2004;114:1836; Cummings Otolaryngology-HNS, 7th ed., Ch. 175.)"
   },
   {
     "id": "OTO-SX-013",
@@ -207,7 +207,7 @@
       "Hypotympanum"
     ],
     "correctIndex": 1,
-    "explanation": "The sinus tympani is the most common site of residual cholesteatoma at second-look surgery after canal wall up mastoidectomy. This posterior mesotympanic recess is behind the facial nerve and is difficult to visualize or instrument through the facial recess approach. Endoscopic approaches (using angled endoscopes) have significantly improved visualization of the sinus tympani. The facial recess, epitympanum, and round window niche are also sites but the sinus tympani remains the most problematic hidden recess."
+    "explanation": "The sinus tympani is the most common site of residual cholesteatoma at second-look surgery after canal wall up mastoidectomy. This posterior mesotympanic recess is behind the facial nerve and is difficult to visualize or instrument through the facial recess approach. Endoscopic approaches (using angled endoscopes) have significantly improved visualization of the sinus tympani. The facial recess, epitympanum, and round window niche are also sites but the sinus tympani remains the most problematic hidden recess. (Ref: Shelton C et al., Laryngoscope 1990;100:1051; Cummings Otolaryngology-HNS, 7th ed., Ch. 141.)"
   },
   {
     "id": "OTO-SX-015",
@@ -222,7 +222,7 @@
       "Reducing endolymph production by the stria vascularis"
     ],
     "correctIndex": 1,
-    "explanation": "Intratympanic gentamicin selectively destroys vestibular hair cells (primarily type I hair cells of the cristae and maculae), reducing the afferent input from the affected ear and eliminating the asymmetric vestibular signals that cause episodic vertigo. Cochlear hair cells are also aminoglycoside-sensitive, so hearing loss (5–30%) is a known risk. Vertigo control rates are 80–90%. It is preferred over surgical labyrinthectomy in patients with some residual serviceable hearing, as it avoids general anesthesia and achieves near-equivalent vestibular ablation."
+    "explanation": "Intratympanic gentamicin selectively destroys vestibular hair cells (primarily type I hair cells of the cristae and maculae), reducing the afferent input from the affected ear and eliminating the asymmetric vestibular signals that cause episodic vertigo. Cochlear hair cells are also aminoglycoside-sensitive, so hearing loss (5–30%) is a known risk. Vertigo control rates are 80–90%. It is preferred over surgical labyrinthectomy in patients with some residual serviceable hearing, as it avoids general anesthesia and achieves near-equivalent vestibular ablation. (Ref: Rauch SD et al., Laryngoscope 2006;116:1831; Cummings Otolaryngology-HNS, 7th ed., Ch. 159.)"
   },
   {
     "id": "OTO-SX-016",
@@ -252,7 +252,7 @@
       "Place the electrode on the cochlear nerve (auditory brainstem implant instead)"
     ],
     "correctIndex": 1,
-    "explanation": "Ossified cochleae from post-meningitis labyrinthitis ossificans present a surgical challenge. Partial ossification of the basal turn (most common pattern) can be managed with a compressed electrode (e.g., Nucleus Contour Advance) or split electrode array where one portion goes into a drilled-out basal turn channel and another portion goes through a second cochleostomy or through partial ossification. Complete ossification may require drilling a new lumen. ABI is reserved for cases where the cochlear nerve is absent/non-functional (NF2, cochlear aplasia). Early implantation (before complete ossification) is recommended."
+    "explanation": "Ossified cochleae from post-meningitis labyrinthitis ossificans present a surgical challenge. Partial ossification of the basal turn (most common pattern) can be managed with a compressed electrode (e.g., Nucleus Contour Advance) or split electrode array where one portion goes into a drilled-out basal turn channel and another portion goes through a second cochleostomy or through partial ossification. Complete ossification may require drilling a new lumen. ABI is reserved for cases where the cochlear nerve is absent/non-functional (NF2, cochlear aplasia). Early implantation (before complete ossification) is recommended. (Ref: Balkany T et al., Otol Neurotol 2009;30:585; Cummings Otolaryngology-HNS, 7th ed., Ch. 163.)"
   },
   {
     "id": "OTO-SX-018",
@@ -267,7 +267,7 @@
       "Recurrent cholesteatoma after prior CWU mastoidectomy"
     ],
     "correctIndex": 1,
-    "explanation": "The Bondy modified radical mastoidectomy is specifically designed for attic (epitympanic) cholesteatoma that is confined to the epitympanum and does not involve the middle ear proper or ossicular chain. The posterior canal wall is lowered to exteriorize the attic, creating a small, easily maintained cavity while preserving the middle ear, tympanic membrane, and ossicular chain — thus conserving hearing. It is not appropriate when cholesteatoma has extended medially to involve the mesotympanum or ossicles."
+    "explanation": "The Bondy modified radical mastoidectomy is specifically designed for attic (epitympanic) cholesteatoma that is confined to the epitympanum and does not involve the middle ear proper or ossicular chain. The posterior canal wall is lowered to exteriorize the attic, creating a small, easily maintained cavity while preserving the middle ear, tympanic membrane, and ossicular chain — thus conserving hearing. It is not appropriate when cholesteatoma has extended medially to involve the mesotympanum or ossicles. (Ref: Bondy G. Mschr Ohrenheilk. 1910;44:15; Cummings Otolaryngology-HNS, 7th ed., Ch. 141.)"
   },
   {
     "id": "OTO-SX-019",
@@ -282,7 +282,7 @@
       "Inferior vestibular nerve"
     ],
     "correctIndex": 1,
-    "explanation": "During the translabyrinthine approach, the jugular bulb forms the inferior limit of IAC drilling and the inferior extent of the mastoid dissection. A high-riding jugular bulb can significantly limit inferior exposure and must be identified on preoperative imaging. Injury to the jugular bulb causes brisk venous bleeding controlled with packing. The posterior semicircular canal is intentionally sacrificed (the approach destroys labyrinthine function). The cochlear aqueduct is a landmark for the inferior IAC and cochlear nerve position. Care is also taken around the facial nerve throughout."
+    "explanation": "During the translabyrinthine approach, the jugular bulb forms the inferior limit of IAC drilling and the inferior extent of the mastoid dissection. A high-riding jugular bulb can significantly limit inferior exposure and must be identified on preoperative imaging. Injury to the jugular bulb causes brisk venous bleeding controlled with packing. The posterior semicircular canal is intentionally sacrificed (the approach destroys labyrinthine function). The cochlear aqueduct is a landmark for the inferior IAC and cochlear nerve position. Care is also taken around the facial nerve throughout. (Ref: Brackmann DE et al. (eds), Otologic Surgery, 4th ed., Elsevier 2016; Cummings Otolaryngology-HNS, 7th ed., Ch. 175.)"
   },
   {
     "id": "OTO-SX-020",
@@ -312,7 +312,7 @@
       "Cochlear nerve from the singular nerve"
     ],
     "correctIndex": 1,
-    "explanation": "Bill's bar (the vertical crest) is a bony ridge at the lateral fundus of the IAC that separates the facial nerve (anterosuperior) from the superior vestibular nerve (posterosuperior) in the superior compartment. The transverse crest (horizontal crest) separates the superior compartment (facial + superior vestibular nerves) from the inferior compartment (cochlear nerve + inferior vestibular nerve). Identifying Bill's bar is critical during middle cranial fossa approach to avoid confusing the facial nerve with the superior vestibular nerve — the mnemonic is '7 UP, COKE DOWN' (facial nerve is anterosuperior, cochlear is inferoanterior)."
+    "explanation": "Bill's bar (the vertical crest) is a bony ridge at the lateral fundus of the IAC that separates the facial nerve (anterosuperior) from the superior vestibular nerve (posterosuperior) in the superior compartment. The transverse crest (horizontal crest) separates the superior compartment (facial + superior vestibular nerves) from the inferior compartment (cochlear nerve + inferior vestibular nerve). Identifying Bill's bar is critical during middle cranial fossa approach to avoid confusing the facial nerve with the superior vestibular nerve — the mnemonic is '7 UP, COKE DOWN' (facial nerve is anterosuperior, cochlear is inferoanterior). (Ref: House WF. Arch Otolaryngol 1961;73:735; Jackler RK. Atlas of Skull Base Surgery and Neurotology, 2nd ed., Thieme 2009.)"
   },
   {
     "id": "OTO-SX-022",
@@ -327,7 +327,7 @@
       "Revision cases with significant scarring"
     ],
     "correctIndex": 1,
-    "explanation": "Endoscopic ear surgery provides wide-angle, panoramic visualization — particularly advantageous for anterior tympanic membrane perforations and anterior sulcus visualization, which are notoriously difficult with the monocular microscope. The endoscope can see 'around corners,' reducing the need for canal canaloplasty. EES is also useful for inspection of the sinus tympani in cholesteatoma surgery. Limitations include one-handed technique (other hand holds the endoscope), thermal injury risk from the endoscope tip, and no depth perception (monocular view)."
+    "explanation": "Endoscopic ear surgery provides wide-angle, panoramic visualization — particularly advantageous for anterior tympanic membrane perforations and anterior sulcus visualization, which are notoriously difficult with the monocular microscope. The endoscope can see 'around corners,' reducing the need for canal canaloplasty. EES is also useful for inspection of the sinus tympani in cholesteatoma surgery. Limitations include one-handed technique (other hand holds the endoscope), thermal injury risk from the endoscope tip, and no depth perception (monocular view). (Ref: Tarabichi M. Am J Otol 1999;20:814; Poe DS et al., Otol Neurotol 2002;23:s31.)"
   },
   {
     "id": "OTO-SX-023",
@@ -342,7 +342,7 @@
       "Surgeon experience and case volume"
     ],
     "correctIndex": 1,
-    "explanation": "The presence of a recordable electrically evoked compound action potential (EECAP) of the facial nerve at the end of the case — stimulating the nerve at the brainstem end and recording distally — is the best intraoperative predictor of postoperative facial nerve function. Even if nerve stimulation thresholds are elevated or EMG responses are absent due to traction, a recordable EECAP suggests anatomic continuity and predicts functional recovery. Preoperative tumor size correlates broadly but does not reflect intraoperative nerve handling. Intraoperative EMG patterns (A-trains, burst activity) also provide prognostic information."
+    "explanation": "The presence of a recordable electrically evoked compound action potential (EECAP) of the facial nerve at the end of the case — stimulating the nerve at the brainstem end and recording distally — is the best intraoperative predictor of postoperative facial nerve function. Even if nerve stimulation thresholds are elevated or EMG responses are absent due to traction, a recordable EECAP suggests anatomic continuity and predicts functional recovery. Preoperative tumor size correlates broadly but does not reflect intraoperative nerve handling. Intraoperative EMG patterns (A-trains, burst activity) also provide prognostic information. (Ref: Lalwani AK et al., Laryngoscope 1996;106:833; Cummings Otolaryngology-HNS, 7th ed., Ch. 175.)"
   },
   {
     "id": "OTO-SX-024",
@@ -357,7 +357,7 @@
       "Oval window reinforcement"
     ],
     "correctIndex": 1,
-    "explanation": "Surgical repair of SSCD involves either plugging the dehiscent canal (occlusion of the membranous superior canal from within the bony canal) or resurfacing the bony defect with bone wax or fascia. This can be accomplished via the middle cranial fossa (MCF) approach, providing direct visualization of the dehiscence on the floor of the middle fossa, or via a transmastoid approach (less direct but avoids craniotomy). Plugging eliminates the third window effect and resolves symptoms in >90% of cases. Round window reinforcement is a less invasive but less reliable alternative option."
+    "explanation": "Surgical repair of SSCD involves either plugging the dehiscent canal (occlusion of the membranous superior canal from within the bony canal) or resurfacing the bony defect with bone wax or fascia. This can be accomplished via the middle cranial fossa (MCF) approach, providing direct visualization of the dehiscence on the floor of the middle fossa, or via a transmastoid approach (less direct but avoids craniotomy). Plugging eliminates the third window effect and resolves symptoms in >90% of cases. Round window reinforcement is a less invasive but less reliable alternative option. (Ref: Minor LB et al., Arch Otolaryngol Head Neck Surg 2000;126:1512; Carey JP et al., Laryngoscope 2000;110:1636.)"
   },
   {
     "id": "OTO-SX-025",
@@ -372,6 +372,6 @@
       "Lifelong anticoagulation is required"
     ],
     "correctIndex": 1,
-    "explanation": "Sigmoid sinus thrombosis (SST) from acute mastoiditis is treated with mastoidectomy to remove the infective source, IV antibiotics, and therapeutic anticoagulation (typically heparin transitioning to warfarin/DOAC). Duration of anticoagulation is generally until imaging (MR venography) documents recanalization, or for a minimum of 3–6 months in the absence of recanalization. Anticoagulation reduces risk of clot propagation, septic emboli, and cavernous sinus extension. Lifelong therapy is not routinely required unless an underlying thrombophilia is identified. Anticoagulation is not contraindicated in this infectious setting."
+    "explanation": "Sigmoid sinus thrombosis (SST) from acute mastoiditis is treated with mastoidectomy to remove the infective source, IV antibiotics, and therapeutic anticoagulation (typically heparin transitioning to warfarin/DOAC). Duration of anticoagulation is generally until imaging (MR venography) documents recanalization, or for a minimum of 3–6 months in the absence of recanalization. Anticoagulation reduces risk of clot propagation, septic emboli, and cavernous sinus extension. Lifelong therapy is not routinely required unless an underlying thrombophilia is identified. Anticoagulation is not contraindicated in this infectious setting. (Ref: Vieira RG et al., J Laryngol Otol 2017;131:574; Cummings Otolaryngology-HNS, 7th ed., Ch. 140.)"
   }
 ]
