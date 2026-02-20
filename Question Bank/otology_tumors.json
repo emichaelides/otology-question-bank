@@ -1,0 +1,377 @@
+[
+  {
+    "id": "OTO-TUM-001",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "easy",
+    "question": "Vestibular schwannomas most commonly arise from which cell type and location?",
+    "choices": [
+      "Schwann cells of the cochlear nerve at the spiral ganglion",
+      "Schwann cells of the superior vestibular nerve at the Obersteiner-Redlich zone",
+      "Arachnoid cap cells of the internal auditory canal",
+      "Schwann cells of the facial nerve at the geniculate ganglion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vestibular schwannomas arise from Schwann cells of the vestibular nerve, most commonly the superior division, at the Obersteiner-Redlich zone — the junction between central myelin (oligodendrocytes) and peripheral myelin (Schwann cells), located near the porus acusticus of the IAC. Despite the common misnomer 'acoustic neuroma,' these tumors originate from vestibular (not cochlear) nerve Schwann cells. The superior vestibular nerve is more commonly involved than the inferior vestibular nerve.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-TUM-002",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "easy",
+    "question": "Bilateral vestibular schwannomas are pathognomonic of which condition, and what is the responsible gene?",
+    "choices": [
+      "Neurofibromatosis type 1 (NF1); NF1 gene on chromosome 17",
+      "Neurofibromatosis type 2 (NF2); NF2 gene on chromosome 22",
+      "Von Hippel-Lindau disease; VHL gene on chromosome 3",
+      "Gardner syndrome; APC gene on chromosome 5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bilateral vestibular schwannomas are pathognomonic of Neurofibromatosis type 2 (NF2). The NF2 tumor suppressor gene is located on chromosome 22q12 and encodes the protein merlin (schwannomin). Loss of merlin function leads to uncontrolled Schwann cell proliferation. NF2 is autosomal dominant; patients may also develop meningiomas, ependymomas, and spinal schwannomas. NF1 (chromosome 17) is associated with optic gliomas and neurofibromas, not bilateral vestibular schwannomas.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-TUM-003",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "easy",
+    "question": "Which MRI characteristics are most typical of a vestibular schwannoma?",
+    "choices": [
+      "T1 hypointense, T2 hypointense, no enhancement with gadolinium",
+      "T1 isointense to hypointense, T2 hyperintense, avid enhancement with gadolinium",
+      "T1 hyperintense, T2 hypointense, peripheral ring enhancement",
+      "T1 isointense, T2 isointense, dural tail sign on post-contrast imaging"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vestibular schwannomas are classically T1 isointense to hypointense and T2 hyperintense (bright) on MRI, with avid, homogeneous gadolinium enhancement. Larger tumors may show heterogeneous enhancement due to cystic degeneration or hemorrhage. Gadolinium-enhanced MRI is the gold standard for diagnosis, with sensitivity approaching 100% for tumors >2 mm. The dural tail sign is characteristic of meningioma. T1 hyperintensity without gadolinium suggests hemorrhagic content, as seen in cholesterol granuloma.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-TUM-004",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "medium",
+    "question": "A 45-year-old patient has a 1.2 cm vestibular schwannoma confined to the IAC with good ipsilateral hearing (PTA 25 dB, WRS 90%). Which management approach is most appropriate as the initial strategy?",
+    "choices": [
+      "Immediate translabyrinthine surgical resection",
+      "Stereotactic radiosurgery (Gamma Knife) to prevent growth",
+      "Active surveillance with serial MRI every 6-12 months",
+      "Middle cranial fossa surgical resection for hearing preservation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Active surveillance (watchful waiting) with serial MRI is the preferred initial management for small intracanalicular vestibular schwannomas in patients with good hearing. Studies show approximately 50-70% of vestibular schwannomas do not grow significantly over time. Intervention (SRS or surgery) is reserved for tumors demonstrating growth, causing brainstem compression, or progressive symptomatic deterioration. Immediate surgery would expose the patient to unnecessary risks of facial nerve injury and hearing loss for a potentially non-growing tumor.\n\nReference: AAO-HNS guidelines; Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-TUM-005",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "medium",
+    "question": "The Koos grading system classifies vestibular schwannomas by size and CPA extension. Which Koos grade describes a tumor that fills the CPA cistern and contacts the brainstem without displacing it?",
+    "choices": [
+      "Koos Grade I",
+      "Koos Grade II",
+      "Koos Grade III",
+      "Koos Grade IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Koos grading system: Grade I — small intracanalicular tumor confined to the IAC; Grade II — small tumor extending into the CPA cistern but not reaching the brainstem; Grade III — larger tumor filling the CPA cistern and contacting (touching) the brainstem without displacing it; Grade IV — large tumor compressing and displacing the brainstem or cerebellum. Koos Grade III and IV tumors are generally managed with microsurgery or radiosurgery, with Grade IV typically favoring surgery due to mass effect.\n\nReference: Koos WT et al. Neurosurgery. 1998."
+  },
+  {
+    "id": "OTO-TUM-006",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "medium",
+    "question": "A patient with a large vestibular schwannoma demonstrates slow-beating nystagmus toward the lesion when looking ipsilaterally and fast-beating nystagmus when looking contralaterally. This is called:",
+    "choices": [
+      "Alexander's law nystagmus",
+      "Bruns nystagmus",
+      "Periodic alternating nystagmus",
+      "Rebound nystagmus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bruns nystagmus is a classic finding associated with large CPA tumors, particularly vestibular schwannomas. It has two components: (1) ipsilateral gaze-evoked, low-frequency, large-amplitude nystagmus toward the lesion caused by cerebellar floccular compression affecting gaze-holding mechanisms, and (2) contralateral gaze-evoked, high-frequency, small-amplitude nystagmus caused by peripheral vestibular imbalance. This combination of slow coarse nystagmus on ipsilateral gaze and fast fine nystagmus on contralateral gaze is pathognomonic of a large CPA mass.\n\nReference: Baloh RW, Honrubia V. Clinical Neurophysiology of the Vestibular System, 4th ed."
+  },
+  {
+    "id": "OTO-TUM-007",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "medium",
+    "question": "Which surgical approach to vestibular schwannoma resection sacrifices hearing but provides the widest exposure with a direct, non-retraction route to the IAC and CPA?",
+    "choices": [
+      "Middle cranial fossa (MCF) approach",
+      "Retrosigmoid (suboccipital) approach",
+      "Translabyrinthine (TL) approach",
+      "Infralabyrinthine approach"
+    ],
+    "correctIndex": 2,
+    "explanation": "The translabyrinthine (TL) approach sacrifices hearing by removing the semicircular canals and drilling through the labyrinth, but provides direct lateral-to-medial exposure of the entire IAC and CPA without brain retraction. It is preferred for patients with non-serviceable hearing, large tumors, or when facial nerve preservation is the primary goal. The MCF approach preserves hearing and is best for small intracanalicular tumors. The retrosigmoid approach preserves hearing potential but requires cerebellar retraction and provides limited lateral IAC visualization.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-TUM-008",
+    "category": "Tumors & Neoplasms",
+    "type": "paraganglioma",
+    "difficulty": "easy",
+    "question": "A 55-year-old woman presents with pulsatile tinnitus and a reddish pulsatile mass visible behind the inferior tympanic membrane. CT shows a small soft tissue mass confined to the middle ear without involvement of the jugular bulb. What is the most likely diagnosis?",
+    "choices": [
+      "Glomus jugulare",
+      "Glomus tympanicum",
+      "High-riding jugular bulb",
+      "Aberrant internal carotid artery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Glomus tympanicum is a paraganglioma arising from the middle ear, most commonly from the Jacobson nerve (tympanic branch of CN IX) on the cochlear promontory. It presents with pulsatile tinnitus and a reddish-pink pulsatile mass visible through the TM, classically in the inferior quadrants. CT shows a soft tissue mass confined to the middle ear without jugular foramen involvement — distinguishing it from glomus jugulare. The Feuerstein sign (blanching of the mass with pneumatic otoscopy) can be positive.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 177."
+  },
+  {
+    "id": "OTO-TUM-009",
+    "category": "Tumors & Neoplasms",
+    "type": "paraganglioma",
+    "difficulty": "medium",
+    "question": "Using the Fisch classification for glomus jugulare tumors, which class describes a tumor that has extended into the infralabyrinthine compartment with involvement of the petrous apex and extension into the clivus?",
+    "choices": [
+      "Fisch Class A",
+      "Fisch Class B",
+      "Fisch Class C3",
+      "Fisch Class D1"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Fisch classification: Class A — limited to the middle ear (glomus tympanicum); Class B — tympanomastoid area without infralabyrinthine involvement; Class C1 — involving the infralabyrinthine compartment; Class C2 — invading the vertical carotid canal; Class C3 — infralabyrinthine compartment, petrous apex, and extending into the clivus/sphenoid; Class D1 — intracranial extension <2 cm; Class D2 — intracranial extension >2 cm. This classification guides the surgical approach including infratemporal fossa techniques.\n\nReference: Fisch U, Mattox D. Microsurgery of the Skull Base. Thieme, 1988."
+  },
+  {
+    "id": "OTO-TUM-010",
+    "category": "Tumors & Neoplasms",
+    "type": "paraganglioma",
+    "difficulty": "hard",
+    "question": "A patient with a glomus jugulare tumor is found to have elevated 24-hour urine catecholamines. Which statement best describes secreting paragangliomas of the head and neck?",
+    "choices": [
+      "Secreting paragangliomas are common, occurring in approximately 50% of head and neck paragangliomas",
+      "Secreting head and neck paragangliomas produce primarily epinephrine due to proximity to chromaffin tissue",
+      "Approximately 1-3% of head and neck paragangliomas are secretory, producing primarily norepinephrine and dopamine",
+      "All patients with glomus jugulare tumors should undergo surgical resection within 2 weeks of diagnosis to prevent hypertensive crisis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Secreting (functional) paragangliomas account for only approximately 1-3% of head and neck paragangliomas. When secretory, they produce predominantly norepinephrine and dopamine rather than epinephrine, as they lack PNMT (phenylethanolamine-N-methyltransferase) required to convert norepinephrine to epinephrine — an enzyme found primarily in adrenal chromaffin cells. Preoperative screening with 24-hour urine catecholamines or plasma metanephrines is recommended for all paraganglioma patients. Secreting tumors require preoperative alpha-blockade (phenoxybenzamine) before surgery.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 177."
+  },
+  {
+    "id": "OTO-TUM-011",
+    "category": "Tumors & Neoplasms",
+    "type": "paraganglioma",
+    "difficulty": "hard",
+    "question": "A 35-year-old man presents with bilateral carotid body tumors and a family history of paraganglioma in his father. Genetic testing reveals a mutation in SDHD. Which statement about SDHD-related paraganglioma syndrome is most accurate?",
+    "choices": [
+      "SDHD mutations carry a high risk of malignancy similar to SDHB mutations",
+      "SDHD mutations show paternal imprinting — the disease is clinically expressed only when the mutation is inherited from the father",
+      "SDHD mutations are inherited in an autosomal recessive pattern",
+      "SDHD mutations predispose primarily to adrenal pheochromocytomas rather than head and neck paragangliomas"
+    ],
+    "correctIndex": 1,
+    "explanation": "SDHD mutations show paternal imprinting — the maternal SDHD allele is epigenetically silenced, so disease is only clinically expressed when the mutation is inherited from the father. SDHD-related paragangliomas are predominantly head and neck (carotid body, glomus jugulare, vagal) and are rarely malignant. In contrast, SDHB mutations show no imprinting, follow standard autosomal dominant inheritance, carry a significantly higher malignancy risk (~30-40%), and predispose to extraadrenal/abdominal paragangliomas.\n\nReference: Baysal BE et al. Mutations in SDHD, a mitochondrial complex II gene, in hereditary paraganglioma. Science. 2000."
+  },
+  {
+    "id": "OTO-TUM-012",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "easy",
+    "question": "Which of the following is the most common benign tumor of the cerebellopontine angle?",
+    "choices": [
+      "Meningioma",
+      "Epidermoid cyst",
+      "Vestibular schwannoma",
+      "Arachnoid cyst"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vestibular schwannomas (acoustic neuromas) are the most common CPA tumors, accounting for approximately 75-80% of all CPA tumors. Meningiomas are the second most common (~10-15%). Epidermoid cysts (primary cholesteatomas) are third (~5%). The classic triad — schwannoma, meningioma, epidermoid — accounts for approximately 90% of all CPA tumors.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-TUM-013",
+    "category": "Tumors & Neoplasms",
+    "type": "clinical",
+    "difficulty": "medium",
+    "question": "On MRI, a CPA tumor demonstrates the dural tail sign and appears T2 hypointense compared to brain parenchyma. It does not enter the internal auditory canal. What is the most likely diagnosis?",
+    "choices": [
+      "Vestibular schwannoma",
+      "Epidermoid cyst",
+      "Meningioma",
+      "Endolymphatic sac tumor"
+    ],
+    "correctIndex": 2,
+    "explanation": "The dural tail sign — linear enhancement of the adjacent dura — is characteristic of meningioma on contrast MRI. Meningiomas are typically T2 isointense to hypointense (unlike the T2 hyperintense schwannoma) with homogeneous avid enhancement. They arise from arachnoid cap cells along the dura and do NOT enter the IAC — an important distinguishing feature from vestibular schwannoma. Meningiomas often have a broad dural base and may show hyperostosis on CT.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-TUM-014",
+    "category": "Tumors & Neoplasms",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "An epidermoid cyst of the cerebellopontine angle is best distinguished from an arachnoid cyst using which MRI sequence?",
+    "choices": [
+      "T1-weighted imaging without contrast",
+      "T2-weighted imaging",
+      "FLAIR (Fluid-Attenuated Inversion Recovery) and diffusion-weighted imaging (DWI)",
+      "T1-weighted imaging with gadolinium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Epidermoid cysts are difficult to distinguish from arachnoid cysts on standard T1/T2 (both follow CSF signal). The key distinguishing sequences are FLAIR (epidermoid cysts appear BRIGHT because keratin and cholesterol incompletely suppress, unlike true CSF which is dark) and DWI (epidermoid cysts show restricted diffusion/bright signal due to solid keratin content, while arachnoid cysts show no restriction). Epidermoid cysts classically insinuate around neurovascular structures rather than displacing them.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 175."
+  },
+  {
+    "id": "OTO-TUM-015",
+    "category": "Tumors & Neoplasms",
+    "type": "clinical",
+    "difficulty": "medium",
+    "question": "A patient presents with ipsilateral abducens nerve palsy, ipsilateral facial pain in the trigeminal distribution, and ipsilateral otitis media with mastoiditis. This clinical triad is known as:",
+    "choices": [
+      "Vernet syndrome",
+      "Gradenigo syndrome",
+      "Villaret syndrome",
+      "Collet-Sicard syndrome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gradenigo syndrome is the classic triad of: (1) ipsilateral abducens nerve palsy (CN VI — travels through Dorello's canal near the petrous apex), (2) ipsilateral facial pain in the trigeminal nerve distribution (CN V — Gasserian ganglion in Meckel's cave), and (3) ipsilateral otitis media with mastoiditis. It results from petrous apicitis as a complication of AOM spreading to a pneumatized petrous apex. Other jugular foramen syndromes: Vernet (CN IX-XI), Villaret (CN IX-XII plus sympathetic chain).\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-TUM-016",
+    "category": "Tumors & Neoplasms",
+    "type": "petrous_apex",
+    "difficulty": "hard",
+    "question": "A 40-year-old patient has a petrous apex lesion on MRI that is T1 hyperintense, T2 hyperintense, does not restrict on DWI, and does not enhance with gadolinium. What is the most likely diagnosis?",
+    "choices": [
+      "Petrous apex cholesteatoma (epidermoid)",
+      "Cholesterol granuloma",
+      "Petrous apex meningioma",
+      "Petrous apex mucocele"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cholesterol granuloma (blue-domed cyst of the petrous apex) is characterized by T1 hyperintense AND T2 hyperintense MRI signal, no diffusion restriction, and no gadolinium enhancement. The T1 hyperintensity is due to methemoglobin and cholesterol crystals from repeated hemorrhage into an obstructed petrous apex air cell. This distinguishes it from petrous apex epidermoid (T1 hypointense, T2 hyperintense, restricted DWI, bright on FLAIR, no enhancement). Cholesterol granuloma is the most common primary petrous apex lesion.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 176."
+  },
+  {
+    "id": "OTO-TUM-017",
+    "category": "Tumors & Neoplasms",
+    "type": "petrous_apex",
+    "difficulty": "hard",
+    "question": "Which of the following best distinguishes petrous apex cholesterol granuloma from petrous apex epidermoid (primary cholesteatoma) on MRI?",
+    "choices": [
+      "Cholesterol granuloma is T1 hypointense; epidermoid is T1 hyperintense",
+      "Cholesterol granuloma is T1 hyperintense and T2 hyperintense; epidermoid is T1 hypointense and T2 hyperintense with restricted diffusion on DWI",
+      "Cholesterol granuloma enhances avidly; epidermoid does not enhance",
+      "Cholesterol granuloma shows restricted diffusion; epidermoid does not restrict on DWI"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cholesterol granuloma: T1 HYPERINTENSE (methemoglobin from hemorrhage), T2 hyperintense, NO enhancement, NO DWI restriction. Petrous apex epidermoid: T1 HYPOINTENSE (near CSF), T2 hyperintense, bright on FLAIR, RESTRICTED DIFFUSION on DWI (the key distinguishing feature — bright due to solid keratin), NO enhancement. Clinical mnemonic: cholesterol granuloma is bright on T1; epidermoid is bright on DWI. Both are expansile and can cause bone erosion and cranial nerve deficits.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 176."
+  },
+  {
+    "id": "OTO-TUM-018",
+    "category": "Tumors & Neoplasms",
+    "type": "temporal_bone",
+    "difficulty": "medium",
+    "question": "A 65-year-old with chronic otitis media has biopsy-proven squamous cell carcinoma of the temporal bone. CT shows full-thickness EAC wall erosion with tumor extending into the middle ear and facial nerve palsy. According to the Pittsburgh staging system, what T stage is this?",
+    "choices": [
+      "T1",
+      "T2",
+      "T3",
+      "T4"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Pittsburgh staging system for SCC of the temporal bone: T1 — tumor limited to the EAC without bony erosion; T2 — limited EAC bone erosion (not full thickness) or soft tissue <0.5 cm; T3 — full-thickness EAC bony wall erosion with limited soft tissue involvement, OR middle ear/mastoid involvement, OR facial nerve palsy; T4 — erosion of the cochlea, petrous apex, medial wall of middle ear, carotid canal, jugular foramen, or dura, OR extensive soft tissue >0.5 cm. Full-thickness EAC erosion with middle ear extension and facial nerve palsy is T3. Treatment for T3-T4 typically involves temporal bone resection plus adjuvant radiotherapy.\n\nReference: Arriaga M et al. Staging proposal for external auditory meatus carcinoma. Ann Otol Rhinol Laryngol. 1990."
+  },
+  {
+    "id": "OTO-TUM-019",
+    "category": "Tumors & Neoplasms",
+    "type": "temporal_bone",
+    "difficulty": "hard",
+    "question": "A patient with Von Hippel-Lindau (VHL) syndrome presents with unilateral progressive SNHL, episodic vertigo, and a retrolabyrinthine enhancing mass with intratumoral T1 hyperintensity and irregular bone destruction on MRI. What is the diagnosis and relevant gene locus?",
+    "choices": [
+      "Glomus jugulare; SDHD gene on chromosome 11q23",
+      "Endolymphatic sac tumor; VHL gene on chromosome 3p25",
+      "Vestibular schwannoma; NF2 gene on chromosome 22q12",
+      "Temporal bone meningioma; NF2 gene on chromosome 22q12"
+    ],
+    "correctIndex": 1,
+    "explanation": "Endolymphatic sac tumors (ELSTs) are low-grade adenocarcinomas of the endolymphatic sac epithelium strongly associated with VHL syndrome (occurring in 10-15% of VHL patients). The VHL gene on chromosome 3p25 encodes pVHL, which regulates the HIF-1alpha hypoxia pathway; loss of function promotes VEGF-driven angiogenesis. ELSTs can mimic Meniere's disease early. MRI characteristics: retrolabyrinthine location, intratumoral T1 hyperintensity (hemorrhagic foci), heterogeneous enhancement, and irregular bone destruction on CT. Bilateral ELSTs are virtually pathognomonic of VHL syndrome.\n\nReference: Megerian CA et al. Endolymphatic sac tumor. Laryngoscope. 1995."
+  },
+  {
+    "id": "OTO-TUM-020",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "hard",
+    "question": "A 38-year-old woman has a facial nerve schwannoma involving the geniculate ganglion and labyrinthine segment with House-Brackmann Grade II facial function. What is the most appropriate management?",
+    "choices": [
+      "Immediate surgical resection with cable nerve grafting using the greater auricular nerve",
+      "Active observation with serial MRI; surgery reserved for deterioration to HB Grade III-IV or significant tumor growth",
+      "Stereotactic radiosurgery as definitive treatment",
+      "Biopsy to confirm histology before any intervention"
+    ],
+    "correctIndex": 1,
+    "explanation": "Facial nerve schwannomas present a management paradox: surgical resection inevitably requires sacrifice of the native facial nerve with grafting, which typically yields HB Grade III at best. When facial function is HB Grade I-II, the standard of care is active surveillance with serial MRI, preserving current good facial function as long as possible. Surgery is deferred until: facial function deteriorates to HB Grade III or worse, the tumor grows significantly, or rapid enlargement is documented. The geniculate ganglion is the most common location for FNS.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 170."
+  },
+  {
+    "id": "OTO-TUM-021",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "medium",
+    "question": "A patient presents with progressive dysphagia, hoarseness, and shoulder weakness. MRI reveals a dumbbell-shaped enhancing mass centered at the jugular foramen. Which cranial nerves are most likely involved?",
+    "choices": [
+      "CN VII, VIII, and IX",
+      "CN IX, X, and XI",
+      "CN X, XI, and XII",
+      "CN V, VII, and VIII"
+    ],
+    "correctIndex": 1,
+    "explanation": "The jugular foramen transmits CN IX (glossopharyngeal), CN X (vagus), and CN XI (spinal accessory nerve), along with the internal jugular vein. A mass at the jugular foramen produces Vernet syndrome: dysphagia and loss of gag reflex (CN IX), hoarseness and vocal cord palsy (CN X), and weakness of the trapezius/SCM (CN XI). The dumbbell configuration occurs as the tumor herniates through the bony foramen. Collet-Sicard syndrome adds CN XII involvement.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 177."
+  },
+  {
+    "id": "OTO-TUM-022",
+    "category": "Tumors & Neoplasms",
+    "type": "paraganglioma",
+    "difficulty": "easy",
+    "question": "The Feuerstein sign (Brown's sign) is associated with which middle ear lesion, and what does it demonstrate?",
+    "choices": [
+      "Glomus tympanicum; blanching of the retrotympanic vascular mass with positive pressure pneumatic otoscopy, followed by reddening upon pressure release",
+      "Cholesteatoma; the sunset sign visible through a transparent tympanic membrane",
+      "High-riding jugular bulb; a blue pulsatile mass in the posterior inferior quadrant",
+      "Aberrant internal carotid artery; a pink pulsatile mass in the anterior inferior quadrant"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Feuerstein sign (Brown's sign) refers to blanching of a glomus tympanicum when positive pressure is applied during pneumatic otoscopy, followed by reddening (refilling) when pressure is released. This occurs because the paraganglioma is highly vascular; increased external canal pressure transiently compresses tumor vasculature causing blanching, and upon pressure release the mass refills with blood. Pneumatic otoscopy should be performed gently on suspected vascular retrotympanic masses. CT temporal bone is mandatory before any biopsy of a vascular retrotympanic mass.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 177."
+  },
+  {
+    "id": "OTO-TUM-023",
+    "category": "Tumors & Neoplasms",
+    "type": "schwannoma",
+    "difficulty": "hard",
+    "question": "Stereotactic radiosurgery (SRS) for vestibular schwannomas achieves tumor control at 10 years in approximately what percentage of patients, and what is its primary limitation compared to microsurgical resection?",
+    "choices": [
+      "60-70% tumor control; primary limitation is immediate total hearing loss in all patients",
+      "90-95% tumor control; primary limitation is that the tumor remains in situ requiring lifelong surveillance, with potential for delayed hearing deterioration",
+      "50-60% tumor control; primary limitation is malignant transformation occurring in approximately 10% of irradiated tumors",
+      "85-95% tumor control; primary limitation is a high rate of brainstem radiation necrosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRS achieves tumor control rates of approximately 90-95% at 10 years using modern marginal doses of 12-13 Gy. Facial nerve preservation exceeds 95% at these doses. The primary limitation is that the tumor remains in situ requiring lifelong MRI surveillance, as ~5-10% of tumors will eventually demonstrate growth or require additional intervention. Approximately 50-60% of patients retain serviceable hearing at 5 years after SRS. Malignant transformation after SRS is exceedingly rare (<1%). SRS is preferred for Koos Grade I-III tumors without significant mass effect.\n\nReference: Lunsford LD et al. Radiosurgery for vestibular schwannomas. J Neurosurg. 2013."
+  },
+  {
+    "id": "OTO-TUM-024",
+    "category": "Tumors & Neoplasms",
+    "type": "paraganglioma",
+    "difficulty": "easy",
+    "question": "Paragangliomas of the temporal bone arise from which embryonic tissue, and what is their characteristic MRI appearance due to high vascularity?",
+    "choices": [
+      "Neural crest-derived paraganglionic cells; salt and pepper appearance on T1/T2 due to flow voids interspersed with areas of high signal",
+      "Endodermal-derived chromaffin cells; homogeneous T2 hypointensity",
+      "Mesenchymal-derived stromal cells; diffuse T1 hyperintensity without enhancement",
+      "Ectodermal-derived Schwann cells; T2 hyperintensity identical to vestibular schwannoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paragangliomas arise from neural crest-derived paraganglionic cells associated with the Jacobson nerve (tympanic branch of CN IX) and Arnold nerve (auricular branch of CN X). On MRI, larger paragangliomas demonstrate the characteristic salt and pepper appearance: signal voids from high-velocity blood flow within tumor vessels (the pepper — flow voids) interspersed with areas of T1/T2 high signal from slow flow or hemorrhage (the salt). This pattern is most apparent on T2 in tumors >2 cm. Preoperative embolization (usually from the ascending pharyngeal artery) is performed 24-72 hours before surgery.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 177."
+  },
+  {
+    "id": "OTO-TUM-025",
+    "category": "Tumors & Neoplasms",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "A 50-year-old woman with known VHL syndrome has a 1.5 cm retrolabyrinthine enhancing mass with irregular bone destruction and a 1-year history of unilateral SNHL, episodic vertigo, and tinnitus. What is the most likely diagnosis and appropriate management?",
+    "choices": [
+      "Glomus jugulare; preoperative embolization followed by infratemporal fossa surgical resection",
+      "Endolymphatic sac tumor (ELST); surgical resection via translabyrinthine or retrolabyrinthine approach for symptomatic or growing lesions",
+      "Vestibular schwannoma; stereotactic radiosurgery at 12 Gy marginal dose",
+      "Temporal bone metastasis from renal cell carcinoma; systemic workup and palliative radiotherapy"
+    ],
+    "correctIndex": 1,
+    "explanation": "In a VHL patient with a retrolabyrinthine temporal bone mass causing SNHL, vertigo, and tinnitus, endolymphatic sac tumor (ELST) is the most likely diagnosis. ELSTs occur in 10-15% of VHL patients and can mimic Meniere's disease. The VHL gene on chromosome 3p25 encodes pVHL, which regulates HIF-1alpha. MRI shows intratumoral T1 hyperintensity (hemorrhagic foci), heterogeneous enhancement, and retrolabyrinthine position with irregular bone destruction on CT. Management: surgical resection via translabyrinthine (sacrificing residual hearing) or retrolabyrinthine (attempting hearing preservation) approach depending on hearing status and tumor extent.\n\nReference: Megerian CA et al. Endolymphatic sac tumors. Laryngoscope. 1995; Cummings Otolaryngology, 7th ed."
+  }
+]

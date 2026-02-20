@@ -1,0 +1,377 @@
+[
+  {
+    "id": "OTO-HL-001",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "easy",
+    "question": "What is the most common cause of bilateral sensorineural hearing loss in adults?",
+    "choices": [
+      "Noise-induced hearing loss",
+      "Presbycusis (age-related hearing loss)",
+      "Ototoxic drug exposure",
+      "Autoimmune inner ear disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Presbycusis (age-related hearing loss) is the most common cause of bilateral SNHL in adults and the most common sensory disorder in the elderly. It affects approximately one-third of adults over age 65 and two-thirds over age 75. It is caused by a combination of OHC loss (particularly at the cochlear base), stria vascularis atrophy, and spiral ganglion neuron loss. The audiometric pattern typically shows bilaterally symmetric, sloping high-frequency SNHL. Schuknecht classified four histopathologic types: sensory, neural, strial (metabolic), and mechanical.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 150."
+  },
+  {
+    "id": "OTO-HL-002",
+    "category": "Hearing Loss",
+    "type": "genetic",
+    "difficulty": "easy",
+    "question": "What is the most common gene mutation causing non-syndromic autosomal recessive congenital sensorineural hearing loss?",
+    "choices": [
+      "MYO7A (DFNB2)",
+      "SLC26A4 (Pendrin)",
+      "GJB2 (Connexin 26)",
+      "OTOF (Otoferlin)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mutations in GJB2 (encoding Connexin 26, a gap junction protein) are the most common cause of hereditary non-syndromic sensorineural hearing loss, accounting for approximately 50% of autosomal recessive non-syndromic SNHL (DFNB1). Connexin 26 plays a critical role in potassium recycling within the cochlea. The most common pathogenic variant in Caucasian populations is 35delG. The GJB6 gene (Connexin 30) is also located at the DFNB1 locus and digenic mutations of GJB2 and GJB6 can cause hearing loss.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188."
+  },
+  {
+    "id": "OTO-HL-003",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "easy",
+    "question": "What is the most common infectious cause of congenital sensorineural hearing loss?",
+    "choices": [
+      "Congenital rubella",
+      "Congenital toxoplasmosis",
+      "Congenital cytomegalovirus (CMV)",
+      "Congenital syphilis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Congenital cytomegalovirus (CMV) is the most common infectious (non-genetic) cause of congenital SNHL, accounting for approximately 15-20% of congenital hearing loss cases overall and >25% of cases in children without a genetic cause. CMV infects approximately 0.5-1% of all newborns. Hearing loss may be present at birth or delayed in onset (progressive), occurring in approximately 10-15% of asymptomatic congenital CMV-infected children. Antiviral therapy (valganciclovir) for symptomatic congenital CMV infection within the first month of life reduces the risk of hearing deterioration.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188; Fowler KB et al. JAMA. 1997."
+  },
+  {
+    "id": "OTO-HL-004",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "easy",
+    "question": "Sudden sensorineural hearing loss (SSNHL) is defined by the AAO-HNS as hearing loss of at least how many decibels over how many consecutive audiometric frequencies, occurring within what time period?",
+    "choices": [
+      "30 dB over 3 or more consecutive frequencies within 72 hours",
+      "40 dB over 2 or more consecutive frequencies within 24 hours",
+      "20 dB over 4 or more consecutive frequencies within 1 week",
+      "50 dB at the speech frequencies within 48 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "The AAO-HNS clinical practice guideline defines sudden SNHL as ≥30 dB reduction in sensorineural hearing acuity in 3 consecutive frequencies occurring within a 72-hour period. The annual incidence is approximately 5-27 per 100,000 persons. Etiology is unknown in approximately 85-90% of cases (idiopathic SSNHL). First-line treatment is oral corticosteroids (e.g., prednisone 1 mg/kg/day x 10-14 days) initiated as soon as possible. Intratympanic steroid injection is recommended for patients who have not recovered after initial systemic therapy or as primary therapy for those with contraindications to systemic steroids.\n\nReference: Chandrasekhar SS et al. Clinical practice guideline: sudden hearing loss. Otolaryngol Head Neck Surg. 2019."
+  },
+  {
+    "id": "OTO-HL-005",
+    "category": "Hearing Loss",
+    "type": "ototoxicity",
+    "difficulty": "medium",
+    "question": "Which aminoglycoside antibiotic is predominantly vestibulotoxic rather than cochleotoxic, and which is predominantly cochleotoxic?",
+    "choices": [
+      "Streptomycin is cochleotoxic; amikacin is vestibulotoxic",
+      "Gentamicin is predominantly vestibulotoxic; tobramycin/amikacin are predominantly cochleotoxic",
+      "Neomycin is vestibulotoxic; gentamicin is cochleotoxic",
+      "All aminoglycosides are equally vestibulotoxic and cochleotoxic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aminoglycosides differ in their relative cochleo- vs. vestibulotoxicity. Gentamicin and streptomycin are predominantly vestibulotoxic (preferentially destroying vestibular hair cells, causing bilateral vestibular hypofunction and oscillopsia). Tobramycin, amikacin, and neomycin are predominantly cochleotoxic (preferentially destroying OHCs at the cochlear base, causing high-frequency SNHL). This is why gentamicin is used for intratympanic chemical vestibular ablation in Meniere's disease. All aminoglycosides generate reactive oxygen species that cause OHC and type I vestibular hair cell death, with permanent damage.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 152; Forge A, Schacht J. Aminoglycoside antibiotics. Audiol Neurootol. 2000."
+  },
+  {
+    "id": "OTO-HL-006",
+    "category": "Hearing Loss",
+    "type": "ototoxicity",
+    "difficulty": "medium",
+    "question": "Cisplatin ototoxicity characteristically causes hearing loss at which frequencies first, and what is the proposed mechanism?",
+    "choices": [
+      "Low frequencies first (250-1000 Hz) due to endolymphatic hydrops",
+      "High frequencies first (4000-8000 Hz and above) due to preferential damage to OHCs at the cochlear base",
+      "All frequencies simultaneously due to stria vascularis destruction",
+      "Mid-frequencies (1000-2000 Hz) first due to disruption of the endocochlear potential"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cisplatin (and other platinum-based chemotherapy agents) causes a bilateral, irreversible high-frequency SNHL that begins at frequencies above 4000 Hz and progresses toward the speech frequencies with increasing cumulative dose. The mechanism involves preferential destruction of OHCs at the cochlear base (high-frequency region) through generation of reactive oxygen species, oxidative stress, and activation of apoptotic pathways. Risk is cumulative dose-dependent, affected by concurrent ototoxic drug exposure, age (children more susceptible), and prior noise exposure. DPOAEs are valuable for early ototoxicity monitoring before behavioral threshold shifts occur.\n\nReference: Knight KR et al. Ototoxicity in children receiving platinum chemotherapy. J Clin Oncol. 2005."
+  },
+  {
+    "id": "OTO-HL-007",
+    "category": "Hearing Loss",
+    "type": "ototoxicity",
+    "difficulty": "medium",
+    "question": "Loop diuretics (furosemide, ethacrynic acid) cause ototoxicity by affecting which cochlear structure, and under what clinical conditions is this most likely to occur?",
+    "choices": [
+      "Spiral ganglion neurons; most likely with single high-dose exposure",
+      "Outer hair cells at the cochlear apex; most likely with chronic low-dose therapy",
+      "Stria vascularis (impairing the endocochlear potential); most likely when combined with aminoglycosides or given as a rapid IV bolus",
+      "Round window membrane; most likely during middle ear infection"
+    ],
+    "correctIndex": 2,
+    "explanation": "Loop diuretics (furosemide, ethacrynic acid, bumetanide) cause ototoxicity by impairing ion transport in the stria vascularis (inhibiting Na-K-ATPase and Na-K-2Cl cotransporter), reducing the endocochlear potential and thus impairing OHC function. The hearing loss is typically reversible if the drug is discontinued promptly. Risk is greatly enhanced when loop diuretics are combined with aminoglycosides (synergistic ototoxicity) — a combination that should be avoided. Rapid intravenous administration produces higher peak serum levels and greater ototoxic risk. Ethacrynic acid is the most ototoxic loop diuretic.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 152."
+  },
+  {
+    "id": "OTO-HL-008",
+    "category": "Hearing Loss",
+    "type": "conductive",
+    "difficulty": "easy",
+    "question": "Otosclerosis most commonly involves which part of the temporal bone, and what is the characteristic audiometric finding?",
+    "choices": [
+      "The cochlear duct; causing low-frequency SNHL",
+      "The fissula ante fenestram (anterior to the oval window); causing stapes footplate fixation and conductive hearing loss with a Carhart notch at 2000 Hz",
+      "The round window niche; causing sensorineural hearing loss",
+      "The semicircular canals; causing mixed hearing loss with vertigo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Otosclerosis (otospongiosis) is an autosomal dominant condition with variable penetrance (~40%) causing abnormal remodeling of the otic capsule bone. The most common site is the fissula ante fenestram (anterior to the oval window), leading to progressive fixation of the stapes footplate and conductive hearing loss. The Carhart notch (mechanical depression in bone-conduction threshold at 2000 Hz) is characteristic but is an artifact that resolves after stapedectomy. Schwartze sign (pinkish-red blush seen through the TM due to increased vascularity of active otosclerosis over the promontory) and paracusis Willisii (better hearing in noisy environments) are classic features.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 144."
+  },
+  {
+    "id": "OTO-HL-009",
+    "category": "Hearing Loss",
+    "type": "genetic",
+    "difficulty": "medium",
+    "question": "Pendred syndrome is characterized by which triad of features, and what gene is responsible?",
+    "choices": [
+      "Congenital SNHL, retinitis pigmentosa, and vestibular dysfunction; MYO7A gene",
+      "Congenital SNHL, enlarged vestibular aqueduct (EVA), and euthyroid goiter with abnormal perchlorate discharge test; SLC26A4 gene",
+      "Progressive SNHL, branchial cleft cysts, and renal anomalies; EYA1 gene",
+      "Congenital SNHL, coloboma, and heart defects; CHD7 gene"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pendred syndrome is an autosomal recessive condition caused by mutations in SLC26A4 (encoding Pendrin, an anion transporter for I-/Cl- and HCO3-). The classic triad is: (1) congenital or childhood-onset bilateral SNHL; (2) enlarged vestibular aqueduct (EVA — the most common CT abnormality of the inner ear in children with SNHL) ± Mondini cochlear malformation; (3) euthyroid goiter (organification defect with abnormal perchlorate discharge test). SLC26A4 mutations are also the most common cause of isolated EVA without goiter (non-syndromic EVA). Physical activity, head trauma, or pressure changes can cause acute exacerbations of hearing loss in EVA patients.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188."
+  },
+  {
+    "id": "OTO-HL-010",
+    "category": "Hearing Loss",
+    "type": "genetic",
+    "difficulty": "medium",
+    "question": "Usher syndrome is the most common cause of combined deaf-blindness. Which type of Usher syndrome presents with the most severe hearing loss and vestibular dysfunction?",
+    "choices": [
+      "Usher syndrome type I: profound congenital SNHL, absent vestibular function, and retinitis pigmentosa appearing in the first decade",
+      "Usher syndrome type II: moderate-severe SNHL, normal vestibular function, and late-onset retinitis pigmentosa",
+      "Usher syndrome type III: progressive SNHL, variable vestibular function, and progressive retinitis pigmentosa",
+      "Usher syndrome type IV: unilateral SNHL with early-onset macular degeneration"
+    ],
+    "correctIndex": 0,
+    "explanation": "Usher syndrome type I (USH1) presents with profound congenital SNHL, absent vestibular function (causing delayed motor development — children walk late due to lack of vestibular input), and retinitis pigmentosa (RP) appearing in the first decade of life. Genes include MYO7A (most common), CDH23, PCDH15, USH1C, and USH1G. USH1 patients are candidates for cochlear implantation to restore hearing before RP causes severe visual impairment. Usher type II has moderate-to-severe congenital SNHL, normal vestibular function, and later-onset RP. Type III has progressive hearing loss and variable vestibular function.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188."
+  },
+  {
+    "id": "OTO-HL-011",
+    "category": "Hearing Loss",
+    "type": "genetic",
+    "difficulty": "medium",
+    "question": "Waardenburg syndrome is characterized by sensorineural hearing loss associated with which distinctive clinical features, and what gene is most commonly responsible for the most common type (WS Type I)?",
+    "choices": [
+      "SNHL, retinitis pigmentosa, and cafe-au-lait spots; NF1 gene",
+      "SNHL, dystopia canthorum (lateral displacement of the inner canthi), white forelock, heterochromia iridis, and premature graying; PAX3 gene",
+      "SNHL, branchial cleft anomalies, and preauricular pits; EYA1 gene",
+      "SNHL, auricular malformations, and facial asymmetry; TCOF1 gene"
+    ],
+    "correctIndex": 1,
+    "explanation": "Waardenburg syndrome is an autosomal dominant neurocristopathy. Type I (most common) is caused by PAX3 mutations and includes: dystopia canthorum (lateral displacement of the inner canthi — the W index), white forelock (poliosis), heterochromia iridis (different colored eyes or sectors of different iris color), premature graying of hair, and unilateral or bilateral SNHL (~25% of patients). Type II (no dystopia canthorum) is associated with MITF or SNAI2 mutations. Type III (Klein-Waardenburg) = Type I features plus upper limb abnormalities (PAX3). Type IV (Shah-Waardenburg) includes Hirschsprung disease (EDNRB or SOX10).\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188."
+  },
+  {
+    "id": "OTO-HL-012",
+    "category": "Hearing Loss",
+    "type": "genetic",
+    "difficulty": "easy",
+    "question": "Branchio-oto-renal (BOR) syndrome is an autosomal dominant condition with SNHL, CHL, or mixed hearing loss. Which gene is most commonly mutated?",
+    "choices": [
+      "GJB2 (Connexin 26)",
+      "EYA1",
+      "SLC26A4 (Pendrin)",
+      "CDH23"
+    ],
+    "correctIndex": 1,
+    "explanation": "Branchio-oto-renal (BOR) syndrome is caused by mutations in EYA1 (most common, ~40% of cases), SIX1, or SIX5 genes. Clinical features: branchial cleft cysts/fistulae/sinuses, preauricular pits/tags, hearing loss (may be conductive, sensorineural, or mixed; caused by EAC atresia, ossicular malformations, or cochlear dysplasia), and renal anomalies (renal hypoplasia, dysplasia, or absent kidney — can be life-threatening). Prevalence of renal anomalies is ~67% of cases. All patients with BOR syndrome should undergo renal ultrasound.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188; Melnick M et al. The branchial-oto-renal syndrome. Clin Genet. 1976."
+  },
+  {
+    "id": "OTO-HL-013",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "medium",
+    "question": "Autoimmune inner ear disease (AIED) presents with which characteristic audiometric pattern, and what is the first-line treatment?",
+    "choices": [
+      "Unilateral sudden SNHL; oral prednisone 1 mg/kg/day for 2 weeks",
+      "Rapidly progressive bilateral SNHL over weeks to months, often asymmetric and fluctuating; oral corticosteroids as first-line with immunosuppressive agents for refractory cases",
+      "Bilateral symmetric high-frequency SNHL developing over years; no effective medical treatment",
+      "Low-frequency bilateral SNHL identical to Meniere's disease; treated with diuretics only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Autoimmune inner ear disease (AIED), described by McCabe in 1979, presents as rapidly progressive bilateral SNHL developing over weeks to months (unlike Meniere's which causes fluctuating unilateral loss, or presbycusis which progresses over years). The hearing loss is often asymmetric and may fluctuate. There is no validated serological marker for AIED. A positive clinical response to systemic corticosteroids (prednisone 1 mg/kg/day for 4-6 weeks) is the key diagnostic tool. For patients who respond to steroids but relapse, methotrexate (though evidence is limited) and other immunosuppressive agents may be used. Anti-Hsp70 antibodies may be found but lack specificity.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 155."
+  },
+  {
+    "id": "OTO-HL-014",
+    "category": "Hearing Loss",
+    "type": "conductive",
+    "difficulty": "hard",
+    "question": "Osteogenesis imperfecta (van der Hoeve syndrome) causes hearing loss through which mechanism, and how does it differ audiologically from otosclerosis?",
+    "choices": [
+      "Identical to otosclerosis — stapes fixation causing pure conductive loss with Carhart notch",
+      "Conductive loss from ossicular chain fracture (especially incus or stapes) due to bone fragility, plus possible SNHL from cochlear involvement; blue sclera and long bone fractures distinguish it clinically from otosclerosis",
+      "Pure SNHL due to spiral ganglion degeneration from abnormal collagen type I in the modiolus",
+      "Mixed hearing loss from otosclerosis plus simultaneous endolymphatic hydrops"
+    ],
+    "correctIndex": 1,
+    "explanation": "Osteogenesis imperfecta (OI) is caused by mutations in COL1A1 or COL1A2 (collagen type I). Van der Hoeve syndrome refers to OI with the triad of: blue sclerae, hearing loss, and bone fragility. Hearing loss in OI may be conductive (from ossicular fracture/fragility rather than stapes fixation, though stapes footplate fixation can also occur), SNHL (from cochlear bone involvement and degeneration), or mixed. Unlike otosclerosis, the conductive loss in OI is from ossicular fragility and fracture (especially the stapes suprastructure and incus). Surgical findings differ from otosclerosis, with chalky/friable ossicles. Stapedectomy outcomes are generally worse than in otosclerosis.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 144."
+  },
+  {
+    "id": "OTO-HL-015",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "hard",
+    "question": "A 6-year-old boy with no family history of hearing loss fails newborn hearing screening and is found to have bilateral profound SNHL. Genetic testing is negative for GJB2/GJB6 mutations. Temporal bone CT shows a bulbous IAC with a deficient modiolus. Audiogram shows absent click-ABR and absent OAEs. What is the most likely diagnosis, and what is the surgical risk during cochlear implantation?",
+    "choices": [
+      "Mondini dysplasia; risk of electrode insertion into the wrong scala (scala vestibuli)",
+      "X-linked mixed deafness with stapes gusher (DFN3/POU3F4 mutation); high risk of perilymph gusher during cochleostomy due to abnormal communication between the subarachnoid space and cochlea",
+      "CHARGE syndrome; risk of absent cochlear nerve making CI outcomes unpredictable",
+      "Enlarged vestibular aqueduct with Pendred syndrome; risk of acute hearing deterioration during CI activation"
+    ],
+    "correctIndex": 1,
+    "explanation": "The clinical picture — male child, bilateral profound SNHL, negative GJB2 testing, bulbous IAC with deficient modiolus on CT, and absent OAEs/ABR — is classic for X-linked sensorineural hearing loss type 3 (DFNX2), caused by mutations in POU3F4 (a transcription factor gene on the X chromosome). The characteristic CT finding is a bulbous IAC with widened interlabyrinthine communications and deficient modiolus. During cochlear implant surgery (cochleostomy), there is a high risk of a profuse perilymph gusher due to the abnormal patent communication between the subarachnoid space and the cochlea. Management includes packing around the electrode and potentially lumbar drainage.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 191; Phelps PD et al. Neuroradiology. 1991."
+  },
+  {
+    "id": "OTO-HL-016",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "medium",
+    "question": "CHARGE syndrome is associated with congenital hearing loss and is caused by mutations in which gene? What are the major features of CHARGE syndrome relevant to cochlear implantation?",
+    "choices": [
+      "CHD7 gene; absent/hypoplastic semicircular canals, cochlear hypoplasia/dysplasia, and aplasia of the vestibular and cochlear nerves — making CI candidacy assessment and outcomes variable",
+      "TCOF1 gene; microtia, atresia of the EAC, and ossicular malformations causing CHL",
+      "COL4A3 gene; bilateral progressive SNHL with nephritis (Alport syndrome)",
+      "MITF gene; SNHL with hypopigmentation and dystopia canthorum"
+    ],
+    "correctIndex": 0,
+    "explanation": "CHARGE syndrome (Coloboma, Heart defects, Atresia choanae, Retardation of growth/development, Genital abnormalities, Ear abnormalities) is caused by CHD7 mutations. The ear anomalies are characteristic: hypoplastic or absent semicircular canals (most consistent inner ear finding), cochlear hypoplasia or Mondini malformation, and hypoplasia or aplasia of the vestibular and cochlear nerves. For CI candidacy, MRI is essential to evaluate cochlear nerve size; absent cochlear nerves preclude expected benefit. Despite challenges, CI is performed in CHARGE patients with demonstrated cochlear nerve continuity, though outcomes are more variable than in patients with normal inner ear anatomy.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188."
+  },
+  {
+    "id": "OTO-HL-017",
+    "category": "Hearing Loss",
+    "type": "conductive",
+    "difficulty": "medium",
+    "question": "Paget's disease of bone (osteitis deformans) can cause hearing loss through which mechanisms?",
+    "choices": [
+      "Only SNHL due to stria vascularis dysfunction",
+      "Only CHL due to stapes footplate fixation identical to otosclerosis",
+      "Both CHL (from ossicular involvement and stapes fixation) and SNHL (from compression of the cochlea and auditory nerve by pagetic bone), resulting in mixed hearing loss",
+      "Only low-frequency SNHL through endolymphatic hydrops"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paget's disease of bone can affect the temporal bone and cause hearing loss through multiple mechanisms: (1) Conductive hearing loss from stapes fixation (pagetic bone encasing the stapes footplate, similar to otosclerosis) or ossicular involvement; (2) SNHL from cochlear compression by expanding pagetic bone, impairment of cochlear blood supply, or direct cochlear injury; (3) CN VIII compression causing retrocochlear SNHL. The result is often a mixed hearing loss. The typical skull involvement includes an enlarged head circumference and bowing of long bones. Treatment with bisphosphonates (alendronate, pamidronate) may slow progression of bone changes.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 144."
+  },
+  {
+    "id": "OTO-HL-018",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "easy",
+    "question": "The Jervel and Lange-Nielsen syndrome is a rare autosomal recessive condition causing profound bilateral congenital SNHL associated with which potentially life-threatening systemic condition?",
+    "choices": [
+      "Hypothyroidism and goiter",
+      "Prolonged QT syndrome and risk of fatal ventricular arrhythmia",
+      "Renal tubular acidosis",
+      "Retinitis pigmentosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jervell and Lange-Nielsen (JLN) syndrome is a rare autosomal recessive condition caused by mutations in KCNQ1 or KCNE1 (genes encoding potassium channels critical for endolymph homeostasis and cardiac repolarization). It presents with profound congenital bilateral SNHL (from failure of K+ recycling in the cochlea) and prolonged QT interval on ECG, predisposing to torsades de pointes ventricular arrhythmia and sudden cardiac death — often triggered by exercise or loud noise. All children with congenital profound bilateral SNHL should have an ECG to exclude prolonged QT interval. Management includes beta-blockers and/or implantable cardioverter-defibrillator.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188."
+  },
+  {
+    "id": "OTO-HL-019",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "hard",
+    "question": "Alport syndrome causes progressive SNHL along with which systemic features, and through what pathologic mechanism?",
+    "choices": [
+      "Progressive bilateral SNHL, nephritis (hematuria, proteinuria, renal failure), and ocular abnormalities (anterior lenticonus); caused by mutations in COL4A3, COL4A4, or COL4A5 (type IV collagen) affecting the glomerular basement membrane and cochlear basilar membrane",
+      "Bilateral SNHL, prolonged QT, and retinitis pigmentosa; caused by KCNQ4 mutations affecting potassium channels",
+      "SNHL, diabetes insipidus, optic atrophy, and diabetes mellitus (DIDMOAD/Wolfram syndrome); WFS1 gene",
+      "SNHL and goiter without renal disease; caused by SLC26A4 mutations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alport syndrome is caused by mutations in COL4A3, COL4A4 (autosomal recessive), or COL4A5 (X-linked, most common). Type IV collagen is a component of basement membranes in the glomerulus, cochlea (basilar membrane), and lens. Clinical triad: (1) progressive glomerulonephritis with hematuria, proteinuria, and eventual renal failure; (2) bilateral progressive SNHL (high-frequency onset, appearing in adolescence or young adulthood); (3) ocular abnormalities including anterior lenticonus (pathognomonic) and macular flecks. X-linked form affects males more severely. SNHL precedes renal failure in many males with X-linked Alport.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 188."
+  },
+  {
+    "id": "OTO-HL-020",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "medium",
+    "question": "Noise-induced hearing loss (NIHL) shows a characteristic notch at 4000 Hz on pure tone audiometry. Which of the following best explains the physiologic basis for this frequency-specific vulnerability?",
+    "choices": [
+      "The 4 kHz region is innervated by smaller-diameter auditory nerve fibers that fatigue more rapidly",
+      "The external ear canal resonance amplifies sound at 2-4 kHz, and the 4 kHz cochlear region is particularly susceptible due to its vascular supply characteristics and geometric factors",
+      "The 4 kHz region coincides with the most mechanically stiff portion of the basilar membrane, causing maximum stress during acoustic trauma",
+      "The stria vascularis is thinnest at the 4 kHz region, reducing metabolic support to OHCs"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 4 kHz NIHL notch arises from multiple factors. The external ear canal acts as a quarter-wavelength resonator (~2-4 kHz), boosting sound pressure at these frequencies by up to 15 dB at the TM compared to the free field. The cochlear region tuned to ~4 kHz is also particularly susceptible due to its geometric properties (near the helicotrema-basal turn boundary) and vascular supply characteristics (OHCs in this region have relatively poor collateral blood supply). Additionally, the protective middle ear muscle reflex has a reaction time (~25 ms) too slow to protect against impulsive noise exposures, which particularly affect high-frequency OHCs.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 152."
+  },
+  {
+    "id": "OTO-HL-021",
+    "category": "Hearing Loss",
+    "type": "conductive",
+    "difficulty": "easy",
+    "question": "A patient presents with progressive painless conductive hearing loss. Tympanometry shows a Type As pattern. Pure tone audiometry shows a maximal conductive hearing loss of 60 dB HL with absent acoustic reflexes. What is the most likely diagnosis and appropriate surgical treatment?",
+    "choices": [
+      "Cholesteatoma; canal wall up mastoidectomy",
+      "Otosclerosis; stapedectomy or stapedotomy",
+      "Tympanic membrane perforation; tympanoplasty",
+      "Ossicular discontinuity; ossiculoplasty with TORP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Progressive painless CHL with a Type As tympanogram (reduced compliance from stapes fixation), maximum air-bone gap (~60 dB), and absent acoustic reflexes in a young to middle-aged adult is characteristic of otosclerosis. Audiometric clues include the Carhart notch at 2000 Hz on bone conduction. Treatment is stapedectomy (removal of the stapes superstructure and footplate with tissue seal and prosthesis) or stapedotomy (small fenestra in footplate with piston prosthesis). Stapedotomy is now preferred due to lower risk. Success rates are >90% for hearing improvement to within 10 dB of the preoperative bone conduction threshold.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 144."
+  },
+  {
+    "id": "OTO-HL-022",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "hard",
+    "question": "A child with bilateral profound SNHL has a brain MRI showing hypoplasia of the cochlear nerve with a thin but identifiable nerve in the IAC. What is the implication for cochlear implantation, and what preoperative test may help predict outcomes?",
+    "choices": [
+      "Cochlear nerve hypoplasia is a contraindication to CI; auditory brainstem implant (ABI) should be offered instead",
+      "Cochlear nerve hypoplasia does not affect CI outcomes because the cochlear nerve regenerates after implantation",
+      "CI can be offered but outcomes are more variable and generally poorer than in patients with normal nerve size; promontory stimulation or electrically evoked ABR can help predict auditory nerve responsiveness",
+      "CI is indicated and outcomes are identical to children with normal cochlear nerves provided the cochlea is anatomically normal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cochlear nerve hypoplasia (CNH) presents a significant challenge for CI candidacy because the number of functional spiral ganglion neurons available to receive electrical stimulation from the electrode array determines implant efficacy. Thin or hypoplastic cochlear nerves on MRI (measured in the IAC) correlate with reduced CI benefit, but are not an absolute contraindication if the nerve is identifiable. Promontory stimulation (delivering electrical stimulation through a transtympanic needle electrode) and electrically evoked auditory brainstem response (EABR) can assess the functional integrity of the auditory neural pathway preoperatively. Children with CNH may still develop speech and language with CI but typically require longer rehabilitation periods.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 191."
+  },
+  {
+    "id": "OTO-HL-023",
+    "category": "Hearing Loss",
+    "type": "genetic",
+    "difficulty": "hard",
+    "question": "Auditory neuropathy spectrum disorder (ANSD) caused by OTOF gene mutations (otoferlin) is particularly relevant to cochlear implantation. Why does CI work well in OTOF-related ANSD compared to ANSD from other causes?",
+    "choices": [
+      "OTOF mutations cause cochlear nerve degeneration that reverses after CI electrical stimulation",
+      "OTOF mutations specifically affect the inner hair cell synaptic ribbon (otoferlin is required for synaptic vesicle exocytosis), so the auditory nerve is intact and CI bypasses the IHC defect by directly stimulating normal spiral ganglion neurons",
+      "OTOF mutations cause reversible OHC dysfunction that recovers with CI-mediated cochlear electrical activity",
+      "OTOF mutations affect the central auditory system, which is retrained by CI acoustic input"
+    ],
+    "correctIndex": 1,
+    "explanation": "Otoferlin (OTOF) is a calcium sensor protein essential for synaptic vesicle exocytosis at the inner hair cell ribbon synapse. OTOF mutations cause ANSD because: (1) OHCs are structurally and functionally intact (present OAEs and normal CM), but (2) the IHC cannot release neurotransmitter appropriately, resulting in absent/abnormal ABR. The crucial point for CI: the auditory nerve (spiral ganglion neurons) is NORMAL because the defect is entirely at the IHC-auditory nerve synapse. CI works by bypassing the dysfunctional IHC synapse and electrically stimulating the intact auditory nerve directly. OTOF-related ANSD patients have excellent CI outcomes, often indistinguishable from standard cochlear hearing loss.\n\nReference: Rouillon I et al. Results of cochlear implantation in two children with mutations in the OTOF gene. Brain. 2006."
+  },
+  {
+    "id": "OTO-HL-024",
+    "category": "Hearing Loss",
+    "type": "conductive",
+    "difficulty": "medium",
+    "question": "A patient presents with unilateral CHL, aural fullness, and visible pulsatile bluish-pink mass in the anterior inferior quadrant of the middle ear. CT temporal bone shows an aberrant vessel along the medial wall of the middle ear in an anterior-to-posterior course. What is the most likely diagnosis and most important management principle?",
+    "choices": [
+      "Glomus tympanicum; biopsy to confirm histology",
+      "Aberrant internal carotid artery (aICA); avoid biopsy or any instrumentation — manage conservatively or with imaging-guided planning if surgery is required",
+      "High-riding jugular bulb; myringotomy to relieve pressure",
+      "Cholesterol granuloma; aspiration of the lesion through the TM"
+    ],
+    "correctIndex": 1,
+    "explanation": "An aberrant internal carotid artery (aICA) is a congenital vascular anomaly in which the ICA enters the middle ear through an enlarged inferior tympanic canaliculus, coursing across the middle ear floor in an anterior-to-posterior direction before re-entering the carotid canal. It presents as a pulsatile reddish-pink or bluish-pink retrotympanic mass. CT is diagnostic (shows the aberrant ICA course without jugular involvement). The most critical management principle is to NOT biopsy or instrument this lesion, as doing so would cause life-threatening hemorrhage. Patients are managed conservatively; if the mass is causing significant CHL or symptoms, surgical planning with angiography is required.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-HL-025",
+    "category": "Hearing Loss",
+    "type": "sensorineural",
+    "difficulty": "hard",
+    "question": "A patient with bilateral sudden SNHL and systemic findings including skin rash, uveitis, and meningitis is being evaluated. Audiogram shows bilateral low-frequency SNHL. Which syndrome should be considered, and what is the treatment?",
+    "choices": [
+      "Cogan syndrome; immediate high-dose IV corticosteroids",
+      "Vogt-Koyanagi-Harada (VKH) syndrome; high-dose systemic corticosteroids (oral or IV) as first-line immunosuppression",
+      "Susac syndrome; antiplatelet therapy and corticosteroids for microangiopathy",
+      "Autoimmune inner ear disease (AIED) with associated systemic lupus erythematosus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vogt-Koyanagi-Harada (VKH) syndrome is a rare T-cell mediated autoimmune granulomatous condition targeting melanocyte-rich tissues, presenting with the pentad: (1) bilateral granulomatous uveitis (panuveitis); (2) meningism/meningitis; (3) hearing loss (bilateral SNHL, often low-to-mid frequency, fluctuating); (4) tinnitus; (5) cutaneous findings (vitiligo, poliosis/white hair patches, alopecia). It primarily affects melanin-pigmented races (Asian, Hispanic, Native American, Middle Eastern). First-line treatment is high-dose systemic corticosteroids, which must be initiated promptly to prevent permanent visual and hearing loss. Cogan syndrome (interstitial keratitis + SNHL/vestibulopathy) has different ocular manifestations.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 155."
+  }
+]

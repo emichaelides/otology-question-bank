@@ -1,0 +1,377 @@
+[
+  {
+    "id": "OTO-VEST-001",
+    "category": "Vestibular Disorders",
+    "type": "bppv",
+    "difficulty": "easy",
+    "question": "The Dix-Hallpike test is the gold standard for diagnosing which type of benign paroxysmal positional vertigo (BPPV)?",
+    "choices": [
+      "Horizontal (lateral) canal BPPV",
+      "Superior (anterior) canal BPPV",
+      "Posterior canal BPPV",
+      "Cupulolithiasis of the lateral canal"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Dix-Hallpike maneuver is the diagnostic test of choice for posterior canal BPPV, the most common form of BPPV (~85-90% of cases). The test is performed by rapidly moving the patient from a seated position to head-hanging with the affected ear down (45° head turn). A positive test elicits characteristic upbeat-torsional nystagmus (fast phase beating toward the affected/down ear) with a brief latency (5-20 seconds), duration <60 seconds, and fatigability on repeated testing. This pattern reflects canalith movement within the posterior semicircular canal stimulating the cupula.\n\nReference: Bhattacharyya N et al. Clinical practice guideline: benign paroxysmal positional vertigo. Otolaryngol Head Neck Surg. 2017."
+  },
+  {
+    "id": "OTO-VEST-002",
+    "category": "Vestibular Disorders",
+    "type": "bppv",
+    "difficulty": "easy",
+    "question": "The Epley canalith repositioning maneuver treats posterior canal BPPV by moving displaced otoconia to which final location?",
+    "choices": [
+      "From the posterior canal back to the utricle",
+      "From the posterior canal into the superior (anterior) canal",
+      "From the posterior canal into the common crus and then the utricle",
+      "From the posterior canal to the saccule"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Epley maneuver uses a series of sequential head positions designed to move displaced otoconia (canaliths) through the posterior semicircular canal, around the common crus (shared ampullated arm of the superior and posterior canals), and ultimately back into the utricle where they can be reabsorbed. The procedure typically involves 4-5 position changes, each held for 30 seconds, with the patient ending sitting upright. Success rate is approximately 80-90% per treatment session. Recurrence rate is approximately 30% within one year.\n\nReference: Epley JM. The canalith repositioning procedure. Otolaryngol Head Neck Surg. 1992."
+  },
+  {
+    "id": "OTO-VEST-003",
+    "category": "Vestibular Disorders",
+    "type": "bppv",
+    "difficulty": "medium",
+    "question": "A patient with BPPV undergoes the supine roll test (Pagnini-McClure test). Rolling the head to the left elicits immediate onset geotropic horizontal nystagmus (beating toward the left/ground). The nystagmus is stronger when the head is turned left than right. What does this indicate?",
+    "choices": [
+      "Posterior canal BPPV of the left ear",
+      "Horizontal canal canalithiasis with the left ear being the affected ear",
+      "Horizontal canal cupulolithiasis with the right ear affected",
+      "Central positional vertigo"
+    ],
+    "correctIndex": 1,
+    "explanation": "In horizontal (lateral) canal BPPV with canalithiasis (free-floating particles), the supine roll test (head turned 90° to each side in the supine position) elicits horizontal geotropic nystagmus (beating toward the ground/down ear) that is direction-changing. The affected ear is identified as the side where nystagmus is more intense — because rolling toward the affected ear moves the canaliths ampullopetally (toward the cupula), producing stronger excitation. Here, stronger nystagmus on rolling left indicates left ear is affected. Treatment is the Lempert (barbecue) 270° roll maneuver.\n\nReference: Baloh RW et al. Horizontal semicircular canal variant of benign positional vertigo. Neurology. 1993."
+  },
+  {
+    "id": "OTO-VEST-004",
+    "category": "Vestibular Disorders",
+    "type": "menieres",
+    "difficulty": "easy",
+    "question": "According to the 2015 AAO-HNS and Barany Society diagnostic criteria for Meniere's disease, which combination of findings is required for a diagnosis of 'definite' Meniere's disease?",
+    "choices": [
+      "Episodic vertigo alone lasting 20 minutes to 12 hours, with documented low-frequency SNHL at any point",
+      "Two or more episodes of vertigo lasting 20 minutes to 12 hours, low-to-mid frequency SNHL documented by audiogram, and fluctuating aural symptoms (hearing loss, tinnitus, or aural fullness), not better accounted for by another diagnosis",
+      "Unilateral SNHL, tinnitus, and aural fullness without documented vertigo episodes",
+      "Episodic vertigo plus endolymphatic hydrops confirmed on gadolinium-enhanced MRI"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 2015 Barany Society/AAO-HNS criteria for definite Meniere's disease require: (1) two or more spontaneous episodes of vertigo lasting 20 minutes to 12 hours; (2) audiometrically documented low-to-mid frequency sensorineural hearing loss in the affected ear on at least one occasion before, during, or after a vertiginous episode; (3) fluctuating aural symptoms (hearing loss, tinnitus, or aural fullness) in the affected ear; (4) not better accounted for by another vestibular diagnosis. 'Probable' Meniere's requires criterion 1 and 3 but allows audiometrically non-documented hearing loss.\n\nReference: Lopez-Escamez JA et al. Diagnostic criteria for Meniere's disease. J Vestib Res. 2015."
+  },
+  {
+    "id": "OTO-VEST-005",
+    "category": "Vestibular Disorders",
+    "type": "menieres",
+    "difficulty": "medium",
+    "question": "The classic audiometric pattern in early Meniere's disease shows greatest hearing loss at which frequencies?",
+    "choices": [
+      "High frequencies (4000-8000 Hz) with a notch at 4 kHz",
+      "Low and mid-low frequencies (250-1000 Hz), with a 'rising' audiogram pattern",
+      "All frequencies equally (flat audiogram)",
+      "Only mid-frequencies (1000-2000 Hz)"
+    ],
+    "correctIndex": 1,
+    "explanation": "In early Meniere's disease, hearing loss predominantly affects the low frequencies (250-1000 Hz), creating a characteristic 'rising' or 'tent-shaped' audiogram where the low frequencies are most depressed. This low-frequency SNHL is thought to reflect the increased endolymphatic pressure (hydrops) preferentially affecting the apical cochlear turns, which are tuned to low frequencies. Over time, with repeated hydrops episodes, the hearing loss may extend to all frequencies and become non-fluctuating. A low-frequency SNHL in a patient with episodic vertigo is a classic clue to Meniere's disease.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 163."
+  },
+  {
+    "id": "OTO-VEST-006",
+    "category": "Vestibular Disorders",
+    "type": "menieres",
+    "difficulty": "medium",
+    "question": "A patient with refractory Meniere's disease is being considered for intratympanic gentamicin therapy. Which statement best describes the mechanism and expected outcome?",
+    "choices": [
+      "Gentamicin selectively destroys the stria vascularis, reducing endolymph production and eliminating vertigo without cochlear damage",
+      "Gentamicin preferentially ablates vestibular hair cells (type I) more than cochlear hair cells, reducing vestibular function and controlling vertigo but with risk of hearing loss",
+      "Gentamicin irreversibly blocks the endolymphatic duct, preventing hydrops formation",
+      "Gentamicin has no ototoxic effect and works purely by anti-inflammatory mechanisms"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intratympanic gentamicin achieves chemical vestibular ablation (selective cochleotoxicity of vestibular hair cells, particularly type I hair cells, which are more susceptible than cochlear hair cells) through the round window membrane. The goal is to reduce or eliminate the defective vestibular input from the affected ear, allowing central compensation to restore balance. Vertigo control rates are approximately 80-90%. Sensorineural hearing loss is the major risk, occurring in approximately 10-35% of cases depending on dose and protocol. Low-dose titration protocols (single doses with repeat only if needed) minimize cochlear risk.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 163."
+  },
+  {
+    "id": "OTO-VEST-007",
+    "category": "Vestibular Disorders",
+    "type": "neuritis",
+    "difficulty": "easy",
+    "question": "A 45-year-old presents with sudden-onset severe continuous vertigo, nausea, vomiting, and unsteadiness lasting days. He has no hearing loss, tinnitus, or neurologic symptoms. The head impulse test (HIT) is abnormal (corrective saccade) toward the right. What is the most likely diagnosis?",
+    "choices": [
+      "Posterior circulation stroke (PICA territory)",
+      "Vestibular neuritis affecting the right vestibular nerve",
+      "Right-sided Meniere's disease",
+      "Acute labyrinthitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vestibular neuritis presents with sudden-onset, severe, continuous vertigo lasting days to weeks without hearing loss. The head impulse test (HIT) — a rapid passive head thrust toward the affected side — reveals a corrective catch-up saccade (the VOR gain is reduced, so the eyes cannot maintain fixation and the patient makes a refixation saccade). An abnormal HIT toward the right indicates right-sided vestibular hypofunction. Absence of hearing loss distinguishes vestibular neuritis from labyrinthitis. The HINTS exam (Head Impulse, Nystagmus, Test of Skew) distinguishes peripheral from central causes.\n\nReference: Kattah JC et al. HINTS to diagnose stroke in the acute vestibular syndrome. Stroke. 2009."
+  },
+  {
+    "id": "OTO-VEST-008",
+    "category": "Vestibular Disorders",
+    "type": "neuritis",
+    "difficulty": "medium",
+    "question": "The HINTS examination is used to differentiate peripheral from central causes of the acute vestibular syndrome (AVS). Which combination of HINTS findings indicates a CENTRAL cause (stroke) rather than a peripheral cause?",
+    "choices": [
+      "Abnormal head impulse test, unidirectional nystagmus, no skew deviation",
+      "Normal head impulse test, direction-changing nystagmus, vertical skew deviation",
+      "Abnormal head impulse test, direction-changing nystagmus, no skew deviation",
+      "Normal head impulse test, unidirectional nystagmus, no skew deviation"
+    ],
+    "correctIndex": 1,
+    "explanation": "HINTS exam: (1) Head Impulse test — abnormal (corrective saccade) = PERIPHERAL, normal (no corrective saccade) = CENTRAL; (2) Nystagmus — unidirectional = peripheral, direction-changing (bidirectional gaze-evoked) = CENTRAL; (3) Test of Skew — no vertical skew = peripheral, vertical skew deviation = CENTRAL. A normal head impulse test PLUS direction-changing nystagmus OR vertical skew deviation strongly suggests a central cause (posterior circulation stroke), even in the absence of other neurologic signs. HINTS has a sensitivity of ~100% and specificity of ~96% for posterior fossa stroke, outperforming early MRI/DWI.\n\nReference: Kattah JC et al. Stroke. 2009; Newman-Toker DE et al. Stroke. 2013."
+  },
+  {
+    "id": "OTO-VEST-009",
+    "category": "Vestibular Disorders",
+    "type": "testing",
+    "difficulty": "medium",
+    "question": "During caloric testing, irrigation of the right ear with cold water (30°C) produces nystagmus beating to the LEFT. This is most consistent with:",
+    "choices": [
+      "Left canal paresis (left vestibular hypofunction)",
+      "Normal response — cold water in the right ear always produces leftward nystagmus",
+      "Right canal paresis (right vestibular hypofunction)",
+      "Bilateral vestibular hypofunction"
+    ],
+    "correctIndex": 1,
+    "explanation": "The mnemonic COWS (Cold Opposite, Warm Same) describes caloric nystagmus direction: cold water irrigation produces nystagmus beating toward the OPPOSITE ear; warm water produces nystagmus toward the SAME (ipsilateral) ear. Cold right = nystagmus to the LEFT is the normal expected response. This is because cold water (30°C) cools the lateral SCC endolymph, creating a convection current that moves endolymph ampullofugally (away from the cupula), inhibiting the right lateral canal and causing the eyes to drift right (vestibular slow phase) and fast phase (nystagmus) to beat left. A canal paresis would be diagnosed if this response is reduced or absent compared to the contralateral ear.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 25 (Vestibular Testing)."
+  },
+  {
+    "id": "OTO-VEST-010",
+    "category": "Vestibular Disorders",
+    "type": "testing",
+    "difficulty": "medium",
+    "question": "The video head impulse test (vHIT) assesses the function of which reflex, and at what frequency range?",
+    "choices": [
+      "Cervico-ocular reflex; low frequency 0.1-1 Hz",
+      "Vestibulo-ocular reflex (VOR); high frequency 1-6 Hz",
+      "Optokinetic reflex; mid frequency 0.5-2 Hz",
+      "Smooth pursuit; low frequency 0.5-1 Hz"
+    ],
+    "correctIndex": 1,
+    "explanation": "The video head impulse test (vHIT) assesses the high-frequency vestibulo-ocular reflex (VOR), which normally maintains stable gaze during rapid head movements (1-6 Hz range). During the test, rapid (100-200°/sec) passive head thrusts are applied in the plane of each semicircular canal while the patient fixates a target. The VOR gain (eye velocity / head velocity) is measured. A VOR gain significantly below 1.0 with corrective saccades (overt or covert) indicates canal-specific vestibular hypofunction. vHIT can assess all six semicircular canals individually, providing canal-specific diagnostic information.\n\nReference: MacDougall HG et al. The video head impulse test. Neurology. 2009."
+  },
+  {
+    "id": "OTO-VEST-011",
+    "category": "Vestibular Disorders",
+    "type": "testing",
+    "difficulty": "hard",
+    "question": "Cervical vestibular evoked myogenic potentials (cVEMPs) assess which vestibular end organ, and what is the expected response in a patient with superior semicircular canal dehiscence (SSCD)?",
+    "choices": [
+      "Utricle; absent cVEMP due to otic capsule dehiscence causing energy shunting",
+      "Saccule; enhanced (lower threshold, larger amplitude) cVEMP due to the third window effect",
+      "Posterior semicircular canal ampulla; prolonged latency on the affected side",
+      "Crista ampullaris of the superior canal; direction reversal of the cVEMP waveform"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cervical VEMPs (cVEMPs) are recorded from the ipsilateral sternocleidomastoid (SCM) and assess saccular (otolith) function via the inferior vestibular nerve and sacculocollic pathway. In superior semicircular canal dehiscence (SSCD), the dehiscence acts as a 'third window' in the otic capsule, allowing abnormal pressure transmission that enhances saccular stimulation. Consequently, cVEMPs in SSCD show a lower threshold and larger amplitude on the affected side — a characteristic finding that supports the diagnosis. CT temporal bone (coronal reconstructions with thin cuts) and the clinical triad (Tullio phenomenon, autophony, low-frequency air-bone gap) confirm SSCD.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 162; Minor LB. Superior canal dehiscence syndrome. Am J Otol. 2000."
+  },
+  {
+    "id": "OTO-VEST-012",
+    "category": "Vestibular Disorders",
+    "type": "clinical",
+    "difficulty": "medium",
+    "question": "A patient reports sound-induced vertigo and nystagmus (Tullio phenomenon), autophony (hearing their own voice and eye movements), and a low-frequency air-bone gap on audiogram with normal tympanometry and present acoustic reflexes. What is the diagnosis?",
+    "choices": [
+      "Otosclerosis",
+      "Superior semicircular canal dehiscence (SSCD)",
+      "Patulous Eustachian tube",
+      "Perilymph fistula"
+    ],
+    "correctIndex": 1,
+    "explanation": "Superior semicircular canal dehiscence (SSCD) presents with the classic triad: (1) Tullio phenomenon (sound-induced vertigo and oscillopsia — vertigo triggered by loud sounds or Valsalva); (2) autophony (hearing internal body sounds — heartbeat, eye movements, footsteps); (3) low-frequency conductive hearing loss (air-bone gap) with NORMAL tympanometry and PRESENT acoustic reflexes — key distinguishing feature from middle ear pathology, as the air-bone gap is spurious. Diagnosis confirmed by CT temporal bone (thin-cut coronal) showing absence of bone over the superior SCC and/or cVEMP with low threshold. Surgical plugging/resurfacing of the dehiscent canal is definitive treatment.\n\nReference: Minor LB et al. Sound- and/or pressure-induced vertigo due to bone dehiscence of the superior semicircular canal. Arch Otolaryngol Head Neck Surg. 1998."
+  },
+  {
+    "id": "OTO-VEST-013",
+    "category": "Vestibular Disorders",
+    "type": "neuritis",
+    "difficulty": "easy",
+    "question": "Vestibular neuritis most commonly affects which division of the vestibular nerve, and what is the proposed etiology?",
+    "choices": [
+      "Inferior division; bacterial otitis media spreading via the round window",
+      "Superior division; reactivation of latent herpes simplex virus type 1 (HSV-1) in the vestibular ganglion",
+      "Cochlear nerve; autoimmune demyelination",
+      "Entire vestibular nerve; viral labyrinthitis from direct viral invasion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vestibular neuritis most commonly affects the superior division of the vestibular nerve (which innervates the horizontal, superior SCC ampullae and utricular macula) rather than the inferior division (posterior SCC ampulla and saccular macula). The proposed etiology is reactivation of latent herpes simplex virus type 1 (HSV-1) in the vestibular (Scarpa's) ganglion, supported by PCR evidence of HSV-1 DNA in surgical specimens. Treatment with corticosteroids (prednisolone) has been shown to improve recovery of vestibular function. Antivirals (valacyclovir) have not been proven to add benefit.\n\nReference: Strupp M et al. Methylprednisolone, valacyclovir, or the combination for vestibular neuritis. N Engl J Med. 2004."
+  },
+  {
+    "id": "OTO-VEST-014",
+    "category": "Vestibular Disorders",
+    "type": "testing",
+    "difficulty": "hard",
+    "question": "A patient with bilateral vestibular hypofunction is evaluated with rotary chair testing. Which finding would be expected?",
+    "choices": [
+      "Normal VOR gain with directional preponderance to the left",
+      "Reduced VOR gain bilaterally with markedly reduced time constant (rapid phase decay)",
+      "Elevated VOR gain with prolonged time constant",
+      "Absent VOR at low frequencies with preserved VOR at high frequencies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bilateral vestibular hypofunction (BVH) on rotary chair testing shows: (1) bilaterally reduced VOR gain (ratio of eye velocity to chair velocity; normal >0.1-0.2 at 0.01 Hz); (2) markedly shortened time constant (tau, normally ~15-20 seconds) because the VOR cannot be sustained without bilateral semicircular canal input; (3) absent or severely reduced responses at all frequencies. Rotary chair is the gold standard for diagnosing BVH because caloric testing may be falsely normal at lower-grade bilateral hypofunction. BVH causes oscillopsia (blurry vision during head movement) and gait instability (Dandy syndrome when caused by ototoxic aminoglycosides).\n\nReference: Baloh RW, Honrubia V. Clinical Neurophysiology of the Vestibular System, 4th ed."
+  },
+  {
+    "id": "OTO-VEST-015",
+    "category": "Vestibular Disorders",
+    "type": "clinical",
+    "difficulty": "medium",
+    "question": "Alexander's law states that vestibular nystagmus is most intense when gaze is directed in the direction of the fast phase. Which additional feature of nystagmus best indicates a PERIPHERAL (rather than central) origin?",
+    "choices": [
+      "Nystagmus that changes direction with changes in gaze direction",
+      "Purely vertical nystagmus in the upright position",
+      "Unidirectional nystagmus that is suppressed by visual fixation (fixation suppression present)",
+      "Nystagmus persisting without habituation over multiple Dix-Hallpike maneuvers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peripheral vestibular nystagmus is characteristically unidirectional (mixed horizontal-torsional, never purely vertical in the upright position) and is SUPPRESSED by visual fixation — the patient's nystagmus decreases or disappears when they fix their gaze on a target. This fixation suppression is mediated by the intact visual-vestibular interaction. Central nystagmus, in contrast, is NOT suppressed by fixation (failure of fixation suppression), may be direction-changing, purely vertical, or purely torsional, and does not fatigue. Alexander's law applies to both peripheral and central nystagmus and is not specific.\n\nReference: Leigh RJ, Zee DS. The Neurology of Eye Movements, 5th ed. Oxford, 2015."
+  },
+  {
+    "id": "OTO-VEST-016",
+    "category": "Vestibular Disorders",
+    "type": "bppv",
+    "difficulty": "medium",
+    "question": "A patient has refractory posterior canal BPPV despite multiple successful Epley maneuvers with recurrence. What is the most definitive surgical treatment?",
+    "choices": [
+      "Endolymphatic sac decompression",
+      "Posterior semicircular canal occlusion (plugging)",
+      "Labyrinthectomy",
+      "Singular neurectomy (posterior ampullary nerve section)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Posterior semicircular canal occlusion (plugging) is the most effective and definitive surgical treatment for refractory posterior canal BPPV. The procedure involves occluding the posterior SCC lumen with bone wax and bone paste through a transmastoid approach, preventing canalith movement within the canal. Success rates exceed 95% with minimal risk of SNHL (< 5%) if performed carefully. Singular neurectomy (section of the posterior ampullary nerve) was historically used but has been largely replaced by canal occlusion due to higher technical difficulty and risk. Labyrinthectomy sacrifices all vestibular and cochlear function.\n\nReference: Parnes LS, McClure JA. Posterior semicircular canal occlusion for intractable benign paroxysmal positional vertigo. Ann Otol Rhinol Laryngol. 1990."
+  },
+  {
+    "id": "OTO-VEST-017",
+    "category": "Vestibular Disorders",
+    "type": "menieres",
+    "difficulty": "hard",
+    "question": "Gadolinium-enhanced MRI of the inner ear (delayed imaging 4 hours after IV gadolinium) has been proposed as a method to directly image endolymphatic hydrops. What is the expected appearance of endolymphatic hydrops on this imaging sequence?",
+    "choices": [
+      "Enhancement of the endolymphatic space (appearing bright) relative to the non-enhanced perilymphatic space",
+      "Non-enhancement (appearing dark) of the endolymphatic space due to gadolinium exclusion by the intact blood-labyrinth barrier",
+      "Enlargement of the dark (non-enhanced) endolymphatic space occupying more than one-third of the total labyrinthine fluid space",
+      "Diffuse T2 shortening of all labyrinthine fluid spaces"
+    ],
+    "correctIndex": 2,
+    "explanation": "In delayed gadolinium-enhanced MRI of the inner ear, gadolinium crosses the blood-labyrinth barrier into the perilymphatic space (scala vestibuli and scala tympani) but is excluded from the endolymphatic space (scala media, saccule, utricle, and SCC). On T1-weighted images: perilymph enhances (appears bright/white) while endolymph remains dark (non-enhanced). Endolymphatic hydrops is defined as enlargement of the non-enhancing endolymphatic space. The cochlear duct (scala media) normally occupies less than 1/3 of the combined cochlear fluid space; in hydrops, it occupies more than 1/3 (cochlear hydrops) or the saccule occupies more than half the vestibule (vestibular hydrops).\n\nReference: Naganawa S et al. MRI of Meniere's disease. AJNR. 2008; Cummings Otolaryngology, 7th ed., Chapter 163."
+  },
+  {
+    "id": "OTO-VEST-018",
+    "category": "Vestibular Disorders",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "Ewald's first law states that nystagmus and ocular deviation occur in the plane of the stimulated semicircular canal. Ewald's second law states that in the horizontal canal, ampullopetal flow causes a greater response than ampullofugal flow. Which maneuver for horizontal canal BPPV (canalithiasis) takes advantage of these principles?",
+    "choices": [
+      "Epley maneuver with 45° head turn toward the affected ear",
+      "Lempert (barbecue) 270° roll maneuver rotating away from the affected ear",
+      "Semont maneuver with rapid lateral movement",
+      "Brandt-Daroff exercises performed in the seated position"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Lempert (barbecue) 270° roll maneuver treats horizontal canal canalithiasis by rotating the patient sequentially in 90° steps away from the affected ear (toward the unaffected side), completing a 270° rotation so that the canaliths travel in the opposite direction around the horizontal canal and exit via the common crus back into the utricle. The direction of rotation away from the affected ear takes advantage of gravity and Ewald's second law. Some clinicians also use the Gufoni maneuver as a faster alternative. Unlike posterior canal BPPV (Epley), horizontal canal BPPV requires the patient to be supine throughout the maneuver.\n\nReference: Lempert T, Tiel-Wilck K. A positional maneuver for treatment of horizontal-canal benign positional vertigo. Laryngoscope. 1996."
+  },
+  {
+    "id": "OTO-VEST-019",
+    "category": "Vestibular Disorders",
+    "type": "menieres",
+    "difficulty": "medium",
+    "question": "A patient with Meniere's disease undergoes intratympanic dexamethasone therapy. Compared to intratympanic gentamicin, which statement best characterizes this treatment?",
+    "choices": [
+      "Dexamethasone provides higher rates of vertigo control but causes more hearing loss",
+      "Dexamethasone is hearing-preserving and reduces inflammation but has lower vertigo control rates than gentamicin; appropriate for patients with good ipsilateral hearing",
+      "Dexamethasone and gentamicin have identical vertigo control rates and ototoxic profiles",
+      "Dexamethasone permanently ablates the vestibular neuroepithelium, similar to gentamicin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intratympanic dexamethasone is a hearing-preserving treatment for Meniere's disease that reduces endolymphatic inflammation and possibly endolymph production. Vertigo control rates are approximately 50-70% at 2 years — lower than intratympanic gentamicin (~80-90%) but with no risk of sensorineural hearing loss or vestibular ablation. It is the preferred intratympanic option for patients with good ipsilateral hearing or bilateral Meniere's where vestibular ablation on either side is undesirable. Multiple injections may be needed for sustained effect. Gentamicin is preferred for patients with poor ipsilateral hearing who prioritize vertigo control over hearing preservation.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 163."
+  },
+  {
+    "id": "OTO-VEST-020",
+    "category": "Vestibular Disorders",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "A 28-year-old woman presents with recurrent episodic vertigo lasting hours, moderate headache, photophobia, and phonophobia during attacks. She has a personal and family history of migraine. Audiogram and caloric testing are normal. What is the most likely diagnosis?",
+    "choices": [
+      "Meniere's disease",
+      "Vestibular migraine",
+      "Vestibular neuritis with recurrent attacks",
+      "Perilymph fistula"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vestibular migraine (VM) is the most common cause of recurrent spontaneous vertigo episodes and presents with episodic vertigo (lasting minutes to hours or days) associated with migraine headache features (headache, photophobia, phonophobia, visual aura) during at least some attacks. The Barany Society 2012 diagnostic criteria require: (1) at least 5 episodes of vestibular symptoms; (2) current or prior history of migraine; (3) at least 50% of episodes associated with at least one migrainous symptom; (4) not better accounted for by another diagnosis. Normal audiogram and caloric testing distinguish VM from Meniere's disease. Treatment includes migraine prophylaxis (propranolol, topiramate, amitriptyline) and triptans for acute attacks.\n\nReference: Lempert T et al. Vestibular migraine: diagnostic criteria. J Vestib Res. 2012."
+  },
+  {
+    "id": "OTO-VEST-021",
+    "category": "Vestibular Disorders",
+    "type": "testing",
+    "difficulty": "hard",
+    "question": "Ocular vestibular evoked myogenic potentials (oVEMPs) are recorded from which muscle and assess which vestibular end organ?",
+    "choices": [
+      "Ipsilateral sternocleidomastoid muscle; saccular (inferior vestibular nerve) function",
+      "Contralateral inferior oblique muscle via the inferior rectus; utricle (superior vestibular nerve) function",
+      "Ipsilateral inferior oblique (recorded from the extraocular muscles); posterior canal function",
+      "Ipsilateral superior rectus; saccular function via the superior vestibular nerve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ocular VEMPs (oVEMPs) are recorded from the contralateral inferior oblique muscle (recorded near the lower eyelid under the contralateral eye) in response to sound or vibration stimuli. They assess utricular function via the superior vestibular nerve through the crossed utriculo-ocular pathway (utricle → superior vestibular nerve → crossing second-order neurons → contralateral inferior oblique). In contrast, cervical VEMPs (cVEMPs) assess saccular function via the inferior vestibular nerve to the ipsilateral SCM. Together, oVEMPs and cVEMPs provide a comprehensive otolith assessment — oVEMPs = utricle, cVEMPs = saccule.\n\nReference: Rosengren SM et al. Vestibular evoked myogenic potentials in practice. Clin Neurophysiol. 2019."
+  },
+  {
+    "id": "OTO-VEST-022",
+    "category": "Vestibular Disorders",
+    "type": "clinical",
+    "difficulty": "easy",
+    "question": "A 72-year-old man reports chronic unsteadiness and oscillopsia (blurring of vision during head movement), worse in the dark. He received aminoglycoside antibiotics for gram-negative sepsis 2 years ago. Romberg test is positive. What is the most likely diagnosis?",
+    "choices": [
+      "Bilateral vestibular hypofunction (Dandy syndrome)",
+      "Central cerebellar degeneration",
+      "Age-related macular degeneration causing visual dependence",
+      "Benign paroxysmal positional vertigo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bilateral vestibular hypofunction (BVH) — historically called Dandy syndrome after Walter Dandy who first described it after bilateral labyrinthectomy — presents with: (1) oscillopsia (blurring of vision during head movement because the VOR cannot stabilize gaze); (2) imbalance worse in darkness (increased Romberg); (3) positive dynamic visual acuity test (worsening of visual acuity during head shake). Aminoglycoside ototoxicity is a common cause, preferentially affecting vestibular hair cells (gentamicin is most vestibulotoxic). Dynamic posturography, vHIT, and rotary chair confirm the diagnosis. Vestibular rehabilitation is the cornerstone of management.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 165."
+  },
+  {
+    "id": "OTO-VEST-023",
+    "category": "Vestibular Disorders",
+    "type": "clinical",
+    "difficulty": "medium",
+    "question": "A patient with a perilymph fistula presents with pressure-induced vertigo and fluctuating hearing loss following barotrauma. What is the most likely mechanism and the initial management?",
+    "choices": [
+      "Tear in the oval or round window membranes causing perilymph leak; conservative management with bed rest, head elevation, and avoidance of straining",
+      "Rupture of Reissner's membrane causing endolymph leak; immediate surgical patching via tympanotomy",
+      "Dehiscence of the stapes footplate causing air entry into the vestibule; urgent stapedectomy",
+      "Fistula of the cochlear aqueduct; hyperbaric oxygen therapy"
+    ],
+    "correctIndex": 0,
+    "explanation": "A perilymph fistula (PLF) is an abnormal communication between the perilymphatic space and the middle ear, most commonly through the oval or round window membranes, resulting in perilymph leak. It presents with fluctuating SNHL, tinnitus, aural fullness, and pressure-induced vertigo (Hennebert sign). Common causes include barotrauma, heavy lifting (Valsalva), direct trauma, or may be spontaneous. Initial management is conservative: strict bed rest with head elevation, avoidance of straining/Valsalva, no heavy lifting, and observation for 4-6 weeks. Surgical exploration (tympanotomy with fat or tissue patching of the windows) is reserved for persistent or worsening cases failing conservative management.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 162."
+  },
+  {
+    "id": "OTO-VEST-024",
+    "category": "Vestibular Disorders",
+    "type": "menieres",
+    "difficulty": "medium",
+    "question": "A patient with Meniere's disease undergoes endolymphatic sac decompression surgery. What is the proposed mechanism of benefit, and what are the realistic expected outcomes?",
+    "choices": [
+      "Surgical destruction of the entire endolymphatic sac eliminates endolymph production, curing hydrops",
+      "Decompression of the endolymphatic sac improves reabsorption of endolymph and reduces endolymphatic pressure; vertigo control rates are approximately 60-75% but long-term benefit remains controversial",
+      "The surgery ablates the saccular macula, eliminating the vestibular source of abnormal signals",
+      "Endolymphatic sac decompression consistently improves hearing in addition to controlling vertigo, unlike all other surgical options"
+    ],
+    "correctIndex": 1,
+    "explanation": "Endolymphatic sac decompression (ESD) involves exposing the endolymphatic sac on the posterior fossa dura (accessed via a transmastoid approach) and removing bone around it to theoretically improve endolymph drainage and reabsorption. Vertigo control rates are approximately 60-75% in observational studies, but the procedure remains controversial: a landmark Danish sham-controlled trial (Thomsen et al.) showed no significant difference between ESD and simple mastoidectomy (placebo surgery). It is a hearing-preserving, non-ablative procedure preferred for patients with good ipsilateral hearing who have failed medical management. The debate regarding its efficacy versus placebo effect persists.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 163; Thomsen J et al. Placebo effect in surgery for Meniere's disease. Arch Otolaryngol. 1981."
+  },
+  {
+    "id": "OTO-VEST-025",
+    "category": "Vestibular Disorders",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "A 55-year-old patient has drop attacks (sudden falls without loss of consciousness) associated with Meniere's disease. These attacks are referred to by what eponym, and what is the proposed mechanism?",
+    "choices": [
+      "Lermoyez syndrome; sudden decrease in endolymphatic pressure causing hearing improvement followed by vertigo",
+      "Tumarkin otolithic catastrophe (vestibular drop attacks); sudden deformation of the utricular or saccular macula causing inappropriate activation of the vestibulospinal reflex and sudden loss of postural tone",
+      "Hennebert sign; pressure-induced endolymph displacement through a labyrinthine fistula",
+      "Tullio phenomenon; sound-induced activation of the dehiscent superior canal causing truncal ataxia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tumarkin otolithic catastrophe (vestibular drop attacks) refers to sudden, unexpected falls without loss of consciousness or vertigo, occurring in some patients with Meniere's disease. The proposed mechanism is sudden deformation of the utricular or saccular macula by acute changes in endolymphatic pressure, causing an abrupt, inappropriate activation of the vestibulospinal reflex that makes the patient suddenly feel pushed or thrown to the ground. These episodes are particularly dangerous due to fall-related injuries. Treatment of refractory Tumarkin attacks may require vestibular ablation (intratympanic gentamicin or labyrinthectomy). Lermoyez syndrome (inverse Meniere's) describes paradoxical episodes where tinnitus and hearing loss improve as vertigo begins.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 163; Tumarkin A. Otolithic catastrophe. BMJ. 1936."
+  }
+]

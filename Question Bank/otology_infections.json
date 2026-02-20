@@ -1,0 +1,377 @@
+[
+  {
+    "id": "OTO-INF-001",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_externa",
+    "difficulty": "easy",
+    "question": "What is the most common causative organism in acute otitis externa (swimmer's ear)?",
+    "choices": [
+      "Staphylococcus aureus",
+      "Pseudomonas aeruginosa",
+      "Aspergillus niger",
+      "Candida albicans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pseudomonas aeruginosa is the most common causative organism in acute otitis externa, accounting for approximately 60% of cases. The moist, warm environment of the ear canal following water exposure creates ideal conditions for Pseudomonas colonization. Staphylococcus aureus is the second most common pathogen (~10%). Treatment includes thorough aural toilet, acidifying/drying topical drops (acetic acid), and topical antibiotics (fluoroquinolone-based drops).\n\nReference: Rosenfeld RM et al. Clinical practice guideline: acute otitis externa. Otolaryngol Head Neck Surg. 2014."
+  },
+  {
+    "id": "OTO-INF-002",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_externa",
+    "difficulty": "easy",
+    "question": "A 68-year-old diabetic male presents with severe otalgia, purulent otorrhea, and granulation tissue at the bony-cartilaginous junction of the external auditory canal. The most likely diagnosis is:",
+    "choices": [
+      "Acute otitis externa",
+      "Malignant (necrotizing) otitis externa",
+      "Furunculosis of the ear canal",
+      "Keratosis obturans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Malignant (necrotizing) otitis externa (MOE) classically presents in elderly diabetic or immunocompromised patients with severe otalgia, purulent otorrhea, and pathognomonic granulation tissue at the bony-cartilaginous junction of the EAC floor. Pseudomonas aeruginosa is causative in >95% of cases. Disease progresses to involve adjacent bone (osteomyelitis of the skull base) and cranial nerves (CN VII palsy is most common). CT and Tc-99m bone scan confirm diagnosis; Ga-67 scan monitors treatment response.\n\nReference: Chandler JR. Malignant external otitis. Laryngoscope. 1968."
+  },
+  {
+    "id": "OTO-INF-003",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_externa",
+    "difficulty": "medium",
+    "question": "In malignant otitis externa, which cranial nerve is most commonly affected first, and where does the infection typically spread to involve it?",
+    "choices": [
+      "CN V, via the foramen ovale",
+      "CN VI, via the Dorello canal",
+      "CN VII, via the stylomastoid foramen",
+      "CN IX, via the jugular foramen"
+    ],
+    "correctIndex": 2,
+    "explanation": "CN VII (facial nerve) is the most commonly affected cranial nerve in malignant otitis externa, typically involved at the stylomastoid foramen as infection spreads from the EAC floor into adjacent soft tissue and bone. Facial nerve palsy is an ominous sign indicating skull base osteomyelitis. The order of CN involvement typically follows: VII > IX, X, XI > VI. Mortality correlates with the number of cranial nerves involved.\n\nReference: Kwon BJ et al. MR imaging findings in malignant external otitis. AJNR. 2006."
+  },
+  {
+    "id": "OTO-INF-004",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_externa",
+    "difficulty": "easy",
+    "question": "A patient with acute otitis externa has a perforated tympanic membrane. Which topical antibiotic preparation is the safest choice?",
+    "choices": [
+      "Neomycin/polymyxin B/hydrocortisone (Cortisporin) otic suspension",
+      "Ciprofloxacin/dexamethasone (Ciprodex) otic suspension",
+      "Gentamicin otic drops",
+      "Acetic acid 2% (VoSol) otic solution"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fluoroquinolone-based topical preparations (ciprofloxacin/dexamethasone) are preferred when a TM perforation is present because fluoroquinolones have no known ototoxic potential when applied topically. Aminoglycoside-containing drops (neomycin, gentamicin) and polymyxin B carry a risk of sensorineural hearing loss if they reach the middle ear via the round window membrane. Acetic acid is irritating when in contact with middle ear mucosa.\n\nReference: Roland PS et al. Topical ciprofloxacin/dexamethasone otic suspension. Pediatrics. 2004."
+  },
+  {
+    "id": "OTO-INF-005",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_media",
+    "difficulty": "easy",
+    "question": "Which three organisms account for the vast majority of bacterial acute otitis media cases in children?",
+    "choices": [
+      "Pseudomonas aeruginosa, Staphylococcus aureus, Moraxella catarrhalis",
+      "Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis",
+      "Streptococcus pyogenes, Haemophilus influenzae, Staphylococcus aureus",
+      "Streptococcus pneumoniae, Streptococcus pyogenes, Klebsiella pneumoniae"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classic bacterial triad of acute otitis media (AOM) is Streptococcus pneumoniae (~25-40%), Haemophilus influenzae (~15-30%), and Moraxella catarrhalis (~10-15%). Since the introduction of PCV13, non-typeable H. influenzae has become the leading organism in many series. S. pneumoniae tends to cause the most severe disease with highest complication rates. Viruses (RSV, rhinovirus, influenza) are often co-identified and may precede bacterial AOM.\n\nReference: Lieberthal AS et al. Clinical practice guideline: the diagnosis and management of acute otitis media. Pediatrics. 2013."
+  },
+  {
+    "id": "OTO-INF-006",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_media",
+    "difficulty": "easy",
+    "question": "According to current guidelines, which of the following children with acute otitis media should receive immediate antibiotic therapy rather than observation?",
+    "choices": [
+      "A 3-year-old with mild otalgia for 24 hours and a mildly bulging TM, temperature 37.8°C",
+      "A 2-year-old with severe otalgia and a temperature of 39.2°C",
+      "A 4-year-old with unilateral AOM and mild symptoms for 48 hours",
+      "A 5-year-old with unilateral AOM diagnosed at the clinic, currently afebrile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per the 2013 AAP AOM guidelines, immediate antibiotic therapy is indicated for: (1) children <6 months, (2) severe AOM (severe otalgia, otalgia >48 hours, temperature ≥39°C), (3) bilateral AOM in children 6-23 months, (4) AOM with otorrhea. A 2-year-old with severe otalgia and high fever (39.2°C) meets criteria for immediate treatment. Watchful waiting is appropriate for non-severe unilateral AOM in children ≥2 years. First-line antibiotic: high-dose amoxicillin (80-90 mg/kg/day).\n\nReference: Lieberthal AS et al. Pediatrics. 2013."
+  },
+  {
+    "id": "OTO-INF-007",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_media",
+    "difficulty": "medium",
+    "question": "A 2-year-old child has persistent otitis media with effusion (OME) bilaterally for 4 months with documented bilateral hearing loss of 35 dB HL. What is the most appropriate next step?",
+    "choices": [
+      "Continue watchful waiting for an additional 6 months",
+      "Begin a course of oral corticosteroids",
+      "Refer for tympanostomy tube insertion",
+      "Begin a prolonged course of prophylactic amoxicillin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tympanostomy tube insertion is indicated for bilateral OME persisting ≥3 months with documented hearing loss, or chronic bilateral OME in children at developmental risk. This child has bilateral OME for 4 months with significant bilateral hearing loss (35 dB), meeting clear criteria for tube insertion. Oral steroids and antihistamines are not recommended (no proven benefit, potential harms). Prophylactic antibiotics are not indicated for OME.\n\nReference: Rosenfeld RM et al. Clinical practice guideline: otitis media with effusion. Otolaryngol Head Neck Surg. 2016."
+  },
+  {
+    "id": "OTO-INF-008",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_media",
+    "difficulty": "medium",
+    "question": "A child presents with recurrent acute otitis media defined as 3 episodes in 6 months. On examination, the tympanic membranes are normal with no effusion. Which statement best describes the role of tympanostomy tubes in this scenario?",
+    "choices": [
+      "Tubes are contraindicated because the TMs are normal",
+      "Tubes are indicated and will cure the recurrent AOM permanently",
+      "Tubes may be offered as an option; they reduce AOM episodes while in place but do not alter long-term outcome after extrusion",
+      "Tubes should be placed bilaterally only if adenoidectomy is performed simultaneously"
+    ],
+    "correctIndex": 2,
+    "explanation": "For recurrent AOM (≥3 episodes in 6 months or ≥4 in 12 months with ≥1 in past 6 months), tympanostomy tubes may be offered as an option. Evidence shows tubes reduce AOM rate while in situ but do not alter long-term AOM susceptibility after extrusion; rates return to baseline once tubes fall out. Adenoidectomy at initial tube placement is not recommended in children <4 years without nasal symptoms.\n\nReference: Rosenfeld RM et al. Clinical practice guideline: tympanostomy tubes in children. Otolaryngol Head Neck Surg. 2013."
+  },
+  {
+    "id": "OTO-INF-009",
+    "category": "Ear Infections & Inflammation",
+    "type": "mastoiditis",
+    "difficulty": "easy",
+    "question": "A 4-year-old child presents with post-auricular erythema, swelling, and tenderness with anterior displacement of the auricle following a week of otitis media. CT scan shows opacification of the mastoid air cells with loss of the bony septa (coalescence). What is the diagnosis?",
+    "choices": [
+      "Simple (non-coalescent) mastoiditis",
+      "Coalescent (acute) mastoiditis",
+      "Bezold abscess",
+      "Cholesteatoma with mastoid extension"
+    ],
+    "correctIndex": 1,
+    "explanation": "Coalescent mastoiditis is characterized by destruction of the bony septa between mastoid air cells due to spreading osteitis, seen on CT as opacification with loss of the normal honeycomb architecture. Clinical features include post-auricular swelling, erythema, tenderness, and anterior displacement of the auricle. Simple (non-coalescent) mastoiditis refers to opacification without bony destruction, a common radiologic finding in any AOM. Coalescent mastoiditis requires surgical intervention (cortical mastoidectomy) plus IV antibiotics.\n\nReference: Leskinen K, Jero J. Acute complications of otitis media in adults. Clin Otolaryngol. 2005."
+  },
+  {
+    "id": "OTO-INF-010",
+    "category": "Ear Infections & Inflammation",
+    "type": "mastoiditis",
+    "difficulty": "medium",
+    "question": "A patient with coalescent mastoiditis develops a fluctuant mass in the posterior triangle of the neck below the mastoid tip, with the neck held in lateral flexion to the ipsilateral side. This complication is best described as:",
+    "choices": [
+      "Citelli abscess",
+      "Bezold abscess",
+      "Luc's abscess",
+      "Subperiosteal abscess"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Bezold abscess results when purulent infection from coalescent mastoiditis erodes through the thin inner cortex of the mastoid tip into the sheath of the sternocleidomastoid (SCM) muscle, presenting as a deep neck mass in the posterior triangle. Patients hold their neck in ipsilateral flexion to reduce SCM tension. A Citelli abscess tracks via the digastric muscle into the posterior fossa or occipital region. Luc's abscess is a subperiosteal abscess of the temporal squama (zygomatic root). A subperiosteal abscess occurs posterior to the mastoid cortex causing post-auricular fluctuance.\n\nReference: Osma U et al. The complications of chronic otitis media. J Laryngol Otol. 2000."
+  },
+  {
+    "id": "OTO-INF-011",
+    "category": "Ear Infections & Inflammation",
+    "type": "mastoiditis",
+    "difficulty": "hard",
+    "question": "A 35-year-old male with chronic otitis media presents with retro-orbital pain, diplopia, and ipsilateral abducens nerve palsy along with persistent otorrhea. What is the most likely diagnosis?",
+    "choices": [
+      "Lateral sinus thrombosis with increased intracranial pressure",
+      "Gradenigo syndrome (petrous apicitis)",
+      "Labyrinthitis with cochlear involvement",
+      "Extradural abscess of the middle cranial fossa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gradenigo syndrome is the classic triad of: (1) suppurative otitis media with otorrhea, (2) deep retro-orbital or facial pain (CN V involvement), and (3) ipsilateral CN VI palsy (abducens nerve, causing diplopia). It results from inflammation or abscess at the petrous apex (petrous apicitis), where the abducens nerve is tethered at the Dorello canal. CT/MRI shows petrous apex opacification. Treatment includes prolonged IV antibiotics and surgical drainage.\n\nReference: Chole RA, Donald PJ. Petrous apicitis. Ann Otol Rhinol Laryngol. 1983."
+  },
+  {
+    "id": "OTO-INF-012",
+    "category": "Ear Infections & Inflammation",
+    "type": "mastoiditis",
+    "difficulty": "hard",
+    "question": "A child with AOM develops high fever, headache, and signs of sepsis. MRI reveals thrombosis of the sigmoid sinus with surrounding inflammatory change. Which of the following best describes the appropriate management?",
+    "choices": [
+      "IV antibiotics alone with serial MRI monitoring",
+      "Myringotomy with IV antibiotics; no anticoagulation required",
+      "Mastoidectomy, IV antibiotics, and consideration of anticoagulation",
+      "Emergent neurosurgery for intracranial decompression"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sigmoid (lateral) sinus thrombosis is a serious intracranial complication of AOM/mastoiditis caused by contiguous spread of infection. Management involves: (1) cortical mastoidectomy to expose and decompress the infected sinus, (2) prolonged IV antibiotics, and (3) anticoagulation with heparin/warfarin to prevent propagation of thrombus and reduce the risk of septic emboli. Jugular vein ligation was historically performed but is now rarely needed. Myringotomy alone is inadequate.\n\nReference: Vieira LF et al. Sigmoid sinus thrombosis. Otol Neurotol. 2011."
+  },
+  {
+    "id": "OTO-INF-013",
+    "category": "Ear Infections & Inflammation",
+    "type": "cholesteatoma",
+    "difficulty": "easy",
+    "question": "Which of the following best describes the pathophysiology of a pars flaccida (acquired) cholesteatoma?",
+    "choices": [
+      "Metaplasia of middle ear respiratory epithelium into squamous epithelium following chronic inflammation",
+      "Retraction and invagination of the pars flaccida forming a self-cleaning-impaired keratin-accumulating sac",
+      "Migration of squamous epithelium through a traumatic TM perforation",
+      "Embryonic epithelial rests trapped in the temporal bone during development"
+    ],
+    "correctIndex": 1,
+    "explanation": "The most widely accepted theory for acquired pars flaccida cholesteatoma is the retraction pocket theory: chronic Eustachian tube dysfunction creates negative middle ear pressure, leading to progressive retraction of the pars flaccida (Shrapnell's membrane) into the epitympanum/Prussak's space. The retracted pocket accumulates desquamated keratin and enlarges by progressive bone erosion via osteoclast activation. Congenital cholesteatoma arises from embryonic epithelial rests, presenting as a white mass behind an intact TM.\n\nReference: Jackler RK. The surgical anatomy of cholesteatoma. Otolaryngol Clin North Am. 1993."
+  },
+  {
+    "id": "OTO-INF-014",
+    "category": "Ear Infections & Inflammation",
+    "type": "cholesteatoma",
+    "difficulty": "medium",
+    "question": "A congenital cholesteatoma is found in a 5-year-old child. Which of the following features best distinguishes it from acquired cholesteatoma?",
+    "choices": [
+      "Located in the posterosuperior quadrant of the middle ear",
+      "Presence of a white mass behind an intact tympanic membrane with no history of otitis media, perforation, or otologic surgery",
+      "Rapid bone erosion of the ossicular chain",
+      "Association with Eustachian tube dysfunction and negative middle ear pressure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Congenital cholesteatoma is defined by Levenson's criteria: a white mass medial to an intact, normal tympanic membrane in a patient with no history of recurrent AOM, otorrhea, TM perforation, or prior otologic procedures. It arises from embryonic squamous epithelial cell rests. The most common location is the anterosuperior quadrant of the middle ear near the Eustachian tube orifice. Both types require surgical excision.\n\nReference: Levenson MJ et al. Congenital cholesteatoma of the middle ear in children. Otolaryngol Head Neck Surg. 1986."
+  },
+  {
+    "id": "OTO-INF-015",
+    "category": "Ear Infections & Inflammation",
+    "type": "cholesteatoma",
+    "difficulty": "hard",
+    "question": "During canal wall down mastoidectomy for cholesteatoma, the facial nerve is at greatest risk in which segment and anatomical location?",
+    "choices": [
+      "Labyrinthine segment, at the geniculate ganglion",
+      "Tympanic (horizontal) segment, superior to the oval window beneath the lateral semicircular canal",
+      "Mastoid (vertical) segment, at the stylomastoid foramen",
+      "Tympanic segment, at the cochleariform process"
+    ],
+    "correctIndex": 1,
+    "explanation": "The tympanic (horizontal) segment of the facial nerve runs from the geniculate ganglion posteriorly just superior to the oval window, beneath the lateral semicircular canal. This segment is dehiscent (lacking bony coverage) in up to 55% of temporal bones, making it vulnerable to injury. The most common site of injury during mastoidectomy is the second genu (where the tympanic segment turns inferiorly), just medial to the short process of the incus. Cholesteatoma frequently erodes the bony canal superior to the oval window, placing the facial nerve directly beneath the matrix.\n\nReference: Green JD et al. Facial nerve dehiscences. Ann Otol Rhinol Laryngol. 1994."
+  },
+  {
+    "id": "OTO-INF-016",
+    "category": "Ear Infections & Inflammation",
+    "type": "cholesteatoma",
+    "difficulty": "hard",
+    "question": "A patient with chronic suppurative otitis media and cholesteatoma develops sudden-onset severe vertigo with nausea during gentle syringing of the ear. A positive fistula test (Hennebert sign) is found. What is the most likely underlying complication?",
+    "choices": [
+      "Perilymph fistula of the round window membrane",
+      "Labyrinthine fistula (erosion of the lateral semicircular canal by cholesteatoma)",
+      "Benign paroxysmal positional vertigo triggered by debris mobilization",
+      "Endolymphatic hydrops secondary to chronic middle ear inflammation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Labyrinthine fistula, most commonly involving the lateral semicircular canal (>90% of cases), occurs when cholesteatoma matrix erodes through the bony otic capsule exposing the membranous labyrinth. A positive fistula test (vertigo/nystagmus with pneumatic otoscopy) is pathognomonic. Intraoperative management: cholesteatoma matrix over the fistula should be left in place (matrix preservation technique) rather than removed acutely, to avoid labyrinthitis. CT temporal bone may reveal the bony defect.\n\nReference: Palva T et al. Labyrinthine fistulas. J Laryngol Otol. 1989."
+  },
+  {
+    "id": "OTO-INF-017",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_media",
+    "difficulty": "medium",
+    "question": "Which of the following best characterizes chronic suppurative otitis media (CSOM) with a central (safe) perforation?",
+    "choices": [
+      "Marginal or attic perforation with associated cholesteatoma and risk of intracranial complications",
+      "Persistent TM perforation not involving the annulus, with mucoid otorrhea, typically without cholesteatoma, considered safe",
+      "A dry central perforation that has healed with a thin atrophic scar",
+      "Perforation associated with a retraction pocket of the pars flaccida"
+    ],
+    "correctIndex": 1,
+    "explanation": "CSOM is classically divided into safe (tubotympanic) and unsafe (atticoantral) disease. Safe disease involves a central perforation (not reaching the annulus) with chronic mucopurulent otorrhea, typically involving the pars tensa; it has mucosal disease without cholesteatoma and low risk of serious complications. Unsafe disease involves a marginal or attic perforation, is associated with cholesteatoma, and carries higher risk of intracranial complications (meningitis, brain abscess, sigmoid sinus thrombosis).\n\nReference: Browning GG. The classification of chronic otitis media. Clin Otolaryngol. 1996."
+  },
+  {
+    "id": "OTO-INF-018",
+    "category": "Ear Infections & Inflammation",
+    "type": "mastoiditis",
+    "difficulty": "hard",
+    "question": "A patient with acute mastoiditis develops meningitis. CSF shows WBC 1200/uL (90% neutrophils), protein 180 mg/dL, glucose 25 mg/dL (serum 90 mg/dL). Which route of spread is most likely responsible?",
+    "choices": [
+      "Hematogenous seeding via the internal jugular vein",
+      "Direct extension through the tegmen mastoideum into the posterior cranial fossa",
+      "Direct extension via bone erosion of the tegmen tympani or sigmoid sinus plate, or via venous channels (diploic/emissary veins)",
+      "Extension via the cochlear aqueduct and perilymphatic space"
+    ],
+    "correctIndex": 2,
+    "explanation": "Meningitis is the most common intracranial complication of OM/mastoiditis. The most common routes of spread are: (1) direct bone erosion of the tegmen tympani/mastoideum into the middle or posterior cranial fossa; (2) via thrombophlebitis through diploic veins (valveless venous channels in temporal bone) or emissary veins communicating with dural venous sinuses. Streptococcus pneumoniae is the most common organism. Treatment requires emergent IV antibiotics (ceftriaxone ± vancomycin) plus dexamethasone, and mastoidectomy once stabilized.\n\nReference: Osma U et al. J Laryngol Otol. 2000."
+  },
+  {
+    "id": "OTO-INF-019",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_media",
+    "difficulty": "medium",
+    "question": "A 6-year-old with a known history of recurrent AOM develops acute left facial nerve palsy (House-Brackmann grade IV) during an episode of AOM. The tympanic membrane is intact and bulging. What is the immediate management?",
+    "choices": [
+      "High-dose oral corticosteroids and oral amoxicillin for 10 days",
+      "Urgent myringotomy (and tube placement), IV antibiotics, and CT temporal bone",
+      "Emergent facial nerve decompression via transmastoid approach",
+      "MRI with gadolinium to exclude Bell's palsy before any surgical intervention"
+    ],
+    "correctIndex": 1,
+    "explanation": "Facial nerve palsy complicating AOM is a medical urgency. Immediate myringotomy (with tympanostomy tube) is essential to decompress the middle ear, obtain culture, and facilitate drainage. IV broad-spectrum antibiotics are started immediately. CT temporal bone rules out coalescent mastoiditis or cholesteatoma requiring mastoidectomy. Most cases of AOM-related facial nerve palsy resolve with myringotomy and antibiotics alone without formal nerve decompression. Bell's palsy is a diagnosis of exclusion when AOM is present.\n\nReference: Yetiser S et al. Facial nerve paralysis due to chronic otitis media. Otol Neurotol. 2002."
+  },
+  {
+    "id": "OTO-INF-020",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_externa",
+    "difficulty": "medium",
+    "question": "Which nuclear medicine scan is most useful for monitoring treatment response in malignant otitis externa, and why?",
+    "choices": [
+      "Technetium-99m bone scan, because it normalizes rapidly once infection is controlled",
+      "Gallium-67 citrate scan, because it reflects active inflammation and normalizes with successful treatment",
+      "Indium-111 leukocyte scan, because it identifies the bone marrow compartment involved",
+      "FDG-PET scan, because it provides anatomical localization of the abscess"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tc-99m bone scan is sensitive for diagnosing osteomyelitis but remains positive for months to years even after successful treatment (reflects bone remodeling, not active infection). Gallium-67 citrate scan reflects active inflammation (binds to lactoferrin in neutrophils and bacteria) and normalizes with effective treatment, making it the preferred scan for monitoring response and determining antibiotic duration (6-8 weeks). MRI with gadolinium is now often preferred for initial staging due to superior soft tissue resolution.\n\nReference: Grandis JR et al. Radiologic and clinical staging of malignant external otitis. Ann Otol Rhinol Laryngol. 1995."
+  },
+  {
+    "id": "OTO-INF-021",
+    "category": "Ear Infections & Inflammation",
+    "type": "cholesteatoma",
+    "difficulty": "medium",
+    "question": "What is the most common ossicular erosion pattern caused by cholesteatoma, and what audiologic consequence does it produce?",
+    "choices": [
+      "Erosion of the stapes suprastructure, causing a mixed hearing loss",
+      "Erosion of the long process of the incus, causing a conductive hearing loss of 30-60 dB",
+      "Erosion of the malleus handle, causing a 60 dB conductive hearing loss",
+      "Erosion of the footplate of the stapes, causing a profound sensorineural hearing loss"
+    ],
+    "correctIndex": 1,
+    "explanation": "The long process of the incus is the most commonly eroded ossicular structure in cholesteatoma. Its blood supply is tenuous (end-arteries from the posterior incudal ligament), making it particularly vulnerable to ischemic necrosis. Erosion of the incus long process creates incudostapedial joint discontinuity, resulting in a conductive hearing loss of 30-60 dB. The stapes suprastructure is eroded less commonly; if present with an intact TM, the cholesteatoma may paradoxically maintain sound transmission.\n\nReference: Jackler RK. A unified theory of the anatomy of cholesteatoma. Am J Otol. 1995."
+  },
+  {
+    "id": "OTO-INF-022",
+    "category": "Ear Infections & Inflammation",
+    "type": "mastoiditis",
+    "difficulty": "hard",
+    "question": "A patient presents with signs of an extradural abscess complicating chronic suppurative otitis media. Which of the following is the most appropriate surgical approach for drainage?",
+    "choices": [
+      "Burr hole craniotomy by neurosurgery alone",
+      "Canal wall down mastoidectomy with removal of the overlying tegmen plate to expose and drain the abscess",
+      "Lumbar drain placement and prolonged IV antibiotics",
+      "Transtympanic drainage with tympanostomy tube insertion"
+    ],
+    "correctIndex": 1,
+    "explanation": "An extradural abscess complicating otitis media forms between the dura and the inner surface of the temporal bone. Treatment requires mastoidectomy to clear the mastoid infection, remove the eroded bone (tegmen plate), and drain the extradural collection. Simply placing a burr hole craniotomy without addressing the underlying otologic source will lead to recurrence. IV antibiotics alone are insufficient. The otologist must address the source; neurosurgery assists if the abscess extends significantly intracranially.\n\nReference: Kangsanarak J et al. Extracranial and intracranial complications of suppurative otitis media. J Laryngol Otol. 1993."
+  },
+  {
+    "id": "OTO-INF-023",
+    "category": "Ear Infections & Inflammation",
+    "type": "otitis_media",
+    "difficulty": "easy",
+    "question": "Which of the following is the first-line antibiotic for acute otitis media in a non-penicillin-allergic child?",
+    "choices": [
+      "Azithromycin",
+      "Amoxicillin at high dose (80-90 mg/kg/day)",
+      "Trimethoprim-sulfamethoxazole",
+      "Cephalexin"
+    ],
+    "correctIndex": 1,
+    "explanation": "High-dose amoxicillin (80-90 mg/kg/day divided BID or TID) remains the first-line agent for AOM in non-penicillin-allergic children per AAP 2013 guidelines. The high dose achieves middle ear fluid concentrations sufficient to overcome intermediate penicillin-resistant S. pneumoniae. Amoxicillin-clavulanate is indicated when beta-lactamase-producing organisms are suspected. Azithromycin has poor activity against S. pneumoniae and high resistance rates; it is reserved for severe penicillin allergy.\n\nReference: Lieberthal AS et al. Pediatrics. 2013."
+  },
+  {
+    "id": "OTO-INF-024",
+    "category": "Ear Infections & Inflammation",
+    "type": "clinical",
+    "difficulty": "medium",
+    "question": "A 55-year-old otherwise healthy male presents with 3 weeks of progressive left otalgia, otorrhea, and hearing loss. Examination reveals granulation tissue filling the left EAC. Blood glucose is 185 mg/dL. CT shows early erosion of the tympanic plate. What is the most appropriate initial systemic antibiotic regimen?",
+    "choices": [
+      "Oral amoxicillin-clavulanate for 2 weeks",
+      "IV vancomycin targeting MRSA",
+      "Oral ciprofloxacin 750 mg twice daily for 6-8 weeks",
+      "IV ceftriaxone for 4 weeks followed by oral amoxicillin"
+    ],
+    "correctIndex": 2,
+    "explanation": "This presentation is classic for malignant otitis externa (MOE): immunocompromised host (newly identified diabetes), granulation tissue in EAC, severe otalgia, and CT evidence of bony erosion. Pseudomonas aeruginosa is causative in >95% of cases. Oral ciprofloxacin (750 mg PO BID) is the preferred first-line agent due to excellent oral bioavailability, excellent antipseudomonal activity, and ability to achieve therapeutic bone concentrations. Duration is 6-8 weeks, guided by clinical response and serial Ga-67 scanning. Concurrent diabetic management is critical.\n\nReference: Rubin Grandis J et al. Necrotizing (malignant) external otitis. Medicine. 2004."
+  },
+  {
+    "id": "OTO-INF-025",
+    "category": "Ear Infections & Inflammation",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "During canal wall up (intact canal wall) tympanomastoidectomy for cholesteatoma, which factor most strongly supports performing a mandatory second-look procedure at 9-12 months?",
+    "choices": [
+      "Patient age greater than 50 years",
+      "Cholesteatoma confined to the epitympanum without ossicular involvement",
+      "Inability to achieve complete matrix removal, or extensive disease involving critical structures where residual disease cannot be excluded",
+      "Contralateral ear with normal hearing and no cholesteatoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Canal wall up (CWU) surgery preserves the posterior bony canal wall but has a risk of residual cholesteatoma (15-40%) that is hidden from otoscopic view. A planned second-look at 9-12 months is most strongly indicated when complete matrix removal was uncertain intraoperatively (e.g., disease abutting the facial nerve, labyrinthine fistula, inaccessible sinus tympani). Non-echo-planar diffusion-weighted MRI (DW-MRI) is increasingly used to detect residual cholesteatoma (minimum detectable size ~5 mm) non-invasively and may reduce the need for routine second-look in selected patients.\n\nReference: Syms MJ, Luxford WM. Management of cholesteatoma. Laryngoscope. 2003."
+  }
+]

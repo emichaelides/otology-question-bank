@@ -1,0 +1,377 @@
+[
+  {
+    "id": "OTO-AUD-001",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "easy",
+    "question": "On a pure tone audiogram, the pure tone average (PTA) is calculated using thresholds at which frequencies?",
+    "choices": [
+      "500 Hz, 1000 Hz, and 2000 Hz",
+      "1000 Hz, 2000 Hz, and 4000 Hz",
+      "500 Hz, 1000 Hz, 2000 Hz, and 4000 Hz",
+      "250 Hz, 500 Hz, and 1000 Hz"
+    ],
+    "correctIndex": 0,
+    "explanation": "The pure tone average (PTA) is the arithmetic mean of air-conduction thresholds at 500 Hz, 1000 Hz, and 2000 Hz. These three frequencies fall within the critical range for speech understanding (the speech banana). The PTA should correlate within 6-10 dB of the speech reception threshold (SRT); a larger discrepancy suggests pseudohypacusis or non-organic hearing loss. Some audiologists also compute a four-frequency PTA (500, 1000, 2000, 4000 Hz) for medicolegal or occupational purposes, but the traditional clinical PTA remains the three-frequency average.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 3."
+  },
+  {
+    "id": "OTO-AUD-002",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "easy",
+    "question": "A patient's audiogram shows air-conduction thresholds of 45 dB HL and bone-conduction thresholds of 10 dB HL at the same frequencies. What type of hearing loss does this represent?",
+    "choices": [
+      "Sensorineural hearing loss",
+      "Conductive hearing loss",
+      "Mixed hearing loss",
+      "Central auditory processing disorder"
+    ],
+    "correctIndex": 1,
+    "explanation": "When air-conduction (AC) thresholds are significantly elevated but bone-conduction (BC) thresholds are normal (within 0-15 dB HL), the pattern represents a conductive hearing loss. The air-bone gap (ABG) in this case is 35 dB. Conductive losses result from dysfunction in the outer or middle ear (e.g., cerumen impaction, otitis media with effusion, otosclerosis, ossicular discontinuity). The cochlea and retrocochlear pathway are intact, as evidenced by normal BC thresholds. Sensorineural hearing loss shows both AC and BC thresholds elevated with no significant ABG. Mixed hearing loss shows elevated BC thresholds with an additional ABG.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-AUD-003",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "medium",
+    "question": "A 45-year-old patient with known otosclerosis undergoes pure tone audiometry. At which frequency is a Carhart notch classically observed on bone conduction testing?",
+    "choices": [
+      "500 Hz",
+      "1000 Hz",
+      "2000 Hz",
+      "4000 Hz"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Carhart notch is a characteristic depression in bone-conduction thresholds at 2000 Hz (typically 5-15 dB greater loss than at adjacent frequencies) seen in otosclerosis. It was described by Raymond Carhart and is a mechanical artifact, not a true sensorineural component. The stapes fixation in otosclerosis alters the inertial and compressional bone conduction pathways, producing this notch. Importantly, the Carhart notch resolves after successful stapedectomy, confirming its mechanical (not cochlear) origin.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 144 (Otosclerosis)."
+  },
+  {
+    "id": "OTO-AUD-004",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "easy",
+    "question": "Speech reception threshold (SRT) should correlate within how many decibels of the pure tone average (PTA) to be considered valid?",
+    "choices": [
+      "2 dB",
+      "6 dB",
+      "10 dB",
+      "15 dB"
+    ],
+    "correctIndex": 1,
+    "explanation": "A valid SRT should agree within plus or minus 6 dB of the three-frequency PTA (500, 1000, 2000 Hz). The SRT is the lowest level at which a patient correctly identifies 50% of spondee words. When the SRT-PTA discrepancy exceeds 6-10 dB, non-organic (functional or pseudohypacusic) hearing loss should be suspected. In steeply sloping audiograms, the SRT may correlate better with the best two-frequency average rather than the three-frequency PTA.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 11 (Speech Audiometry)."
+  },
+  {
+    "id": "OTO-AUD-005",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "medium",
+    "question": "A patient's word recognition score (WRS) is 44% at a comfortable listening level. How would this score be classified?",
+    "choices": [
+      "Normal (90-100%)",
+      "Slight difficulty (76-88%)",
+      "Moderate difficulty (60-76%)",
+      "Very poor (below 50%)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Word recognition scores (WRS) are classified as: Excellent 90-100%, Good 78-88%, Fair 66-76%, Poor 54-64%, and Very Poor below 50%. A WRS of 44% indicates very poor word recognition, suggesting significant retrocochlear or severe cochlear pathology. The WRS is obtained using phonetically balanced (PB) word lists (e.g., NU-6, CID W-22) presented at a suprathreshold level. Rollover, where WRS decreases at higher presentation levels, is a key indicator of retrocochlear pathology such as acoustic neuroma.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 11."
+  },
+  {
+    "id": "OTO-AUD-006",
+    "category": "Audiology",
+    "type": "tympanometry",
+    "difficulty": "easy",
+    "question": "A tympanogram shows a peak compliance at 0 daPa with normal peak height and normal ear canal volume. Which tympanogram type is this?",
+    "choices": [
+      "Type B",
+      "Type C",
+      "Type As",
+      "Type A"
+    ],
+    "correctIndex": 3,
+    "explanation": "A Type A tympanogram shows a peak of normal compliance (0.3-1.6 mL) at or near 0 daPa, indicating normal middle ear pressure and normal tympanic membrane mobility. Type As (shallow) indicates reduced compliance (e.g., otosclerosis, malleus fixation). Type Ad (deep) indicates hypercompliance (e.g., ossicular discontinuity, flaccid TM). Type B (flat) indicates no peak, seen in effusion or perforation. Type C shows a peak at negative pressures (below -100 daPa), indicating Eustachian tube dysfunction.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133."
+  },
+  {
+    "id": "OTO-AUD-007",
+    "category": "Audiology",
+    "type": "tympanometry",
+    "difficulty": "medium",
+    "question": "A Type B tympanogram is obtained with a large ear canal volume (3.5 mL in an adult). What is the most likely diagnosis?",
+    "choices": [
+      "Otitis media with effusion",
+      "Tympanic membrane perforation",
+      "Otosclerosis",
+      "Eustachian tube dysfunction"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Type B (flat) tympanogram with a large ear canal volume (greater than 2.0 mL in adults) strongly suggests a tympanic membrane perforation or patent tympanostomy tube. The probe measures the combined volume of the ear canal plus the middle ear space, explaining the large ECV. In contrast, a Type B with normal ECV suggests middle ear effusion, where fluid dampens tympanic membrane movement but ECV is normal. This distinction is clinically critical: ordering a myringotomy for a Type B with large ECV could cause unnecessary harm if perforation is already present.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 9 (Tympanometry)."
+  },
+  {
+    "id": "OTO-AUD-008",
+    "category": "Audiology",
+    "type": "tympanometry",
+    "difficulty": "medium",
+    "question": "Acoustic reflex thresholds are measured at 1000 Hz. In a patient with a unilateral left acoustic neuroma, which reflex pattern is most expected?",
+    "choices": [
+      "Absent reflexes when probe is in the left ear; present when probe is in the right ear",
+      "Absent contralateral reflex when probe is in the right ear and stimulus is in the left ear; ipsilateral right reflex present",
+      "Absent all four reflexes bilaterally",
+      "Present all four reflexes bilaterally"
+    ],
+    "correctIndex": 1,
+    "explanation": "The acoustic reflex arc involves: stimulus ear cochlea → CN VIII → cochlear nucleus → superior olivary complex → bilateral facial nerve motor neurons → bilateral stapedius muscles. A left acoustic neuroma disrupts left CN VIII (the afferent limb). With the probe in the right ear and the stimulus in the left ear, the contralateral reflex is absent because the afferent limb is disrupted. However, the ipsilateral right reflex remains present because the right CN VIII and right CN VII are intact. The key pattern for a retrocochlear lesion: absent contralateral reflex when stimulating the affected ear.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133; Katz, Chapter 10."
+  },
+  {
+    "id": "OTO-AUD-009",
+    "category": "Audiology",
+    "type": "tympanometry",
+    "difficulty": "hard",
+    "question": "Acoustic reflex decay testing is performed at 500 Hz and 1000 Hz for 10 seconds at 10 dB above reflex threshold. A positive (abnormal) decay test shows amplitude reduction of what percentage within the 10-second period?",
+    "choices": [
+      "10% or more",
+      "25% or more",
+      "50% or more",
+      "75% or more"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acoustic reflex decay is considered positive (abnormal) when the reflex amplitude decreases to 50% or less of its initial amplitude within 5-10 seconds of continuous stimulation at 10 dB above the reflex threshold. Abnormal reflex decay is highly suggestive of retrocochlear pathology, particularly acoustic neuroma or demyelinating disease. The test exploits neural adaptation: normal cochlear neurons sustain firing, but compressed or demyelinated auditory nerve fibers fatigue rapidly. The test has a sensitivity of approximately 60-80% and specificity of approximately 85% for acoustic neuroma detection.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 10 (Acoustic Reflex)."
+  },
+  {
+    "id": "OTO-AUD-010",
+    "category": "Audiology",
+    "type": "electrophysiology",
+    "difficulty": "medium",
+    "question": "In auditory brainstem response (ABR) testing, which wave represents the cochlear nerve (CN VIII) compound action potential?",
+    "choices": [
+      "Wave I",
+      "Wave II",
+      "Wave III",
+      "Wave V"
+    ],
+    "correctIndex": 0,
+    "explanation": "ABR Wave I represents the distal portion of CN VIII (the cochlear nerve compound action potential). The neural generator sources are: Wave I = distal CN VIII; Wave II = proximal CN VIII/cochlear nucleus entry zone; Wave III = cochlear nucleus/superior olivary complex; Wave IV = lateral lemniscus; Wave V = inferior colliculus (most clinically important, last to disappear with increasing hearing loss). The I-V interpeak latency (normally ~4.0 ms) is the most diagnostically useful measurement for retrocochlear pathology.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 134 (ABR)."
+  },
+  {
+    "id": "OTO-AUD-011",
+    "category": "Audiology",
+    "type": "electrophysiology",
+    "difficulty": "medium",
+    "question": "In click-ABR testing, an absolute latency of Wave V of 6.8 ms (normal up to 5.7 ms) is found with a normal Wave I latency. What does this prolonged I-V interpeak latency most suggest?",
+    "choices": [
+      "Conductive hearing loss causing peripheral delay",
+      "Cochlear (sensory) hearing loss",
+      "Retrocochlear pathology affecting central auditory conduction",
+      "Absent cochlear nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "The I-V interpeak latency (IPL) reflects central auditory conduction time from the distal CN VIII through the brainstem to the inferior colliculus. Normal I-V IPL is approximately 4.0 ms (range 3.5-4.5 ms). When Wave I is present with normal absolute latency but Wave V is delayed, the I-V IPL is prolonged, indicating slowed conduction within the auditory brainstem pathway. This is characteristic of retrocochlear pathology such as acoustic neuroma or brainstem demyelination. Peripheral hearing loss delays all waves proportionally, preserving interpeak latencies. The I-V IPL is the most sensitive ABR measure for acoustic neuroma, with sensitivity approaching 90-95% for tumors greater than 1 cm.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 134; Katz, Chapter 21."
+  },
+  {
+    "id": "OTO-AUD-012",
+    "category": "Audiology",
+    "type": "electrophysiology",
+    "difficulty": "hard",
+    "question": "A child presents with profound hearing loss. ABR testing shows absent click-ABR responses, but robust distortion product otoacoustic emissions (DPOAEs) are present. Acoustic reflexes are absent. Which diagnosis best explains this pattern?",
+    "choices": [
+      "Cochlear hearing loss (severe-to-profound SNHL)",
+      "Auditory neuropathy spectrum disorder (ANSD)",
+      "Central auditory processing disorder",
+      "Pseudohypacusis (non-organic hearing loss)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Auditory neuropathy spectrum disorder (ANSD) is characterized by: (1) present OAEs indicating intact outer hair cell function, (2) absent or severely abnormal ABR indicating disrupted neural synchrony at the inner hair cell-cochlear nerve synapse or CN VIII, and (3) absent acoustic reflexes. The site of lesion may be the inner hair cells, synaptic junction (e.g., OTOF gene mutation — most common genetic cause of ANSD), CN VIII, or auditory brainstem. Cochlear implantation shows excellent outcomes particularly for OTOF mutations. ANSD must be distinguished from cochlear loss where both OAEs and ABR are absent.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 192; Katz, Chapter 22."
+  },
+  {
+    "id": "OTO-AUD-013",
+    "category": "Audiology",
+    "type": "electrophysiology",
+    "difficulty": "hard",
+    "question": "During electrocochleography (ECoG), an elevated summating potential to action potential (SP/AP) ratio is most associated with which condition?",
+    "choices": [
+      "Acoustic neuroma",
+      "Noise-induced hearing loss",
+      "Endolymphatic hydrops (Meniere's disease)",
+      "Otosclerosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "An elevated SP/AP amplitude ratio (greater than 0.45 with transtympanic recording) is associated with endolymphatic hydrops, the underlying pathophysiology of Meniere's disease. The enlarged SP likely reflects distorted basilar membrane mechanics caused by excess endolymph. ECoG has a sensitivity of approximately 60-70% and specificity of 75-85% for Meniere's disease. It can also be used intraoperatively to monitor cochlear function. An increased SP width may also be used as a hydrops indicator.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 163 (Meniere's Disease); Katz, Chapter 23."
+  },
+  {
+    "id": "OTO-AUD-014",
+    "category": "Audiology",
+    "type": "electrophysiology",
+    "difficulty": "medium",
+    "question": "Transient evoked otoacoustic emissions (TEOAEs) are generated primarily by which cochlear structure?",
+    "choices": [
+      "Inner hair cells",
+      "Outer hair cells",
+      "Stria vascularis",
+      "Spiral ganglion neurons"
+    ],
+    "correctIndex": 1,
+    "explanation": "Otoacoustic emissions (OAEs) are sounds generated by the active electromotility of outer hair cells (OHCs) within the cochlea. OHCs contain the motor protein prestin, enabling them to amplify basilar membrane motion. TEOAEs are absent when OHC dysfunction is present (cochlear hearing loss greater than 30-40 dB HL) but are present when inner hair cells or auditory nerve function is disrupted (as in ANSD). OAEs are used in newborn hearing screening, ototoxicity monitoring, and differentiating cochlear from retrocochlear pathology.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 133; Katz, Chapter 19."
+  },
+  {
+    "id": "OTO-AUD-015",
+    "category": "Audiology",
+    "type": "electrophysiology",
+    "difficulty": "medium",
+    "question": "Distortion product otoacoustic emissions (DPOAEs) are generated when two pure tones (f1 and f2) are presented simultaneously. At which frequency is the primary DPOAE measured clinically?",
+    "choices": [
+      "f2 minus f1",
+      "f1 plus f2",
+      "2f1 minus f2",
+      "2f2 minus f1"
+    ],
+    "correctIndex": 2,
+    "explanation": "When two primary tones f1 and f2 are presented (f2/f1 ratio typically 1.2-1.22), the nonlinear properties of outer hair cell electromotility generate the cubic difference tone at 2f1 minus f2 — the strongest and clinically most useful DPOAE. For example, if f1 = 1000 Hz and f2 = 1220 Hz, the primary DPOAE is at 780 Hz. DPOAEs provide frequency-specific information about OHC function and can detect cochlear dysfunction before threshold shifts appear on pure tone audiometry. A DPOAE signal-to-noise ratio of 6 dB or more is generally considered a present response.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 19."
+  },
+  {
+    "id": "OTO-AUD-016",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "medium",
+    "question": "A 35-year-old factory worker's audiogram shows bilateral symmetric notching at 4000 Hz with recovery at 8000 Hz. Which type of hearing loss does this pattern represent?",
+    "choices": [
+      "Presbycusis",
+      "Noise-induced hearing loss",
+      "Sudden sensorineural hearing loss",
+      "Autoimmune inner ear disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classic audiometric signature of noise-induced hearing loss (NIHL) is a bilateral, symmetric SNHL with a notch at 4000 Hz (sometimes 3000-6000 Hz), with relative recovery at 8000 Hz. The 4 kHz notch occurs because this cochlear region is particularly vulnerable to acoustic trauma, partly due to the external ear canal resonance boosting sound at 2-4 kHz. Presbycusis shows a sloping high-frequency loss without a notch and without 8 kHz recovery. NIOSH permissible noise exposure: 85 dBA for 8 hours with a 3 dB exchange rate.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 152 (Noise-Induced Hearing Loss)."
+  },
+  {
+    "id": "OTO-AUD-017",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "hard",
+    "question": "The Stenger test is used to diagnose pseudohypacusis in patients claiming unilateral hearing loss. The test is based on which acoustic principle?",
+    "choices": [
+      "Binaural fusion: the brain combines inputs from both ears into a single percept",
+      "Binaural summation: stimuli presented to both ears are perceived as louder than monaural stimuli",
+      "The Stenger effect: when the same tone is presented to both ears simultaneously, only the louder one is consciously perceived",
+      "Masking level difference: speech is better understood when noise is in the opposite ear"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Stenger test exploits the Stenger effect: when the same frequency tone is presented simultaneously to both ears, only the tone perceived as louder is consciously detected. A tone is presented to the good ear at 10 dB above threshold (audible), and simultaneously to the bad ear at 10 dB below the claimed threshold. If the hearing loss is feigned, the tone in the bad ear is actually audible and perceived as louder, causing the patient to give no response — a positive Stenger result confirming non-organic hearing loss.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 24 (Pseudohypacusis)."
+  },
+  {
+    "id": "OTO-AUD-018",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "hard",
+    "question": "During masking in pure tone audiometry, the masking dilemma occurs in which clinical situation?",
+    "choices": [
+      "When bilateral symmetric sensorineural hearing loss exceeds 60 dB HL",
+      "When the air-bone gap in the non-test ear is large enough that masking noise crosses over and masks the test ear via bone conduction",
+      "When OAEs are absent bilaterally and ABR must be used instead of behavioral audiometry",
+      "When the interaural attenuation exceeds 40 dB and masking is unnecessary"
+    ],
+    "correctIndex": 1,
+    "explanation": "The masking dilemma arises when the air-bone gap in the non-test ear is so large that any masking noise introduced crosses over via bone conduction to mask the test ear. Insufficient masking allows the non-test ear to participate (undermasking), but sufficient masking overloads the test ear (overmasking). This is particularly common during bone conduction testing, where interaural attenuation is essentially 0 dB. Solutions include using insert earphones (which increase interaural attenuation to ~70-80 dB) or relying on objective tests (ABR, ASSR).\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 7 (Masking)."
+  },
+  {
+    "id": "OTO-AUD-019",
+    "category": "Audiology",
+    "type": "electrophysiology",
+    "difficulty": "hard",
+    "question": "Auditory steady-state response (ASSR) testing is most advantageous over click-ABR in which clinical scenario?",
+    "choices": [
+      "Diagnosing acoustic neuroma in adults with retrocochlear suspicion",
+      "Estimating frequency-specific hearing thresholds in infants with severe-to-profound hearing loss",
+      "Intraoperative monitoring during vestibular schwannoma surgery",
+      "Confirming normal hearing in adults with suspected pseudohypacusis"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ASSR's primary clinical advantage over click-ABR is the ability to provide frequency-specific (250-8000 Hz) threshold estimates, particularly valuable in infants with severe-to-profound hearing loss who cannot undergo behavioral audiometry. Click-ABR provides threshold estimates dominated by the 2-4 kHz region with limited low-frequency information. ASSR is also useful above 80 dB nHL where click-ABR Wave V may be absent. ASSR thresholds correlate well with behavioral thresholds (within 10-20 dB) and are used to guide hearing aid fitting in infants.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 192; Katz, Chapter 22."
+  },
+  {
+    "id": "OTO-AUD-020",
+    "category": "Audiology",
+    "type": "tympanometry",
+    "difficulty": "easy",
+    "question": "A Type As tympanogram (shallow/reduced compliance peak) is most consistent with which condition?",
+    "choices": [
+      "Early otosclerosis with stapes fixation",
+      "Tympanic membrane perforation",
+      "Ossicular chain discontinuity",
+      "Otitis media with effusion"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Type As tympanogram (peak compliance less than 0.3 mL) indicates reduced tympanic membrane mobility. In early otosclerosis, stapes fixation limits the movement of the ossicular chain and TM, producing a Type As pattern. Acoustic reflexes may be present initially but become absent as stapes fixation progresses; the Carhart notch on bone conduction is also seen. Ossicular discontinuity produces a Type Ad (hypercompliant) tympanogram because the TM moves freely without the ossicular load. Recognizing Type As in a young adult with conductive hearing loss supports the diagnosis of otosclerosis.\n\nReference: Cummings Otolaryngology, 7th ed., Chapters 133 and 144."
+  },
+  {
+    "id": "OTO-AUD-021",
+    "category": "Audiology",
+    "type": "clinical",
+    "difficulty": "medium",
+    "question": "A 70-year-old man has bilaterally symmetric, gradually sloping high-frequency SNHL worst at 4000-8000 Hz, with word recognition scores disproportionately poor relative to pure tone thresholds, and no significant noise exposure. This pattern is most consistent with which Schuknecht type of presbycusis?",
+    "choices": [
+      "Sensory presbycusis (OHC loss at basal cochlea)",
+      "Neural presbycusis (spiral ganglion neuron loss)",
+      "Strial (metabolic) presbycusis (stria vascularis atrophy)",
+      "Mechanical (cochlear conductive) presbycusis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Neural presbycusis results from loss of spiral ganglion neurons and cochlear nerve fibers, producing disproportionately poor word recognition relative to pure tone thresholds — the patient hears that speech is present but cannot understand it. Sensory presbycusis shows OHC loss at the basal cochlea with a high-frequency slope and relatively preserved early speech discrimination. Strial (metabolic) presbycusis, the most common type, shows a flat audiogram due to stria vascularis atrophy with relatively good speech discrimination because neural elements are preserved.\n\nReference: Cummings Otolaryngology, 7th ed., Chapter 150 (Presbycusis)."
+  },
+  {
+    "id": "OTO-AUD-022",
+    "category": "Audiology",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "Central auditory processing disorder (CAPD) evaluation is being performed. Which test specifically evaluates binaural integration by presenting different speech signals simultaneously to each ear?",
+    "choices": [
+      "Low-pass filtered speech test",
+      "Dichotic digits test",
+      "Gaps-in-noise (GIN) test",
+      "Random gap detection test (RGDT)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dichotic digits test assesses binaural integration by presenting different number sequences simultaneously to each ear, requiring the patient to report all digits from both ears. It evaluates the corpus callosum and auditory cortex ability to integrate competing binaural signals. Patients with corpus callosum lesions show a left ear deficit on dichotic tasks. The filtered speech test assesses auditory closure. The GIN and RGDT tests assess temporal resolution. CAPD evaluation requires a battery of tests, and peripheral hearing loss must be controlled before diagnosis.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapters 29-31 (Central Auditory Processing)."
+  },
+  {
+    "id": "OTO-AUD-023",
+    "category": "Audiology",
+    "type": "audiometry",
+    "difficulty": "easy",
+    "question": "What is the minimum interaural attenuation (IA) value assumed for air-conducted sound when using standard supra-aural (TDH-type) headphones, which determines when masking of the non-test ear is required?",
+    "choices": [
+      "0 dB",
+      "40 dB",
+      "70 dB",
+      "80 dB"
+    ],
+    "correctIndex": 1,
+    "explanation": "Interaural attenuation (IA) for supra-aural (TDH-type) headphones is approximately 40 dB (range 40-70 dB; the conservative minimum of 40 dB is used clinically). For insert earphones, IA is approximately 70-80 dB, making them preferable to reduce crossover risk. For bone-conducted sound, IA is essentially 0 dB, meaning any bone-conducted signal immediately reaches both cochleae. Masking is indicated for air conduction when the AC threshold of the test ear minus 40 dB (the IA) is equal to or better than the best BC threshold of the non-test ear.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 7 (Masking)."
+  },
+  {
+    "id": "OTO-AUD-024",
+    "category": "Audiology",
+    "type": "clinical",
+    "difficulty": "hard",
+    "question": "A newborn fails universal newborn hearing screening (UNHS) OAE testing bilaterally. Diagnostic ABR at 3 months corrected age shows a normal Wave V threshold at 20 dB nHL with click stimuli. What is the most appropriate next step?",
+    "choices": [
+      "Diagnose bilateral sensorineural hearing loss and refer immediately for cochlear implant evaluation",
+      "Reassure parents that the initial OAE failure was a false positive; no further audiologic follow-up is needed",
+      "Perform tone burst ABR and/or ASSR for frequency-specific threshold estimation and retest OAEs to assess for transient middle ear dysfunction",
+      "Immediately fit bilateral hearing aids based on the failed OAE screen alone"
+    ],
+    "correctIndex": 2,
+    "explanation": "When a newborn fails OAE-based UNHS but has a normal click-ABR, several considerations apply. Click-ABR reflects primarily high-frequency (2-4 kHz) hearing; tone burst ABR or ASSR provides frequency-specific thresholds that may reveal a low-frequency hearing loss. The initial OAE failure may have been due to transient middle ear dysfunction (vernix, amniotic fluid, effusion); repeating OAEs helps clarify this. ANSD must also be excluded. JCIH 2019 guidelines recommend completing diagnostic audiologic evaluation by 3 months and fitting amplification if indicated by 6 months (the 1-3-6 model).\n\nReference: JCIH 2019 Position Statement; Cummings Otolaryngology, 7th ed., Chapter 192."
+  },
+  {
+    "id": "OTO-AUD-025",
+    "category": "Audiology",
+    "type": "clinical",
+    "difficulty": "medium",
+    "question": "A patient with bilateral SNHL undergoes rollover testing during speech audiometry. The word recognition score (WRS) is 72% at 70 dB HL but drops to 48% at 90 dB HL. The rollover index (RI) is 0.33. What does this suggest?",
+    "choices": [
+      "The RI of 0.33 exceeds the diagnostic threshold of 0.25, confirming retrocochlear pathology",
+      "The RI of 0.33 is below the traditional threshold of 0.45, but rollover is present and warrants further retrocochlear workup",
+      "Rollover only occurs in cochlear hearing loss and confirms the cochlear site of lesion",
+      "The RI of 0.33 is within normal limits and requires no further investigation"
+    ],
+    "correctIndex": 1,
+    "explanation": "The rollover index (RI) = (PBmax - PBmin) / PBmax = (72 - 48) / 72 = 0.33. An RI ≥0.45 (Jerger and Jerger criterion) is diagnostic of retrocochlear pathology, though many clinics use 0.40 as the cutoff. This patient's RI of 0.33 is below the traditional cutoff but rollover is present and warrants further retrocochlear investigation (MRI with gadolinium of the IACs). Rollover occurs because auditory nerve fibers in retrocochlear lesions have reduced ability to maintain synchronous firing at higher intensities, causing WRS to paradoxically decrease.\n\nReference: Katz J. Handbook of Clinical Audiology, 7th ed., Chapter 11; Cummings Otolaryngology, 7th ed., Chapter 133."
+  }
+]
