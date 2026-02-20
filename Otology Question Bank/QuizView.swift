@@ -79,7 +79,7 @@ struct QuizView: View {
         let progress = Double(answered) / Double(total)
         return VStack(spacing: 6) {
             HStack {
-                Text("Question \(answered + 1) of \(total)")
+                Text("Question \(isAnswered ? answered : answered + 1) of \(total)")
                     .font(.caption)
                     .fontWeight(.semibold)
                     .foregroundStyle(.secondary)
