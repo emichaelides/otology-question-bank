@@ -3,6 +3,7 @@ import SwiftUI
 struct SessionSetupView: View {
     @EnvironmentObject private var engine: QuizEngine
     @Environment(\.dismiss) private var dismiss
+    var onStart: (() -> Void)? = nil
 
     var body: some View {
         NavigationStack {
@@ -21,6 +22,7 @@ struct SessionSetupView: View {
                 ToolbarItem(placement: .primaryAction) {
                     Button("Start Quiz") {
                         engine.startNewSession()
+                        onStart?()
                         dismiss()
                     }
                     .fontWeight(.semibold)

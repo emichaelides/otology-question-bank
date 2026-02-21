@@ -7,6 +7,7 @@ private enum AnswerState {
 
 struct QuizView: View {
     @EnvironmentObject private var engine: QuizEngine
+    @Environment(\.dismiss) private var dismiss
     @AppStorage("hasLaunchedBefore") private var hasLaunchedBefore = false
     @State private var answerState: AnswerState = .unanswered
     @State private var showSummary = false
@@ -30,6 +31,9 @@ struct QuizView: View {
             .navigationTitle("Quiz")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .cancellationAction) {
+                    Button("Home") { dismiss() }
+                }
                 ToolbarItem(placement: .primaryAction) {
                     Button {
                         showSetup = true

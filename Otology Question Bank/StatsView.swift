@@ -5,21 +5,19 @@ struct StatsView: View {
     @State private var showResetConfirm = false
 
     var body: some View {
-        NavigationStack {
-            List {
-                streakSection
-                overallSection
-                categorySection
-                difficultySection
-                resetSection
-            }
-            .navigationTitle("Progress")
-            .confirmationDialog("Reset all stats?", isPresented: $showResetConfirm, titleVisibility: .visible) {
-                Button("Reset", role: .destructive) { engine.resetStats() }
-                Button("Cancel", role: .cancel) {}
-            } message: {
-                Text("This will clear your accuracy history for all questions.")
-            }
+        List {
+            streakSection
+            overallSection
+            categorySection
+            difficultySection
+            resetSection
+        }
+        .navigationTitle("Progress")
+        .confirmationDialog("Reset all stats?", isPresented: $showResetConfirm, titleVisibility: .visible) {
+            Button("Reset", role: .destructive) { engine.resetStats() }
+            Button("Cancel", role: .cancel) {}
+        } message: {
+            Text("This will clear your accuracy history for all questions.")
         }
     }
 

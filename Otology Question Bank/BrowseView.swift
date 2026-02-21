@@ -19,24 +19,22 @@ struct BrowseView: View {
     }
 
     var body: some View {
-        NavigationStack {
-            List {
-                ForEach(categoriesWithQuestions, id: \.category) { section in
-                    Section(header: categoryHeader(section.category, count: section.questions.count)) {
-                        ForEach(section.questions) { question in
-                            BrowseRow(question: question)
-                                .contentShape(Rectangle())
-                                .onTapGesture { selectedQuestion = question }
-                        }
+        List {
+            ForEach(categoriesWithQuestions, id: \.category) { section in
+                Section(header: categoryHeader(section.category, count: section.questions.count)) {
+                    ForEach(section.questions) { question in
+                        BrowseRow(question: question)
+                            .contentShape(Rectangle())
+                            .onTapGesture { selectedQuestion = question }
                     }
                 }
             }
-            .listStyle(.insetGrouped)
-            .navigationTitle("Browse")
-            .searchable(text: $searchText, prompt: "Search questions…")
-            .sheet(item: $selectedQuestion) { question in
-                QuestionDetailView(question: question)
-            }
+        }
+        .listStyle(.insetGrouped)
+        .navigationTitle("Browse")
+        .searchable(text: $searchText, prompt: "Search questions…")
+        .sheet(item: $selectedQuestion) { question in
+            QuestionDetailView(question: question)
         }
     }
 
