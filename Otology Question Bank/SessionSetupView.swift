@@ -7,9 +7,9 @@ struct SessionSetupView: View {
     var body: some View {
         NavigationStack {
             List {
+                lengthSection
                 categoriesSection
                 difficultiesSection
-                lengthSection
                 availableSection
             }
             .navigationTitle("Session Setup")
