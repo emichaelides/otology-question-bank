@@ -189,7 +189,8 @@ final class QuizEngine: ObservableObject {
 
     private func weight(for question: Question) -> Double {
         let entry = stats[question.id] ?? QuestionStats()
-        return max(1.0, Double(entry.attempts - entry.correct) + 1.0)
+        let incorrect = Double(entry.attempts - entry.correct)
+        return incorrect * 3.0 + 1.0
     }
 
     private func persistStats() {
