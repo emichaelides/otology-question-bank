@@ -59,6 +59,7 @@ struct QuizView: View {
                         showSetup = true
                     }
                 }
+                .environmentObject(engine)
             }
             .sheet(isPresented: $showSetup) {
                 SessionSetupView()

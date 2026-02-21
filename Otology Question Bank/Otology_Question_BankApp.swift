@@ -6,12 +6,20 @@
 //
 
 import SwiftUI
+import FirebaseCore
 
 @main
 struct Otology_Question_BankApp: App {
+    @StateObject private var authManager = AuthManager()
+
+    init() {
+        FirebaseApp.configure()
+    }
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(authManager)
         }
     }
 }

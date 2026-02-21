@@ -41,6 +41,11 @@ final class QuizEngine: ObservableObject {
     // MARK: Stats
     @Published private(set) var stats: [String: QuestionStats]
 
+    // MARK: Session timing (not persisted)
+    private(set) var sessionId: String = UUID().uuidString
+    private(set) var sessionStartTime: Date?
+    private var questionStartTime: Date = Date()
+
     // MARK: UserDefaults keys
     private static let statsKey = "questionStats"
     private static let prefsKey = "sessionPrefs"
@@ -113,6 +118,9 @@ final class QuizEngine: ObservableObject {
     // MARK: - Session actions
 
     func answer(index: Int) {
+        let timeSpent = Int(Date().timeIntervalSince(questionStartTime))
+        questionStartTime = Date()
+
         var entry = stats[currentQuestion.id] ?? QuestionStats()
         entry.attempts += 1
         let correct = index == currentQuestion.correctIndex
@@ -128,13 +136,20 @@ final class QuizEngine: ObservableObject {
         stats[currentQuestion.id] = entry
         persistStats()
         persistStreak()
-        sessionEntries.append(SessionEntry(question: currentQuestion, selectedIndex: index))
+        sessionEntries.append(SessionEntry(
+            question: currentQuestion,
+            selectedIndex: index,
+            timeSpentSeconds: timeSpent
+        ))
         if sessionEntries.count >= sessionLength {
             isSessionComplete = true
         }
     }
 
     func startNewSession() {
+        sessionId = UUID().uuidString
+        sessionStartTime = Date()
+        questionStartTime = Date()
         sessionEntries = []
         isSessionComplete = false
         persistPrefs()

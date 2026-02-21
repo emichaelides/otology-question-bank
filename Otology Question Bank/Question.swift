@@ -27,5 +27,6 @@ struct QuestionStats: Codable {
 struct SessionEntry {
     let question: Question
     let selectedIndex: Int
+    let timeSpentSeconds: Int
     var wasCorrect: Bool { selectedIndex == question.correctIndex }
 }

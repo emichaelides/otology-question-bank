@@ -4,6 +4,9 @@ struct SessionSummaryView: View {
     let entries: [SessionEntry]
     let onNewSession: () -> Void
 
+    @EnvironmentObject private var engine: QuizEngine
+    @EnvironmentObject private var authManager: AuthManager
+
     private var correctCount: Int { entries.filter(\.wasCorrect).count }
     private var total: Int { entries.count }
     private var accuracy: Double { total > 0 ? Double(correctCount) / Double(total) : 0 }
@@ -26,6 +29,9 @@ struct SessionSummaryView: View {
                         .fontWeight(.semibold)
                 }
             }
+        }
+        .task {
+            await FirestoreSync.uploadSession(uid: authManager.user?.uid, engine: engine)
         }
     }
 
