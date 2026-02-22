@@ -46,6 +46,9 @@ final class QuizEngine: ObservableObject {
     private(set) var sessionStartTime: Date?
     private var questionStartTime: Date = Date()
 
+    // MARK: Sync status (for debug feedback)
+    @Published var lastSyncMessage: String?
+
     // MARK: UserDefaults keys
     private static let statsKey = "questionStats"
     private static let prefsKey = "sessionPrefs"

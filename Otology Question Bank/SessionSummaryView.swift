@@ -29,9 +29,6 @@ struct SessionSummaryView: View {
                 }
             }
         }
-        .task {
-            await FirestoreSync.uploadSession(engine: engine)
-        }
     }
 
     // MARK: - Score Card
@@ -62,6 +59,12 @@ struct SessionSummaryView: View {
                 statPill(label: "Accuracy", value: "\(Int(accuracy * 100))%")
                 statPill(label: "Correct", value: "\(correctCount)")
                 statPill(label: "Missed", value: "\(total - correctCount)")
+            }
+
+            if let msg = engine.lastSyncMessage {
+                Text(msg)
+                    .font(.caption2)
+                    .foregroundStyle(msg.hasPrefix("Synced") ? Color.green : Color.orange)
             }
         }
         .padding()

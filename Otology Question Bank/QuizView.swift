@@ -173,6 +173,7 @@ struct QuizView: View {
         let isLast = engine.sessionEntries.count >= engine.sessionLength
         return Button {
             if isLast {
+                Task { await FirestoreSync.uploadSession(engine: engine) }
                 showSummary = true
             } else {
                 answerState = .unanswered

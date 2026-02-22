@@ -26,8 +26,14 @@ enum FirestoreSync {
     /// Writes one session document + upserts per-question stats in a single batch.
     /// Gets UID directly from FirebaseAuth — no need to thread it through SwiftUI environment.
     static func uploadSession(engine: QuizEngine) async {
-        guard let uid = Auth.auth().currentUser?.uid,
-              !engine.sessionEntries.isEmpty else { return }
+        let uid = Auth.auth().currentUser?.uid
+        let entryCount = await MainActor.run { engine.sessionEntries.count }
+        guard let uid, entryCount > 0 else {
+            await MainActor.run {
+                engine.lastSyncMessage = "Skipped — uid:\(uid ?? "nil") entries:\(entryCount)"
+            }
+            return
+        }
 
         let batch = db.batch()
         let now = Timestamp(date: Date())
@@ -89,8 +95,11 @@ enum FirestoreSync {
 
         do {
             try await batch.commit()
+            await MainActor.run { engine.lastSyncMessage = "Synced ✓" }
         } catch {
-            print("[FirestoreSync] Batch upload failed: \(error.localizedDescription)")
+            let msg = error.localizedDescription
+            print("[FirestoreSync] Batch upload failed: \(msg)")
+            await MainActor.run { engine.lastSyncMessage = "Sync failed: \(msg)" }
         }
     }
 }

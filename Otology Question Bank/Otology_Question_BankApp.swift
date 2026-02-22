@@ -7,6 +7,7 @@
 
 import SwiftUI
 import FirebaseCore
+import FirebaseFirestore
 
 @main
 struct Otology_Question_BankApp: App {
@@ -14,6 +15,9 @@ struct Otology_Question_BankApp: App {
 
     init() {
         FirebaseApp.configure()
+        let settings = FirestoreSettings()
+        settings.cacheSettings = MemoryCacheSettings()
+        Firestore.firestore().settings = settings
     }
 
     var body: some Scene {
