@@ -83,6 +83,18 @@ struct HomeView: View {
                         )
                     }
                     .buttonStyle(.plain)
+
+                    NavigationLink {
+                        LeaderboardView()
+                    } label: {
+                        HomeActionCard(
+                            title: "Leaderboard",
+                            subtitle: "See how everyone ranks",
+                            icon: "list.number",
+                            color: .purple
+                        )
+                    }
+                    .buttonStyle(.plain)
                 }
                 .padding(.horizontal, 20)
 

@@ -44,12 +44,14 @@ enum FirestoreSync {
         let total = engine.sessionEntries.count
         let accuracy = total > 0 ? Double(correctCount) / Double(total) : 0.0
 
-        // 1. Upsert /users/{uid}
+        // 1. Upsert /users/{uid} — merge aggregate counters for leaderboard
         let userRef = db.collection("users").document(uid)
         batch.setData([
             "displayName": Auth.auth().currentUser?.displayName ?? "Resident",
             "email": Auth.auth().currentUser?.email ?? "",
-            "createdAt": FieldValue.serverTimestamp()
+            "createdAt": FieldValue.serverTimestamp(),
+            "totalAttempts": FieldValue.increment(Int64(total)),
+            "totalCorrect": FieldValue.increment(Int64(correctCount))
         ], forDocument: userRef, merge: true)
 
         // 2. Write /users/{uid}/sessions/{sessionId}
