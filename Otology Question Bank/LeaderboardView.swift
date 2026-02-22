@@ -2,7 +2,7 @@ import SwiftUI
 import FirebaseFirestore
 import FirebaseAuth
 
-struct LeaderboardEntry: Identifiable {
+struct LeaderboardEntry: Identifiable, Hashable {
     let id: String          // uid
     let displayName: String
     let totalAttempts: Int
@@ -17,28 +17,24 @@ struct LeaderboardView: View {
     private let db = Firestore.firestore()
 
     var body: some View {
-        List {
+        List(entries) { entry in
+            let rank = (entries.firstIndex(of: entry) ?? 0) + 1
+            NavigationLink(value: entry) {
+                LeaderboardRow(rank: rank, entry: entry)
+            }
+        }
+        .overlay {
             if isLoading {
-                HStack {
-                    Spacer()
-                    ProgressView()
-                    Spacer()
-                }
-                .listRowBackground(Color.clear)
+                ProgressView()
             } else if entries.isEmpty {
                 Text("No users yet.")
                     .foregroundStyle(.secondary)
-            } else {
-                ForEach(Array(entries.enumerated()), id: \.element.id) { rank, entry in
-                    NavigationLink {
-                        UserStatsView(user: entry)
-                    } label: {
-                        LeaderboardRow(rank: rank + 1, entry: entry)
-                    }
-                }
             }
         }
         .navigationTitle("Leaderboard")
+        .navigationDestination(for: LeaderboardEntry.self) { entry in
+            UserStatsView(user: entry)
+        }
         .task { await loadEntries() }
         .refreshable { await loadEntries() }
     }
