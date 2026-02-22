@@ -6,6 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		FC178BD42F4A81D600B463F5 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = FC178BD32F4A81D600B463F5 /* FirebaseAuth */; };
+		FC178BD62F4A81D600B463F5 /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = FC178BD52F4A81D600B463F5 /* FirebaseCore */; };
+		FC178BD82F4A81D600B463F5 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = FC178BD72F4A81D600B463F5 /* FirebaseFirestore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		FC178B8B2F47FACD00B463F5 /* Otology Question Bank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Otology Question Bank.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -28,6 +34,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC178BD62F4A81D600B463F5 /* FirebaseCore in Frameworks */,
+				FC178BD42F4A81D600B463F5 /* FirebaseAuth in Frameworks */,
+				FC178BD82F4A81D600B463F5 /* FirebaseFirestore in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +81,9 @@
 			);
 			name = "Otology Question Bank";
 			packageProductDependencies = (
+				FC178BD32F4A81D600B463F5 /* FirebaseAuth */,
+				FC178BD52F4A81D600B463F5 /* FirebaseCore */,
+				FC178BD72F4A81D600B463F5 /* FirebaseFirestore */,
 			);
 			productName = "Otology Question Bank";
 			productReference = FC178B8B2F47FACD00B463F5 /* Otology Question Bank.app */;
@@ -101,6 +113,9 @@
 			);
 			mainGroup = FC178B822F47FACD00B463F5;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				FC178BD22F4A81D600B463F5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = FC178B8C2F47FACD00B463F5 /* Products */;
 			projectDirPath = "";
@@ -256,6 +271,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Otology Question Bank/Otology Question Bank.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TXFU265WFT;
@@ -273,6 +290,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.apress.learnc.Otology-Question-Bank";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
@@ -288,6 +306,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Otology Question Bank/Otology Question Bank.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TXFU265WFT;
@@ -305,6 +325,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.apress.learnc.Otology-Question-Bank";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
@@ -337,6 +358,35 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FC178BD22F4A81D600B463F5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.9.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		FC178BD32F4A81D600B463F5 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FC178BD22F4A81D600B463F5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		FC178BD52F4A81D600B463F5 /* FirebaseCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FC178BD22F4A81D600B463F5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCore;
+		};
+		FC178BD72F4A81D600B463F5 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FC178BD22F4A81D600B463F5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = FC178B832F47FACD00B463F5 /* Project object */;
 }
