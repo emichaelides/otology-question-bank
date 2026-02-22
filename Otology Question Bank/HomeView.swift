@@ -1,16 +1,33 @@
 import SwiftUI
+import FirebaseAuth
 
 struct HomeView: View {
     @EnvironmentObject private var engine: QuizEngine
+    @EnvironmentObject private var authManager: AuthManager
     @State private var showSetup = false
     @State private var showQuiz = false
     @State private var sessionStarted = false
+    @State private var showSignOutConfirm = false
 
     var body: some View {
         ZStack {
             Color(.systemGroupedBackground).ignoresSafeArea()
 
             VStack(spacing: 0) {
+                // Account button
+                HStack {
+                    Spacer()
+                    Button {
+                        showSignOutConfirm = true
+                    } label: {
+                        Image(systemName: "person.circle")
+                            .font(.system(size: 22))
+                            .foregroundStyle(.secondary)
+                    }
+                    .padding(.trailing, 20)
+                    .padding(.top, 16)
+                }
+
                 // Header
                 VStack(spacing: 10) {
                     Image(systemName: "ear.fill")
@@ -22,8 +39,13 @@ struct HomeView: View {
                     Text("Board Exam Preparation")
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
+                    if let email = authManager.user?.email {
+                        Text(authManager.user?.displayName ?? email)
+                            .font(.caption)
+                            .foregroundStyle(.tertiary)
+                    }
                 }
-                .padding(.top, 64)
+                .padding(.top, 16)
                 .padding(.bottom, 48)
 
                 // Action cards
@@ -68,6 +90,12 @@ struct HomeView: View {
             }
         }
         .navigationBarHidden(true)
+        .confirmationDialog("Sign Out", isPresented: $showSignOutConfirm, titleVisibility: .visible) {
+            Button("Sign Out", role: .destructive) { try? authManager.signOut() }
+            Button("Cancel", role: .cancel) {}
+        } message: {
+            Text("You'll need to sign in again to sync your progress.")
+        }
         .fullScreenCover(isPresented: $showQuiz) {
             QuizView()
                 .environmentObject(engine)
