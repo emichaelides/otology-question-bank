@@ -44,6 +44,9 @@ struct HomeView: View {
                             .font(.caption)
                             .foregroundStyle(.tertiary)
                     }
+                    Text("v1.0")
+                        .font(.caption2)
+                        .foregroundStyle(.quaternary)
                 }
                 .padding(.top, 16)
                 .padding(.bottom, 48)
