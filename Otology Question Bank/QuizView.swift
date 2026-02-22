@@ -209,6 +209,11 @@ struct QuizView: View {
         guard case .unanswered = answerState else { return }
         engine.answer(index: index)
         answerState = .answered(selectedIndex: index)
+        if index == engine.currentQuestion.correctIndex {
+            SoundFeedback.playCorrect()
+        } else {
+            SoundFeedback.playIncorrect()
+        }
     }
 }
 
