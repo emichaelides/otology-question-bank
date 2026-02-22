@@ -24,9 +24,10 @@ enum FirestoreSync {
     // MARK: - Upload session
 
     /// Writes one session document + upserts per-question stats in a single batch.
-    /// Pass `uid` from `authManager.user?.uid`; no-ops if nil or session is empty.
-    static func uploadSession(uid: String?, engine: QuizEngine) async {
-        guard let uid, !engine.sessionEntries.isEmpty else { return }
+    /// Gets UID directly from FirebaseAuth — no need to thread it through SwiftUI environment.
+    static func uploadSession(engine: QuizEngine) async {
+        guard let uid = Auth.auth().currentUser?.uid,
+              !engine.sessionEntries.isEmpty else { return }
 
         let batch = db.batch()
         let now = Timestamp(date: Date())

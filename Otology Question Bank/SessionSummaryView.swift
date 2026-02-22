@@ -1,12 +1,10 @@
 import SwiftUI
-import FirebaseAuth
 
 struct SessionSummaryView: View {
     let entries: [SessionEntry]
     let onNewSession: () -> Void
 
     @EnvironmentObject private var engine: QuizEngine
-    @EnvironmentObject private var authManager: AuthManager
 
     private var correctCount: Int { entries.filter(\.wasCorrect).count }
     private var total: Int { entries.count }
@@ -32,7 +30,7 @@ struct SessionSummaryView: View {
             }
         }
         .task {
-            await FirestoreSync.uploadSession(uid: authManager.user?.uid, engine: engine)
+            await FirestoreSync.uploadSession(engine: engine)
         }
     }
 
