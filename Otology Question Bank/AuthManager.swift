@@ -1,27 +1,22 @@
 import Foundation
+import Combine
 import FirebaseAuth
 import AuthenticationServices
 import CryptoKit
 
 @MainActor
-final class AuthManager: NSObject, ObservableObject {
-    @Published var user: FirebaseAuth.User? = Auth.auth().currentUser
+final class AuthManager: ObservableObject {
+    @Published var user: FirebaseAuth.User?
 
     private var authStateHandle: AuthStateDidChangeListenerHandle?
     private var currentNonce: String?
 
-    override init() {
-        super.init()
+    init() {
+        user = Auth.auth().currentUser
         authStateHandle = Auth.auth().addStateDidChangeListener { [weak self] _, user in
             Task { @MainActor in
                 self?.user = user
             }
-        }
-    }
-
-    deinit {
-        if let handle = authStateHandle {
-            Auth.auth().removeStateDidChangeListener(handle)
         }
     }
 

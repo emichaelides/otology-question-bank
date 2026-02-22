@@ -1,4 +1,5 @@
 import SwiftUI
+import FirebaseAuth
 
 struct SessionSummaryView: View {
     let entries: [SessionEntry]
